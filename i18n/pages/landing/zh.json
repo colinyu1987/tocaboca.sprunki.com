@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "下載",
+            "url": "/#download"
+          },
+          {
+            "title": "版本",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "常見問題",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "下載 Toca Boca Mod APK，免費解鎖所有內容。安全、無廣告，完整存取所有高級內容。",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "聯絡我們",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK。教育目的的粉絲網站。非 Toca Boca 或 Spin Master 官方網站。",
+      "nav": {
+        "items": [
+          {
+            "title": "下載",
+            "children": [
+              {
+                "title": "立即下載",
+                "url": "/#download"
+              },
+              {
+                "title": "所有版本",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "安裝教學",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "資訊",
+            "children": [
+              {
+                "title": "什麼是 Mod",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "安全性",
+                "url": "/#safety"
+              },
+              {
+                "title": "常見問題",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "隱私權政策",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "服務條款",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "DMCA 版權政策",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

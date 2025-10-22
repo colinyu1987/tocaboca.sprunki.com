@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Toca Boca Mod APK 最新版本下載 2025 - 全部解鎖免費",
+      "description": "下載 Toca Boca Mod APK 最新版本 2025。獲取 Toca Life World 模組，全部解鎖、無限金錢、無限家具、無限禮物。免費下載 Android 版本。",
+      "keywords": "toca boca mod apk, toca boca unlimited, toca boca 無限金錢, toca boca unlimited apk, toca boca 無限全部, toca boca 無限禮物, toca boca 無限家具, toca boca 無限金錢 apk, toca life world mod apk, toca boca apk 下載"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "3-12 歲",
+      "description": "Toca Boca Mod APK，包含無限金錢、家具和禮物。下載 Toca Life World 模組，解鎖所有內容 - 8 個地點、40 多個角色、500 多個物品。適用於 Android 裝置的免費下載。",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Toca Boca Mod APK 下載",
+      "description": "下載 Toca Boca Mod APK，包含無限金錢、家具和禮物。獲取解鎖所有內容的 Toca Life World 模組，適用於 Android。"
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "免費 Toca Boca Mod APK 下載網站。提供解鎖所有內容的 Toca Life World 修改版本。"
+    }
+  },
+  "not-found": {
+    "404_title": "找不到頁面",
+    "404_description": "您尋找的頁面不存在。",
+    "back_home": "返回首頁"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "分享此頁面",
+      "defaultTitle": "Toca Boca Mod APK - 下載最新版本",
+      "defaultDescription": "獲取 Toca Life World 模組，無限金錢、家具和禮物。所有內容免費解鎖",
+      "shareOn": "分享到 {{platform}}",
+      "shareSuccess": "成功分享到 {{platform}}！",
+      "shareFailed": "分享失敗，請重試",
+      "copyLink": "複製連結",
+      "linkCopied": "連結已複製到剪貼簿！",
+      "copyFailed": "複製連結失敗",
+      "share": "分享"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Toca Life World Mod 下載 - 無限金錢、家具和禮物",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "最新版本",
+      "downloadButton": "Toca Boca Mod 下載",
+      "downloadCount": "檔案大小：720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "所有內容已解鎖",
+        "money": "無限金錢",
+        "ads": "無廣告",
+        "free": "免費下載"
+      }
+    },
+    "modVersions": {
+      "title": "可用的 Toca Boca Mod 版本",
+      "subtitle": "不同的 Toca Boca 遊戲，高級內容已解鎖",
+      "downloadButton": "下載",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "主要的 Toca Boca 遊戲，擁有 8 個以上地點和 40 多個角色。所有房屋、家具和物品已解鎖。開放式創意遊戲玩法。",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "主要版本"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "原創烹飪遊戲，所有廚房工具已解鎖。創意食物製作遊戲玩法。",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "烹飪主題"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "增強版烹飪遊戲，更多食材和工具。所有食譜和廚房設備已解鎖。",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "烹飪主題"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "髮型設計遊戲，所有工具和配件已解鎖。多種髮型、顏色和裝飾可用。",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "造型主題"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "醫療模擬，所有工具已解鎖。扮演醫生治療各種病症。所有內容可訪問。",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "醫療主題"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "3-5 歲的簡化版本。基本遊戲玩法，所有功能已解鎖。無廣告介面。",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "3-5 歲"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "探索擁有商店、餐廳和房屋的城鎮。所有地點和角色已解鎖。",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "城鎮主題"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "城市探索遊戲，擁有城市地點。所有建築和車輛可訪問。",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "城市主題"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "醫療中心模擬，所有科室已解鎖。完整的醫院設備可用。",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "醫療主題"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "職場模擬，所有辦公空間已解鎖。專業角色扮演活動。",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "辦公主題"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "寵物照護模擬，所有動物已解鎖。完整的寵物配件和玩具可用。",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "寵物主題"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "自然探索和生態系統建設。所有植物、動物和環境已解鎖。",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "自然主題"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "學校模擬，擁有教室和活動。所有教育內容已解鎖。",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "學校主題"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "趣味捉迷藏遊戲。所有角色和地點已解鎖，適合創意遊戲。",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "趣味主題"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "科學探索遊戲，包含化學元素。所有實驗和工具已解鎖。",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "科學主題"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "植物科學遊戲，包含植物實驗。所有植物、工具和實驗室設備已解鎖。",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "生物主題"
+      }
+    },
+    "whatIsMod": {
+      "title": "什麼是 Toca Boca Mod APK？",
+      "intro": "Toca Boca mod apk 是 Toca Life World 的修改版本，解鎖所有高級內容。獲得全部解鎖的 toca boca，包含無限金錢、無限家具、無限禮物，以及無需付費即可訪問所有功能、角色、地點。",
+      "features": [
+        {
+          "title": "Toca Boca 全部解鎖",
+          "description": "所有房屋、無限家具、角色和配件從安裝開始即可訪問。包含 Toca boca 無限房屋和地點訪問。"
+        },
+        {
+          "title": "移除廣告",
+          "description": "免費官方版本中的廣告已移除。遊戲進行不會受到廣告的中斷。"
+        },
+        {
+          "title": "無限金錢和禮物",
+          "description": "提供無限遊戲內貨幣（硬幣/寶石）和無限禮物。Toca Boca 無限金錢 apk 允許無限制購買物品和自訂。"
+        }
+      ],
+      "difference": "Toca Boca 無限模組提供免費訪問所有內容和無限資源，而官方應用需要應用內購買高級地點、角色和物品。核心遊戲機制保持一致。"
+    },
+    "aboutGame": {
+      "title": "關於 Toca Boca Life World 遊戲",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "Toca Life World 遊戲概覽，顯示色彩繽紛的地點和角色",
+      "company": {
+        "heading": "遊戲開發商",
+        "text": "Toca Boca 是 Spin Master 旗下的兒童應用開發商。該公司成立於 2010 年瑞典，已發布 40 多個應用，全球下載量超過 5 億次。"
+      },
+      "vision": {
+        "heading": "設計理念",
+        "text": "Toca Boca 遊戲採用開放式遊戲設計。遊戲中沒有規則、分數或時間限制。玩家創建自己的敘事，沒有預定義的目標。"
+      },
+      "audience": {
+        "heading": "目標年齡組",
+        "text": "遊戲專為 3-12 歲兒童設計。Toca Life World 特別針對 6-12 歲對角色扮演和模擬遊戲感興趣的兒童。觸控控制專為兒童用戶設計。"
+      },
+      "popularity": {
+        "heading": "遊戲特點",
+        "text": "遊戲採用多樣化的角色設計，避免刻板印象。玩家在與遊戲內容互動方面擁有自由。付費版本不包含廣告。遊戲使用色彩豐富的藝術風格，包含互動元素。"
+      }
+    },
+    "safety": {
+      "title": "安全資訊",
+      "subtitle": "Mod APK 檔案的安全考慮",
+      "importantLabel": "重要：",
+      "bottomNote": "務必從可信來源下載並在安裝前驗證檔案完整性。保持裝置安全軟體更新。",
+      "safe1": {
+        "title": "APK 檔案安全",
+        "description": "修改的 APK 檔案應在安裝前使用防毒軟體掃描。使用可靠的防毒工具驗證檔案完整性。"
+      },
+      "safe2": {
+        "title": "資料收集",
+        "description": "此模組不會在原始應用之外添加額外的資料收集。無需登入即可訪問解鎖的內容。"
+      },
+      "safe3": {
+        "title": "離線功能",
+        "description": "安裝後遊戲可離線運行。遊戲不需要網路連線。原始離線功能保持正常運作。"
+      },
+      "safe4": {
+        "title": "裝置相容性",
+        "description": "在 Android 5.0 及更新版本上測試。效能因裝置規格而異。需要約 150 MB 可用儲存空間。"
+      },
+      "safe5": {
+        "title": "內容分級",
+        "description": "Toca Boca 遊戲專為 3-12 歲設計。模組版本中的內容保持適合年齡。沒有暴力或成人主題。"
+      },
+      "safe6": {
+        "title": "安裝注意事項",
+        "description": "Mod APK 無法與官方版本同時安裝。需要在 Android 設定中啟用「未知來源」。不支援官方更新。"
+      }
+    },
+    "latestVersion": {
+      "title": "Toca Boca Mod 下載 - 最新版本 APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "新增公寓地點",
+          "description": "新公寓建築地點，有 4 層樓和 8 個房間。包含家具和互動物品。"
+        },
+        {
+          "title": "角色新增",
+          "description": "新增 6 個角色，帶有服裝選項和配件。模組版本中所有角色已解鎖。"
+        },
+        {
+          "title": "家具擴展",
+          "description": "新增 100 多件家具：廚房套裝、臥室物品、浴室裝置和客廳家具。"
+        },
+        {
+          "title": "技術更新",
+          "description": "遊戲引擎優化，改善舊裝置上的效能。減少載入時間，包含錯誤修復。"
+        }
+      ],
+      "changelog": {
+        "title": "版本歷史",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "新公寓、6 個角色、100 多件家具"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "2024 年 12 月",
+            "changes": "冬季節日物品和裝飾"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "2024 年 11 月",
+            "changes": "商場地點擴展"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Toca Boca 遊戲特點",
+      "subtitle": "核心遊戲元素",
+      "feature1": {
+        "title": "8 個以上遊戲地點",
+        "description": "多個地點可用：家、學校、購物中心、美食廣場、髮廊、辦公室、公寓等。每個地點包含互動物品。",
+        "keywords": "地點、探索、互動"
+      },
+      "feature2": {
+        "title": "40 多個可玩角色",
+        "description": "40 多個角色，具有各種設計，代表不同年齡、種族和風格。角色外觀、服裝和配件可自訂。",
+        "keywords": "角色、多樣性、自訂"
+      },
+      "feature3": {
+        "title": "開放式遊戲玩法",
+        "description": "遊戲沒有預定義的規則或目標。玩家透過角色扮演機制創建自己的場景和敘事。",
+        "keywords": "創意遊玩、說故事、想像力"
+      },
+      "feature4": {
+        "title": "專為兒童設計",
+        "description": "官方版本專為兒童設計：付費版本中沒有第三方廣告，沒有社群媒體連結。模組版本移除了應用內購買提示。",
+        "keywords": "安全、適合兒童、家長控制"
+      }
+    },
+    "modFeatures": {
+      "title": "Toca Boca Mod APK 功能",
+      "subtitle": "包含無限金錢、家具和禮物",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "Toca Boca 無限模組，所有地點和物品已解鎖",
+      "features": [
+        {
+          "title": "Toca Boca 全部解鎖",
+          "description": "從安裝開始即可訪問所有 8 個地點、40 多個角色、500 多件無限家具和物品。無需應用內購買。",
+          "icon": "unlock"
+        },
+        {
+          "title": "無限金錢和貨幣",
+          "description": "提供無限遊戲內貨幣（硬幣/寶石）。所有物品可無貨幣限制購買。Toca Boca 無限金錢 apk 版本。",
+          "icon": "money"
+        },
+        {
+          "title": "移除廣告",
+          "description": "免費官方版本中的廣告已移除。此修改版本中沒有彈出、影片或橫幅廣告。",
+          "icon": "shield"
+        },
+        {
+          "title": "無限禮物和高級內容",
+          "description": "包含所有高級地點、角色、無限禮物、物品和季節性內容。無需單獨購買 DLC。",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK 與原版對比",
+      "subtitle": "模組版本比較",
+      "featureLabel": "功能",
+      "modVersion": "模組版本",
+      "original": "原版",
+      "swipeHint": "← 滑動查看比較 →",
+      "bottomNote": "模組版本與原版之間的功能比較",
+      "downloadButton": "Toca Boca Mod 下載",
+      "features": [
+        {
+          "feature": "價格",
+          "mod": "100% 免費",
+          "original": "$4.99 + 應用內購買"
+        },
+        {
+          "feature": "所有地點已解鎖",
+          "mod": "是 - 8 個地點",
+          "original": "部分 - 1 個免費，7 個付費"
+        },
+        {
+          "feature": "所有角色可用",
+          "mod": "是 - 40 多個角色",
+          "original": "有限 - 8 個免費角色"
+        },
+        {
+          "feature": "家具和物品",
+          "mod": "所有 500 多個物品免費",
+          "original": "大多數物品需要購買"
+        },
+        {
+          "feature": "遊戲內貨幣",
+          "mod": "無限金錢",
+          "original": "有限，必須購買更多"
+        },
+        {
+          "feature": "廣告",
+          "mod": "無廣告",
+          "original": "免費版本有廣告"
+        },
+        {
+          "feature": "高級內容",
+          "mod": "全部免費包含",
+          "original": "需要付費 DLC"
+        },
+        {
+          "feature": "遊戲更新",
+          "mod": "定期模組更新",
+          "original": "應用程式商店自動更新"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "如何下載 Toca Boca Mod APK",
+      "subtitle": "下載 Toca Boca mod apk 的步驟",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "下載 Toca Boca mod APK 按鈕",
+      "steps": [
+        {
+          "title": "啟用未知來源",
+          "description": "導航至設定 > 安全性 > 未知來源並啟用此選項。此設定允許 Android 從 Google Play 商店以外的來源安裝 APK 檔案。"
+        },
+        {
+          "title": "下載 APK 檔案",
+          "description": "點擊此頁面上的下載按鈕。APK 檔案（720 MB）將下載到您的裝置。在繼續之前等待下載完成。"
+        },
+        {
+          "title": "找到下載的檔案",
+          "description": "開啟裝置的下載資料夾或檢查通知面板。找到名為「TocaBoca_Mod_v1.116.apk」的檔案並點擊開始安裝。"
+        },
+        {
+          "title": "安裝應用程式",
+          "description": "Android 顯示安裝確認畫面。點擊「安裝」並等待安裝過程完成。"
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "如何安裝 Toca Boca Mod APK",
+      "subtitle": "安裝說明",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Toca Boca 模組安裝畫面",
+      "steps": [
+        {
+          "title": "驗證系統需求",
+          "description": "所需規格：Android 5.0 或更高版本、150 MB 可用儲存空間、最少 2 GB RAM。大多數 2018 年或更晚製造的裝置符合這些要求。"
+        },
+        {
+          "title": "移除官方版本",
+          "description": "如果已安裝官方 Toca Boca 應用程式，請在繼續之前將其解除安裝。模組和官方版本無法在同一裝置上共存。"
+        },
+        {
+          "title": "授予安裝權限",
+          "description": "Android 可能在安裝期間請求權限。模組需要儲存訪問權限以儲存遊戲進度。在授予之前檢閱權限請求。"
+        },
+        {
+          "title": "啟動應用程式",
+          "description": "安裝完成後，在主畫面上找到 Toca Boca 圖示。開啟應用程式以訪問所有解鎖的內容。"
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "如何遊玩 Toca Boca",
+      "subtitle": "基本遊戲說明",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Toca Boca 遊戲教學",
+      "basics": [
+        {
+          "title": "選擇地點",
+          "description": "透過世界地圖從 8 個可用地點中選擇。每個地點提供不同的活動設定：家、商場、學校等。模組版本中所有地點已解鎖。"
+        },
+        {
+          "title": "選擇角色",
+          "description": "從角色選單中選擇角色（40 多個可用）。將角色拖入場景。多個角色可以同時活動。透過點擊角色並選擇服裝項目來自訂角色服裝。"
+        },
+        {
+          "title": "使用互動物品",
+          "description": "點擊物品以觸發互動 - 打開冰箱、啟動電器、操作物品。遊戲中的大多數物品都會對玩家輸入做出反應。將物品拖到角色手中使用。"
+        },
+        {
+          "title": "自由遊玩",
+          "description": "沒有任務或目標。玩家透過角色互動和物品操作創建場景。遊戲支援開放式角色扮演活動。"
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Toca Boca Mod APK 螢幕截圖",
+      "subtitle": "遊戲介面範例",
+      "images": [
+        {
+          "title": "地點訪問",
+          "description": "從初始啟動開始即可訪問所有 8 個地點。無需額外解鎖。",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "角色選項",
+          "description": "40 多個角色具有自訂功能。服裝項目和配件已解鎖。",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "房間裝飾",
+          "description": "500 多件家具可用於房間裝飾。模組版本中所有物品均可訪問。",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "互動元素",
+          "description": "互動物品遍布遊戲地點。多個物品對玩家互動做出反應。",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "常見問題疑難排解",
+      "subtitle": "常見問題的解決方案",
+      "bottomNote": "仍然有問題？查看我們的常見問題部分獲取更多協助。",
+      "issue1": {
+        "problem": "安裝失敗或被封鎖",
+        "solution": "確保在設定 > 安全性中啟用了「未知來源」。如果仍被封鎖，請嘗試重新下載，因為檔案可能已損壞。一些防毒應用程式會錯誤地標記模組 - 在安裝期間暫時停用它們。"
+      },
+      "issue2": {
+        "problem": "應用程式持續當機",
+        "solution": "清除應用程式快取：設定 > 應用程式 > Toca Boca > 清除快取。確保至少有 150 MB 可用儲存空間。重新啟動裝置並再試一次。如果可用，更新到最新的模組版本。"
+      },
+      "issue3": {
+        "problem": "並非所有內容都已解鎖",
+        "solution": "驗證您下載的是模組版本（檔案大小應為 720 MB）。從我們的網站刪除並重新安裝。一些地點看起來被鎖定但實際上可以訪問 - 嘗試再次點擊它們。"
+      },
+      "issue4": {
+        "problem": "遊戲無法開啟",
+        "solution": "檢查 Android 版本（需要 5.0+）。如果已安裝官方 Toca Boca，請解除安裝。重新安裝模組 APK。如果問題仍然存在，您的裝置可能不相容 - 嘗試在不同的裝置上。"
+      },
+      "issue5": {
+        "problem": "進度未儲存",
+        "solution": "授予儲存權限：設定 > 應用程式 > Toca Boca > 權限 > 儲存。確保有足夠的儲存空間可用。避免在遊玩時強制關閉應用程式。"
+      },
+      "issue6": {
+        "problem": "效能緩慢或延遲",
+        "solution": "關閉其他正在執行的應用程式以釋放 RAM。降低裝置螢幕亮度。定期清除快取。模組已優化，但非常舊的裝置（2017 年之前）可能會遇到緩慢。"
+      }
+    },
+    "guides": {
+      "title": "實用指南",
+      "subtitle": "快速導航至各個部分",
+      "readMore": "閱讀更多",
+      "whatIs": {
+        "title": "什麼是 Toca Boca Mod？",
+        "excerpt": "了解模組版本與原始應用程式的不同之處。"
+      },
+      "about": {
+        "title": "關於 Toca Life World",
+        "excerpt": "探索遊戲的背景、開發商以及為什麼如此受歡迎。"
+      },
+      "download": {
+        "title": "如何下載",
+        "excerpt": "Android 裝置的逐步下載指南。"
+      },
+      "install": {
+        "title": "安裝指南",
+        "excerpt": "包含系統需求的完整安裝說明。"
+      },
+      "play": {
+        "title": "如何遊玩",
+        "excerpt": "初學者的遊戲基礎和技巧。"
+      },
+      "troubleshoot": {
+        "title": "疑難排解",
+        "excerpt": "常見安裝和遊戲問題的解決方案。"
+      }
+    },
+    "useCases": {
+      "title": "誰在使用 Toca Boca Mod？",
+      "subtitle": "修改版本的常見使用者群體",
+      "socialMedia": {
+        "title": "6-12 歲兒童",
+        "description": "Toca 遊戲的主要年齡組。模組提供訪問所有內容，無需家長進行應用內購買。",
+        "keywords": "兒童、孩子、創意遊玩"
+      },
+      "business": {
+        "title": "家長和家庭",
+        "description": "尋求功能齊全版本而無需持續購買的家長。模組消除了免費官方版本中的廣告。",
+        "keywords": "家長、家庭、免費"
+      },
+      "creators": {
+        "title": "內容創作者",
+        "description": "展示完整遊戲的影片創作者。模組提供訪問所有內容以進行全面演示和評論。",
+        "keywords": "YouTuber、串流媒體、內容"
+      },
+      "teams": {
+        "title": "教育工作者",
+        "description": "使用 Toca 遊戲進行說故事和角色扮演活動的教師。模組消除了教室使用的成本障礙。",
+        "keywords": "教育、教師、教室"
+      },
+      "personal": {
+        "title": "較小的兒童（3-5 歲）",
+        "description": "學齡前年齡使用者。模組移除了幼兒無法獨立導航的購買提示。",
+        "keywords": "幼兒、學齡前、簡單介面"
+      },
+      "education": {
+        "title": "完整主義者",
+        "description": "希望訪問所有遊戲元素的使用者。模組解鎖整個內容庫，無需增量購買。",
+        "keywords": "收藏家、完整主義者、完全訪問"
+      },
+      "ctaDescription": "從安裝開始即可訪問所有內容的修改版本。",
+      "ctaButton": "Toca Boca Mod 下載"
+    },
+    "faq": {
+      "title": "常見問題",
+      "subtitle": "關於 Toca Boca mod APK 的常見問題",
+      "q1": {
+        "question": "什麼是 Toca Boca Mod APK？",
+        "answer": "Toca Boca mod apk 是 Toca Life World 的修改版本，toca boca 全部解鎖所有高級內容。包括無限金錢、無限家具、無限禮物、所有地點、角色和物品。獲得 toca life world mod，全部解鎖且無廣告。"
+      },
+      "q2": {
+        "question": "下載 Toca Boca Mod APK 安全嗎？",
+        "answer": "修改的 APK 檔案存在官方應用程式商店下載中不存在的固有風險。此模組不會收集原始應用程式之外的額外個人資料。應在安裝前使用防毒軟體掃描檔案。安裝後可離線運作。第三方模組沒有官方安全驗證。"
+      },
+      "q3": {
+        "question": "如何下載 Toca Boca Mod APK？",
+        "answer": "下載步驟：\n\n1. 在設定 > 安全性中啟用「未知來源」\n2. 下載 APK 檔案（720 MB）\n3. 開啟下載資料夾並點擊 APK 檔案\n4. 點擊「安裝」並等待完成\n\n需要 150 MB 可用儲存空間和 Android 5.0 或更高版本。"
+      },
+      "q4": {
+        "question": "Toca Boca Mod 需要網路嗎？",
+        "answer": "安裝後無需網路連線。所有內容都本地儲存在裝置上。遊戲完全離線運作。"
+      },
+      "q5": {
+        "question": "模組和原版有什麼區別？",
+        "answer": "主要區別：\n\n• 價格：模組免費，原版需 $4.99 加應用內購買\n• 內容：模組全部解鎖，原版需付費獲取高級內容\n• 貨幣：模組提供無限遊戲內金錢，原版需購買硬幣\n• 廣告：模組移除廣告，免費原版包含廣告\n• 更新：模組需要手動安裝，原版透過應用程式商店更新\n\n核心遊戲機制相同。"
+      },
+      "q6": {
+        "question": "Toca Boca Mod 能在我的裝置上運作嗎？",
+        "answer": "系統需求：\n\n• Android 5.0（Lollipop）或更高版本\n• 150 MB 可用儲存空間\n• 最少 2 GB RAM\n• ARM 或 ARM64 處理器\n\niOS/iPhone 不支援。與 2018 年以後的大多數 Android 裝置相容。"
+      },
+      "q7": {
+        "question": "我可以在多個裝置上玩 Toca Boca Mod 嗎？",
+        "answer": "模組可以安裝在多個 Android 裝置上。遊戲進度不會在裝置之間同步 - 每個安裝維護單獨的儲存資料。手動傳輸儲存檔案需要技術知識。"
+      },
+      "q8": {
+        "question": "模組中的所有內容真的都解鎖了嗎？",
+        "answer": "所有內容已解鎖：\n\n• 所有 8 個地點（家、學校、商場、美食廣場、髮廊、辦公室、公寓、公園）\n• 所有 40 多個角色及自訂選項\n• 所有 500 多件家具和裝飾物品\n• 所有服裝、配件和特殊物品\n• 無限遊戲內貨幣\n• 季節性和節日內容\n\n無需任何內容的額外付款。"
+      },
+      "q9": {
+        "question": "為什麼檔案大小比原版大？",
+        "answer": "模組 APK（720 MB）包含預打包的所有高級內容。官方應用程式在購買時按需下載額外內容。模組在初始安裝檔案中捆綁了所有內容。"
+      },
+      "q10": {
+        "question": "Toca Boca Mod 多久更新一次？",
+        "answer": "模組版本通常在官方更新後 1-2 週發布。更新需要手動下載和安裝。以前的版本仍可使用，但不會從官方版本接收新內容。"
+      }
+    },
+    "cta": {
+      "title": "Toca Boca Mod 下載 - 最新版本 v1.116 可用",
+      "description": "下載 toca boca mod apk 最新更新，包含無限金錢、無限家具和無限禮物。所有內容已解鎖。720 MB 檔案大小。需要 Android 5.0 或更高版本。",
+      "primaryButton": "Toca Boca Mod 下載",
+      "version": "版本 v1.116（720 MB）",
+      "complianceNotice": "教育資源。與 Toca Boca 或 Spin Master 無關。尊重原始版權。"
+    }
+  }
+}

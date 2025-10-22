@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in ja.json es.json pt.json fr.json de.json pl.json it.json ms.json th.json id.json tr.json vi.json ar.json nl.json)",
+      "Bash(do echo \"Processing $file...\")",
+      "Bash(for file in en.json zh.json ja.json ar.json)",
+      "Bash(do echo \"--- $file ---\")",
+      "Bash(pnpm dev)",
+      "Bash(git add components/page/home-page/*.tsx i18n/messages/*.json)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: update app info and increase body text readability\n\n## App Information Updates (All 16 Languages)\n- Update version: v1.95.0 → v1.116 (real current version)\n- Update file size: 120 MB → 720 MB (real app size: 719.70 MB)\n- Change middle badge in Hero from file size to \"Latest Version\"\n- Update schema.org structured data with correct info\n- Update all download instructions, FAQ answers, troubleshooting guides\n\n## Typography Improvements\nIncrease body text size across all homepage sections for better readability:\n- FAQ answers: text-sm → text-base (14px → 16px)\n- All section descriptions: text-sm sm:text-base lg:text-lg → text-base sm:text-lg lg:text-xl\n- Sections updated: Introduction, Comparison, Features, HowToPlay, Gallery, Guides, UseCases, Safety, Troubleshooting\n\n## Final Font Sizes\n- Mobile: 16px (text-base)\n- Tablet: 18px (sm:text-lg)\n- Desktop: 20px (lg:text-xl)\n\n## Benefits\n- Accurate version and file size information\n- Improved readability on all devices\n- Better user experience with larger, easier-to-read text\n- Consistent across all 16 supported languages\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: add download links with nofollow and optimize badge layout\n\n## Download Links Updates\n- Add real download URL: https://download.gosuperfunny.com/toca.apk\n- Implement <a> tags with rel=\"nofollow\" for all download buttons\n- Add download attribute for better UX\n- Update Hero section main download button\n- Update Comparison section CTA button\n- Update all 16 Variants section game card buttons\n\n## Hero Badge Layout Optimization\n- Reorder version badges for better visual hierarchy\n- Move \"Latest Version\" to center position (most prominent)\n- Style: Latest Version (cyan, bold) + v1.116 (gray) + 2025 (gray)\n- Center placement draws more attention to \"Latest\" badge\n\n## SEO Benefits\n- Search engines can see download links (better than onClick)\n- rel=\"nofollow\" prevents passing SEO weight to external domain\n- Users can right-click to copy link or open in new tab\n- Better accessibility for screen readers\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "Muat Turun",
+            "url": "/#download"
+          },
+          {
+            "title": "Versi",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "Soalan Lazim",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Muat turun Toca Boca Mod APK dengan semua buka kunci percuma. Selamat, tanpa iklan dan akses penuh ke semua kandungan premium.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "Hubungi",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. Laman peminat untuk tujuan pendidikan. Tidak berafiliasi secara rasmi dengan Toca Boca atau Spin Master.",
+      "nav": {
+        "items": [
+          {
+            "title": "Muat Turun",
+            "children": [
+              {
+                "title": "Muat Turun Sekarang",
+                "url": "/#download"
+              },
+              {
+                "title": "Semua Versi",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "Cara Pasang",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "Maklumat",
+            "children": [
+              {
+                "title": "Apa itu Mod",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "Keselamatan",
+                "url": "/#safety"
+              },
+              {
+                "title": "Soalan Lazim",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "Dasar Privasi",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Syarat Perkhidmatan",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Dasar Hak Cipta DMCA",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

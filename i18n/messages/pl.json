@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Toca Boca Mod APK Najnowsza Wersja 2025 Pobierz - Wszystko Odblokowane Za Darmo",
+      "description": "Pobierz najnowszą wersję Toca Boca Mod APK 2025. Uzyskaj wszystko odblokowane, nieograniczone pieniądze, nieograniczone meble, nieograniczone prezenty z Toca Life World Mod. Darmowe pobieranie na Androida.",
+      "keywords": "toca boca mod apk, toca boca unlimited, toca boca nieograniczone pieniądze, toca boca unlimited apk, toca boca wszystko nieograniczone, toca boca nieograniczone prezenty, toca boca nieograniczone meble, toca boca nieograniczone pieniądze apk, toca life world mod apk, toca boca apk download"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "Wiek 3-12",
+      "description": "Toca Boca Mod APK z nieograniczonymi pieniędzmi, meblami i prezentami. Pobierz Toca Life World mod z całą zawartością odblokowaną - 8 lokacji, 40+ postaci, 500+ przedmiotów. Darmowe pobieranie na urządzenia Android.",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Pobierz Toca Boca Mod APK",
+      "description": "Pobierz Toca Boca Mod APK z nieograniczonymi pieniędzmi, meblami i prezentami. Zdobądź Toca Life World mod z całą zawartością odblokowaną na Androida."
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "Darmowa strona do pobierania Toca Boca Mod APK. Oferuje zmodyfikowane wersje Toca Life World z całą zawartością odblokowaną."
+    }
+  },
+  "not-found": {
+    "404_title": "Strona Nie Znaleziona",
+    "404_description": "Strona, której Pani/Pan szuka, nie jest dostępna.",
+    "back_home": "Powrót do Strony Głównej"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "Udostępnij tę stronę",
+      "defaultTitle": "Toca Boca Mod APK - Pobierz Najnowszą Wersję",
+      "defaultDescription": "Zdobądź Toca Life World mod z nieograniczonymi pieniędzmi, meblami i prezentami. Cała zawartość odblokowana za darmo",
+      "shareOn": "Udostępnij na {{platform}}",
+      "shareSuccess": "Pomyślnie udostępniono na {{platform}}!",
+      "shareFailed": "Udostępnianie nie powiodło się, spróbuj ponownie",
+      "copyLink": "Kopiuj link",
+      "linkCopied": "Link skopiowany do schowka!",
+      "copyFailed": "Nie udało się skopiować linku",
+      "share": "Udostępnij"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Pobierz Toca Life World Mod - Nieograniczone Pieniądze, Meble i Prezenty",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "Najnowsza Wersja",
+      "downloadButton": "Pobierz Toca Boca Mod",
+      "downloadCount": "Rozmiar pliku: 720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "Cała Zawartość Odblokowana",
+        "money": "Nieograniczone Pieniądze",
+        "ads": "Bez Reklam",
+        "free": "Darmowe Pobieranie"
+      }
+    },
+    "modVersions": {
+      "title": "Dostępne Wersje Mod Toca Boca",
+      "subtitle": "Różne gry Toca Boca z odblokowaną zawartością premium",
+      "downloadButton": "Pobierz",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "Główna gra Toca Boca z ponad 8 lokacjami i ponad 40 postaciami. Wszystkie domy, meble i przedmioty odblokowane. Otwarta kreatywna rozgrywka.",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "Wersja Główna"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "Oryginalna gra kulinarna ze wszystkimi narzędziami kuchennymi odblokowanymi. Kreatywna rozgrywka przygotowywania jedzenia.",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "Motyw Kuchenny"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "Ulepszona gra kulinarna z większą ilością składników i narzędzi. Wszystkie przepisy i sprzęt kuchenny odblokowany.",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "Motyw Kuchenny"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "Gra o stylizacji włosów z wszystkimi narzędziami i akcesoriami odblokowanymi. Wiele fryzur, kolorów i dekoracji dostępnych.",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "Motyw Stylistyczny"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "Symulacja medyczna ze wszystkimi narzędziami odblokowanymi. Graj jako lekarz leczący różne schorzenia. Cała zawartość dostępna.",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "Motyw Medyczny"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "Uproszczona wersja dla wieku 3-5 lat. Podstawowa rozgrywka ze wszystkimi funkcjami odblokowanymi. Interfejs bez reklam.",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "Wiek 3-5"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "Eksploruj miasteczko ze sklepami, restauracjami i domami. Wszystkie lokalizacje i postacie odblokowane.",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "Motyw Miasteczka"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "Gra miejska z lokalizacjami miejskimi. Wszystkie budynki i pojazdy dostępne.",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "Motyw Miejski"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "Symulacja centrum medycznego ze wszystkimi oddziałami odblokowanymi. Pełne wyposażenie szpitala dostępne.",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "Motyw Medyczny"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "Symulacja miejsca pracy ze wszystkimi przestrzeniami biurowymi odblokowanymi. Profesjonalne aktywności fabularne.",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "Motyw Biurowy"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "Symulacja opieki nad zwierzętami ze wszystkimi zwierzętami odblokowanymi. Pełne akcesoria i zabawki dla zwierząt dostępne.",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "Motyw Zwierząt"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "Eksploracja przyrody i budowanie ekosystemu. Wszystkie rośliny, zwierzęta i środowiska odblokowane.",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "Motyw Przyrody"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "Symulacja szkoły z salami lekcyjnymi i aktywnościami. Cała zawartość edukacyjna odblokowana.",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "Motyw Szkolny"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "Zabawna gra w chowanego. Wszystkie postacie i lokalizacje odblokowane dla kreatywnej zabawy.",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "Motyw Zabawy"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "Gra odkrywcza naukowa z pierwiastkami chemicznymi. Wszystkie eksperymenty i narzędzia odblokowane.",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "Motyw Naukowy"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "Gra botaniczna z eksperymentami roślinnymi. Wszystkie rośliny, narzędzia i sprzęt laboratoryjny odblokowany.",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "Motyw Biologiczny"
+      }
+    },
+    "whatIsMod": {
+      "title": "Czym jest Toca Boca Mod APK?",
+      "intro": "Toca Boca Mod APK to zmodyfikowana wersja, która odblokowuje całą zawartość premium. Zapewnia nieograniczone pieniądze, nieograniczone meble, nieograniczone prezenty oraz dostęp do wszystkich funkcji, postaci i lokacji bez płacenia.",
+      "features": [
+        {
+          "title": "Wszystko Nieograniczone i Odblokowane",
+          "description": "Wszystkie domy, nieograniczone meble, postacie i akcesoria dostępne od instalacji. Obejmuje nieograniczony dostęp do domów i lokacji Toca Boca."
+        },
+        {
+          "title": "Usunięcie Reklam",
+          "description": "Reklamy obecne w darmowej wersji oficjalnej są usunięte. Rozgrywka przebiega bez przerw reklamowych."
+        },
+        {
+          "title": "Nieograniczone Pieniądze i Prezenty",
+          "description": "Zapewniona nieograniczona waluta w grze (monety/klejnoty) i nieograniczone prezenty. Toca Boca Unlimited Money APK umożliwia nieograniczone zakupy i personalizację przedmiotów."
+        }
+      ],
+      "difference": "Mod Toca Boca Unlimited zapewnia darmowy dostęp do całej zawartości z nieograniczonymi zasobami, podczas gdy oficjalna aplikacja wymaga zakupów w aplikacji dla lokacji premium, postaci i przedmiotów. Podstawowe mechaniki rozgrywki pozostają identyczne."
+    },
+    "aboutGame": {
+      "title": "O Grze Toca Boca Life World",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "Przegląd gry Toca Life World pokazujący kolorowe lokacje i postacie",
+      "company": {
+        "heading": "Twórca Gry",
+        "text": "Toca Boca to deweloper aplikacji dla dzieci należący do Spin Master. Założona w 2010 roku w Szwecji, firma wydała ponad 40 aplikacji z ponad 500 milionami pobrań na całym świecie."
+      },
+      "vision": {
+        "heading": "Filozofia Projektowania",
+        "text": "Gry Toca Boca wykorzystują otwartą koncepcję rozgrywki. W rozgrywce nie ma zasad, punktacji ani limitów czasowych. Gracze tworzą własne narracje bez predefiniowanych celów."
+      },
+      "audience": {
+        "heading": "Grupa Docelowa",
+        "text": "Gry są przeznaczone dla dzieci w wieku 3-12 lat. Toca Life World jest szczególnie skierowana do dzieci w wieku 6-12 lat zainteresowanych grami fabularnymi i symulacyjnymi. Sterowanie dotykowe jest zaprojektowane dla użytkowników będących dziećmi."
+      },
+      "popularity": {
+        "heading": "Cechy Gry",
+        "text": "Gry zawierają zróżnicowane projekty postaci i unikają stereotypowych przedstawień. Gracze mają swobodę w tym, jak wchodzą w interakcję z zawartością gry. Wersje płatne nie zawierają reklam. Gry wykorzystują kolorowy styl artystyczny i zawierają elementy interaktywne."
+      }
+    },
+    "safety": {
+      "title": "Informacje o Bezpieczeństwie",
+      "subtitle": "Ocena bezpieczeństwa plików mod APK",
+      "importantLabel": "Ważne:",
+      "bottomNote": "Zawsze pobieraj z zaufanych źródeł i weryfikuj integralność pliku przed instalacją. Aktualizuj oprogramowanie zabezpieczające urządzenia.",
+      "safe1": {
+        "title": "Bezpieczeństwo Pliku APK",
+        "description": "Zmodyfikowane pliki APK powinny być skanowane oprogramowaniem antywirusowym przed instalacją. Użyj renomowanych narzędzi antywirusowych, aby zweryfikować integralność pliku."
+      },
+      "safe2": {
+        "title": "Zbieranie Danych",
+        "description": "Ten mod nie dodaje dodatkowego zbierania danych poza tym, co istnieje w oryginalnej aplikacji. Nie jest wymagane logowanie, aby uzyskać dostęp do odblokowanej zawartości."
+      },
+      "safe3": {
+        "title": "Funkcjonalność Offline",
+        "description": "Gra działa offline po instalacji. Połączenie internetowe nie jest wymagane do rozgrywki. Oryginalne funkcje offline pozostają funkcjonalne."
+      },
+      "safe4": {
+        "title": "Kompatybilność Urządzenia",
+        "description": "Przetestowano na Androidzie 5.0 i nowszych wersjach. Wydajność różni się w zależności od specyfikacji urządzenia. Wymaga około 150 MB wolnej przestrzeni."
+      },
+      "safe5": {
+        "title": "Ocena Zawartości",
+        "description": "Gry Toca Boca są przeznaczone dla wieku 3-12 lat. Zawartość pozostaje odpowiednia dla wieku w wersji mod. Brak tematów przemocowych lub dla dorosłych."
+      },
+      "safe6": {
+        "title": "Uwagi Dotyczące Instalacji",
+        "description": "Mody APK nie mogą być zainstalowane obok wersji oficjalnych. Wymaga włączenia 'Nieznanych źródeł' w ustawieniach Androida. Oficjalne aktualizacje nie są obsługiwane."
+      }
+    },
+    "latestVersion": {
+      "title": "Pobierz Toca Boca Mod - Najnowsza Wersja APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "Dodano Lokację Apartamentową",
+          "description": "Nowa lokacja budynku apartamentowego z 4 piętrami i 8 pokojami. Zawiera meble i przedmioty interaktywne."
+        },
+        {
+          "title": "Dodane Postacie",
+          "description": "Dodano 6 nowych postaci z opcjami strojów i akcesoriów. Wszystkie postacie odblokowane w wersji mod."
+        },
+        {
+          "title": "Rozszerzenie Mebli",
+          "description": "Dodano ponad 100 nowych elementów wyposażenia: zestawy kuchenne, przedmioty do sypialni, wyposażenie łazienek i meble do salonu."
+        },
+        {
+          "title": "Aktualizacje Techniczne",
+          "description": "Optymalizacja silnika gry dla lepszej wydajności na starszych urządzeniach. Zawiera redukcję czasu ładowania i poprawki błędów."
+        }
+      ],
+      "changelog": {
+        "title": "Historia Wersji",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "Nowy apartament, 6 postaci, ponad 100 mebli"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "Grudzień 2024",
+            "changes": "Przedmioty i dekoracje świąteczne zimowe"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "Listopad 2024",
+            "changes": "Rozszerzenie lokacji centrum handlowego"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Cechy Gry Toca Boca",
+      "subtitle": "Podstawowe elementy rozgrywki",
+      "feature1": {
+        "title": "Ponad 8 Lokacji Gry",
+        "description": "Dostępnych wiele lokacji: dom, szkoła, centrum handlowe, strefa gastronomiczna, salon fryzjerski, biuro, apartament i inne. Każda lokacja zawiera obiekty interaktywne.",
+        "keywords": "lokacje, eksploracja, interaktywne"
+      },
+      "feature2": {
+        "title": "Ponad 40 Grywalnych Postaci",
+        "description": "Ponad 40 postaci o zróżnicowanych projektach reprezentujących różne wieku, pochodzenie etniczne i style. Wygląd postaci, stroje i akcesoria są konfigurowalne.",
+        "keywords": "postacie, różnorodność, personalizacja"
+      },
+      "feature3": {
+        "title": "Otwarta Rozgrywka",
+        "description": "Gra nie zawiera predefiniowanych zasad ani celów. Gracze tworzą własne scenariusze i narracje poprzez mechanikę gry fabularnej.",
+        "keywords": "kreatywna zabawa, opowiadanie historii, wyobraźnia"
+      },
+      "feature4": {
+        "title": "Projekt Skupiony na Dzieciach",
+        "description": "Oficjalna wersja zaprojektowana dla dzieci: brak reklam osób trzecich w wersji płatnej, brak linków do mediów społecznościowych. Wersja mod usuwa zachęty do zakupów w aplikacji.",
+        "keywords": "bezpieczne, przyjazne dzieciom, kontrola rodzicielska"
+      }
+    },
+    "modFeatures": {
+      "title": "Funkcje Toca Boca Mod APK",
+      "subtitle": "Nieograniczone pieniądze, meble i prezenty w zestawie",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "Toca Boca unlimited mod ze wszystkimi lokacjami i przedmiotami odblokowanymi",
+      "features": [
+        {
+          "title": "Cała Zawartość Odblokowana",
+          "description": "Wszystkie 8 lokacji, ponad 40 postaci, ponad 500 elementów mebli i przedmiotów dostępnych od instalacji. Nie są wymagane zakupy w aplikacji.",
+          "icon": "unlock"
+        },
+        {
+          "title": "Nieograniczone Pieniądze i Waluta",
+          "description": "Zapewniona nieograniczona waluta w grze (monety/klejnoty). Wszystkie przedmioty można kupić bez ograniczeń walutowych. Wersja Toca Boca unlimited money apk.",
+          "icon": "money"
+        },
+        {
+          "title": "Usunięcie Reklam",
+          "description": "Reklamy z darmowej wersji oficjalnej są usunięte. Brak wyskakujących okienek, wideo ani banerów reklamowych w tej zmodyfikowanej wersji.",
+          "icon": "shield"
+        },
+        {
+          "title": "Nieograniczone Prezenty i Zawartość Premium",
+          "description": "Wszystkie lokacje premium, postacie, nieograniczone prezenty, przedmioty i zawartość sezonowa są zawarte. Nie są wymagane oddzielne zakupy DLC.",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK vs Oryginał",
+      "subtitle": "Porównanie wersji Mod",
+      "featureLabel": "Funkcja",
+      "modVersion": "Wersja Mod",
+      "original": "Wersja Oryginalna",
+      "swipeHint": "← Przesuń, aby zobaczyć porównanie →",
+      "bottomNote": "Porównanie funkcji między wersją mod a oryginalną",
+      "downloadButton": "Pobierz Toca Boca Mod",
+      "features": [
+        {
+          "feature": "Cena",
+          "mod": "100% Darmowa",
+          "original": "$4.99 + Zakupy w Aplikacji"
+        },
+        {
+          "feature": "Wszystkie Lokacje Odblokowane",
+          "mod": "Tak - 8 Lokacji",
+          "original": "Częściowo - 1 Darmowa, 7 Płatnych"
+        },
+        {
+          "feature": "Wszystkie Postacie Dostępne",
+          "mod": "Tak - Ponad 40 Postaci",
+          "original": "Ograniczone - 8 Darmowych Postaci"
+        },
+        {
+          "feature": "Meble i Przedmioty",
+          "mod": "Wszystkie Ponad 500 Przedmiotów Darmowych",
+          "original": "Większość Przedmiotów Wymaga Zakupu"
+        },
+        {
+          "feature": "Waluta w Grze",
+          "mod": "Nieograniczone Pieniądze",
+          "original": "Ograniczone, Trzeba Kupić Więcej"
+        },
+        {
+          "feature": "Reklamy",
+          "mod": "Bez Reklam",
+          "original": "Reklamy w Darmowej Wersji"
+        },
+        {
+          "feature": "Zawartość Premium",
+          "mod": "Wszystko Darmowo w Zestawie",
+          "original": "Wymagane Płatne DLC"
+        },
+        {
+          "feature": "Aktualizacje Gry",
+          "mod": "Regularne Aktualizacje Mod",
+          "original": "Automatyczne Aktualizacje App Store"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "Jak Pobrać Toca Boca Mod APK",
+      "subtitle": "Kroki pobierania toca boca mod apk",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "Przycisk pobierania Toca Boca mod APK",
+      "steps": [
+        {
+          "title": "Włącz Nieznane Źródła",
+          "description": "Przejdź do Ustawienia > Bezpieczeństwo > Nieznane Źródła i włącz tę opcję. To ustawienie pozwala Androidowi instalować pliki APK ze źródeł innych niż Sklep Google Play."
+        },
+        {
+          "title": "Pobierz Plik APK",
+          "description": "Kliknij przycisk pobierania na tej stronie. Plik APK (720 MB) zostanie pobrany na Pani/Pana urządzenie. Zaczekaj na zakończenie pobierania przed kontynuowaniem."
+        },
+        {
+          "title": "Zlokalizuj Pobrany Plik",
+          "description": "Otwórz folder Pobrane na urządzeniu lub sprawdź panel powiadomień. Znajdź plik o nazwie 'TocaBoca_Mod_v1.95.apk' i kliknij, aby rozpocząć instalację."
+        },
+        {
+          "title": "Zainstaluj Aplikację",
+          "description": "Android wyświetli ekran potwierdzenia instalacji. Kliknij 'Instaluj' i zaczekaj na zakończenie procesu instalacji."
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "Jak Zainstalować Toca Boca Mod APK",
+      "subtitle": "Instrukcje instalacji",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Ekran instalacji Toca Boca mod",
+      "steps": [
+        {
+          "title": "Sprawdź Wymagania Systemowe",
+          "description": "Wymagane specyfikacje: Android 5.0 lub wyższy, 150 MB wolnej przestrzeni, minimum 2 GB RAM. Większość urządzeń wyprodukowanych od 2018 roku spełnia te wymagania."
+        },
+        {
+          "title": "Usuń Wersję Oficjalną",
+          "description": "Jeśli zainstalowana jest oficjalna aplikacja Toca Boca, odinstaluj ją przed kontynuowaniem. Wersje mod i oficjalne nie mogą współistnieć na tym samym urządzeniu."
+        },
+        {
+          "title": "Przyznaj Uprawnienia Instalacyjne",
+          "description": "Android może poprosić o uprawnienia podczas instalacji. Mod wymaga dostępu do pamięci, aby zapisywać postęp w grze. Przejrzyj prośby o uprawnienia przed przyznaniem."
+        },
+        {
+          "title": "Uruchom Aplikację",
+          "description": "Po zakończeniu instalacji zlokalizuj ikonę Toca Boca na ekranie głównym. Otwórz aplikację, aby uzyskać dostęp do całej odblokowanej zawartości."
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Jak Grać w Toca Boca",
+      "subtitle": "Podstawowe instrukcje rozgrywki",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Samouczek rozgrywki Toca Boca",
+      "basics": [
+        {
+          "title": "Wybierz Lokację",
+          "description": "Wybierz spośród 8 dostępnych lokacji za pomocą mapy świata. Każda lokacja zapewnia różne ustawienia aktywności: dom, centrum handlowe, szkoła i inne. Wszystkie lokacje odblokowane w wersji mod."
+        },
+        {
+          "title": "Wybierz Postacie",
+          "description": "Wybierz postacie z menu postaci (dostępnych ponad 40). Przeciągnij postacie na scenę. Wiele postaci może być aktywnych jednocześnie. Dostosuj stroje postaci, klikając na postać i wybierając elementy odzieży."
+        },
+        {
+          "title": "Użyj Obiektów Interaktywnych",
+          "description": "Kliknij obiekty, aby wywołać interakcje - otwórz lodówki, aktywuj urządzenia, manipuluj przedmiotami. Większość obiektów w grze reaguje na wejście gracza. Przeciągnij przedmioty do rąk postaci do użycia."
+        },
+        {
+          "title": "Swobodna Rozgrywka",
+          "description": "Nie ma misji ani celów. Gracze tworzą scenariusze poprzez interakcję postaci i manipulację obiektami. Gra wspiera otwarte aktywności fabularne."
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Zrzuty Ekranu Toca Boca Mod APK",
+      "subtitle": "Przykłady interfejsu gry",
+      "images": [
+        {
+          "title": "Dostęp do Lokacji",
+          "description": "Wszystkie 8 lokacji dostępnych od pierwszego uruchomienia. Nie jest wymagane dodatkowe odblokowywanie.",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "Opcje Postaci",
+          "description": "Ponad 40 postaci z funkcjami personalizacji. Elementy odzieży i akcesoria są odblokowane.",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "Dekoracja Pokoju",
+          "description": "Ponad 500 elementów mebli dostępnych do dekoracji pokoju. Wszystkie przedmioty dostępne w wersji mod.",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "Elementy Interaktywne",
+          "description": "Obiekty interaktywne obecne w całej grze lokacji. Wiele przedmiotów reaguje na interakcję gracza.",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Rozwiązywanie Typowych Problemów",
+      "subtitle": "Rozwiązania częstych problemów",
+      "bottomNote": "Nadal masz problemy? Sprawdź naszą sekcję FAQ, aby uzyskać dodatkową pomoc.",
+      "issue1": {
+        "problem": "Instalacja Nie Powiodła Się lub Została Zablokowana",
+        "solution": "Upewnij się, że 'Nieznane Źródła' są włączone w Ustawienia > Bezpieczeństwo. Jeśli nadal jest zablokowane, spróbuj ponownie pobrać, ponieważ plik może być uszkodzony. Niektóre aplikacje antywirusowe fałszywie oznaczają mody - tymczasowo wyłącz je podczas instalacji."
+      },
+      "issue2": {
+        "problem": "Aplikacja Ciągle Się Zawiesza",
+        "solution": "Wyczyść pamięć podręczną aplikacji: Ustawienia > Aplikacje > Toca Boca > Wyczyść Pamięć Podręczną. Upewnij się, że masz co najmniej 150 MB wolnej przestrzeni. Uruchom ponownie urządzenie i spróbuj ponownie. Zaktualizuj do najnowszej wersji mod, jeśli jest dostępna."
+      },
+      "issue3": {
+        "problem": "Nie Cała Zawartość Odblokowana",
+        "solution": "Sprawdź, czy pobrałeś wersję mod (rozmiar pliku powinien wynosić 720 MB). Usuń i ponownie zainstaluj z naszej strony. Niektóre lokacje wydają się zablokowane, ale w rzeczywistości są dostępne - spróbuj kliknąć je ponownie."
+      },
+      "issue4": {
+        "problem": "Gra Się Nie Otwiera",
+        "solution": "Sprawdź wersję Androida (wymagana 5.0+). Odinstaluj oficjalną Toca Boca, jeśli jest zainstalowana. Zainstaluj ponownie mod APK. Jeśli problem się utrzymuje, Pani/Pana urządzenie może być niekompatybilne - spróbuj na innym urządzeniu."
+      },
+      "issue5": {
+        "problem": "Postęp Nie Jest Zapisywany",
+        "solution": "Przyznaj uprawnienia do pamięci: Ustawienia > Aplikacje > Toca Boca > Uprawnienia > Pamięć. Upewnij się, że masz wystarczającą ilość dostępnej przestrzeni. Unikaj wymuszania zamykania aplikacji podczas gry."
+      },
+      "issue6": {
+        "problem": "Wolna Wydajność lub Opóźnienia",
+        "solution": "Zamknij inne uruchomione aplikacje, aby zwolnić pamięć RAM. Zmniejsz jasność ekranu urządzenia. Regularnie czyść pamięć podręczną. Mod jest zoptymalizowany, ale bardzo stare urządzenia (przed 2017) mogą doświadczać powolności."
+      }
+    },
+    "guides": {
+      "title": "Pomocne Przewodniki",
+      "subtitle": "Szybka nawigacja do sekcji",
+      "readMore": "Czytaj Więcej",
+      "whatIs": {
+        "title": "Czym jest Toca Boca Mod?",
+        "excerpt": "Dowiedz się, co czyni wersję mod inną od oryginalnej aplikacji."
+      },
+      "about": {
+        "title": "O Toca Life World",
+        "excerpt": "Odkryj historię gry, twórcę i dlaczego jest tak popularna."
+      },
+      "download": {
+        "title": "Jak Pobrać",
+        "excerpt": "Przewodnik krok po kroku pobierania dla urządzeń Android."
+      },
+      "install": {
+        "title": "Przewodnik Instalacji",
+        "excerpt": "Pełne instrukcje instalacji z wymaganiami systemowymi."
+      },
+      "play": {
+        "title": "Jak Grać",
+        "excerpt": "Podstawy rozgrywki i wskazówki dla początkujących."
+      },
+      "troubleshoot": {
+        "title": "Rozwiązywanie Problemów",
+        "excerpt": "Rozwiązania typowych problemów z instalacją i rozgrywką."
+      }
+    },
+    "useCases": {
+      "title": "Kto Używa Toca Boca Mod?",
+      "subtitle": "Typowe grupy użytkowników dla zmodyfikowanych wersji",
+      "socialMedia": {
+        "title": "Dzieci w Wieku 6-12 Lat",
+        "description": "Główna grupa wiekowa dla gier Toca. Mod zapewnia dostęp do całej zawartości bez wymagania zakupów w aplikacji od rodziców.",
+        "keywords": "dzieci, kreatywna zabawa"
+      },
+      "business": {
+        "title": "Rodzice i Rodziny",
+        "description": "Rodzice poszukujący pełnej wersji bez ciągłych zakupów. Mod eliminuje reklamy obecne w darmowej wersji oficjalnej.",
+        "keywords": "rodzice, rodziny, bezkosztowy"
+      },
+      "creators": {
+        "title": "Twórcy Treści",
+        "description": "Twórcy wideo pokazujący pełną rozgrywkę. Mod zapewnia dostęp do całej zawartości dla kompleksowych demonstracji i recenzji.",
+        "keywords": "youtuberzy, streamerzy, treść"
+      },
+      "teams": {
+        "title": "Edukatorzy",
+        "description": "Nauczyciele używający gier Toca do opowiadania historii i zajęć fabularnych. Mod usuwa barierę kosztową dla użytku w klasie.",
+        "keywords": "edukacja, nauczyciele, klasa"
+      },
+      "personal": {
+        "title": "Młodsze Dzieci (3-5 Lat)",
+        "description": "Użytkownicy w wieku przedszkolnym. Mod usuwa zachęty do zakupu, których małe dzieci nie mogą samodzielnie obsłużyć.",
+        "keywords": "małe dzieci, przedszkolaki, prosty interfejs"
+      },
+      "education": {
+        "title": "Kolekcjonerzy",
+        "description": "Użytkownicy pragnący dostępu do wszystkich elementów gry. Mod odblokowuje całą bibliotekę zawartości bez stopniowych zakupów.",
+        "keywords": "kolekcjonerzy, kompletność, pełny dostęp"
+      },
+      "ctaDescription": "Zmodyfikowana wersja z całą zawartością dostępną od instalacji.",
+      "ctaButton": "Pobierz APK"
+    },
+    "faq": {
+      "title": "Najczęściej Zadawane Pytania",
+      "subtitle": "Typowe pytania o Toca Boca mod APK",
+      "q1": {
+        "question": "Co to jest Toca Boca Mod APK?",
+        "answer": "Toca Boca mod apk to zmodyfikowana wersja Toca Life World, która odblokowuje całą zawartość premium. Zawiera nieograniczone pieniądze, nieograniczone meble, nieograniczone prezenty, wszystkie lokacje, postacie i przedmioty. Toca boca mod ze wszystkim odblokowanym i bez reklam."
+      },
+      "q2": {
+        "question": "Czy pobieranie Toca Boca Mod APK jest bezpieczne?",
+        "answer": "Zmodyfikowane pliki APK niosą ze sobą nieodłączne ryzyko, które nie występuje w oficjalnych pobieraniach ze sklepu z aplikacjami. Ten mod nie zbiera dodatkowych danych osobowych poza oryginalną aplikacją. Plik powinien być skanowany oprogramowaniem antywirusowym przed instalacją. Działa offline po wstępnym pobraniu. Brak oficjalnej weryfikacji bezpieczeństwa dla modów osób trzecich."
+      },
+      "q3": {
+        "question": "Jak pobrać Toca Boca Mod APK?",
+        "answer": "Kroki pobierania:\n\n1. Włącz 'Nieznane Źródła' w Ustawienia > Bezpieczeństwo\n2. Pobierz plik APK (720 MB)\n3. Otwórz folder Pobrane i kliknij plik APK\n4. Kliknij 'Instaluj' i zaczekaj na zakończenie\n\nWymaga 150 MB wolnej przestrzeni i Androida 5.0 lub wyższego."
+      },
+      "q4": {
+        "question": "Czy Toca Boca Mod wymaga internetu?",
+        "answer": "Nie jest potrzebne połączenie internetowe po instalacji. Cała zawartość jest przechowywana lokalnie na urządzeniu. Rozgrywka funkcjonuje całkowicie offline."
+      },
+      "q5": {
+        "question": "Jaka jest różnica między mod a oryginałem?",
+        "answer": "Główne różnice:\n\n• Cena: Mod jest darmowy, oryginał kosztuje $4.99 plus zakupy w aplikacji\n• Zawartość: Mod ma wszystko odblokowane, oryginał wymaga płatności za zawartość premium\n• Waluta: Mod zapewnia nieograniczone pieniądze w grze, oryginał wymaga zakupu monet\n• Reklamy: Mod usuwa reklamy, darmowa wersja oryginalna zawiera reklamy\n• Aktualizacje: Mod wymaga ręcznej instalacji, oryginał aktualizuje się przez sklep z aplikacjami\n\nPodstawowe mechaniki rozgrywki są identyczne."
+      },
+      "q6": {
+        "question": "Czy Toca Boca Mod będzie działać na moim urządzeniu?",
+        "answer": "Wymagania systemowe:\n\n• Android 5.0 (Lollipop) lub wyższy\n• 150 MB wolnej przestrzeni\n• Minimum 2 GB RAM\n• Procesor ARM lub ARM64\n\niOS/iPhone nie jest obsługiwany. Kompatybilny z większością urządzeń Android od 2018 roku."
+      },
+      "q7": {
+        "question": "Czy mogę grać w Toca Boca Mod na wielu urządzeniach?",
+        "answer": "Mod można zainstalować na wielu urządzeniach Android. Postęp w grze nie synchronizuje się między urządzeniami - każda instalacja utrzymuje oddzielne dane zapisu. Ręczny transfer plików zapisu wymaga wiedzy technicznej."
+      },
+      "q8": {
+        "question": "Czy wszystko jest naprawdę odblokowane w modzie?",
+        "answer": "Cała zawartość odblokowana:\n\n• Wszystkie 8 lokacji (Dom, Szkoła, Centrum Handlowe, Strefa Gastronomiczna, Salon Fryzjerski, Biuro, Apartament, Park)\n• Wszystkie ponad 40 postaci z opcjami personalizacji\n• Wszystkie ponad 500 mebli i przedmiotów dekoracyjnych\n• Cała odzież, akcesoria i specjalne przedmioty\n• Nieograniczona waluta w grze\n• Zawartość sezonowa i świąteczna\n\nBrak dodatkowych płatności wymaganych dla jakiejkolwiek zawartości."
+      },
+      "q9": {
+        "question": "Dlaczego rozmiar pliku jest większy niż oryginał?",
+        "answer": "Mod APK (720 MB) zawiera całą zawartość premium wstępnie zapakowaną. Oficjalna aplikacja pobiera dodatkową zawartość na żądanie po zakupie. Mod łączy wszystko w początkowym pliku instalacyjnym."
+      },
+      "q10": {
+        "question": "Jak często jest aktualizowany Toca Boca Mod?",
+        "answer": "Wersje mod są zazwyczaj wydawane 1-2 tygodnie po oficjalnych aktualizacjach. Aktualizacje wymagają ręcznego pobierania i instalacji. Poprzednie wersje pozostają funkcjonalne, ale nie otrzymują nowej zawartości z oficjalnych wydań."
+      }
+    },
+    "cta": {
+      "title": "Pobierz Toca Boca Mod - Najnowsza Aktualizacja v1.116 Dostępna",
+      "description": "Pobierz toca boca mod apk najnowszą aktualizację z nieograniczonymi pieniędzmi, nieograniczonymi meblami i nieograniczonymi prezentami",
+      "primaryButton": "Pobierz Toca Boca Mod",
+      "version": "Wersja v1.116 (720 MB)",
+      "complianceNotice": "Zasób edukacyjny. Nie jest powiązany z Toca Boca ani Spin Master. Szanuje oryginalne prawa autorskie."
+    }
+  }
+}

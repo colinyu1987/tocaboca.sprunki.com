@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Muat Turun Toca Boca Mod APK Versi Terkini 2025 - Semua Dibuka Percuma",
+      "description": "Muat turun versi terkini Toca Boca Mod APK 2025. Dapatkan mod Toca Life World dengan semua dibuka, wang tanpa had, perabot tanpa had, hadiah tanpa had. Muat turun percuma untuk Android.",
+      "keywords": "toca boca mod apk, toca boca unlimited, toca boca wang tanpa had, toca boca unlimited apk, toca boca semua tanpa had, toca boca hadiah tanpa had, toca boca perabot tanpa had, toca boca unlimited money apk, toca life world mod apk, toca boca muat turun apk"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "Umur 3-12",
+      "description": "Toca Boca Mod APK dengan wang tanpa had, perabot, dan hadiah. Muat turun mod Toca Life World dengan semua kandungan dibuka - 8 lokasi, 40+ watak, 500+ item. Muat turun percuma untuk peranti Android.",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Muat Turun Toca Boca Mod APK",
+      "description": "Muat turun Toca Boca Mod APK dengan wang tanpa had, perabot, dan hadiah. Dapatkan mod Toca Life World dengan semua kandungan dibuka untuk Android."
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "Laman web muat turun percuma Toca Boca Mod APK. Menyediakan versi diubah suai Toca Life World dengan semua kandungan dibuka."
+    }
+  },
+  "not-found": {
+    "404_title": "Halaman Tidak Dijumpai",
+    "404_description": "Halaman yang anda cari tidak wujud.",
+    "back_home": "Kembali ke Laman Utama"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "Kongsi halaman ini",
+      "defaultTitle": "Toca Boca Mod APK - Muat Turun Versi Terkini",
+      "defaultDescription": "Dapatkan mod Toca Life World dengan wang tanpa had, perabot dan hadiah. Semua kandungan dibuka percuma",
+      "shareOn": "Kongsi di {{platform}}",
+      "shareSuccess": "Berjaya dikongsi di {{platform}}!",
+      "shareFailed": "Perkongsian gagal, sila cuba lagi",
+      "copyLink": "Salin pautan",
+      "linkCopied": "Pautan disalin ke papan keratan!",
+      "copyFailed": "Gagal menyalin pautan",
+      "share": "Kongsi"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Muat Turun Toca Life World Mod - Wang, Perabot & Hadiah Tanpa Had",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "Versi Terkini",
+      "downloadButton": "Muat Turun Toca Boca Mod",
+      "downloadCount": "Saiz fail: 720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "Semua Kandungan Dibuka",
+        "money": "Wang Tanpa Had",
+        "ads": "Tanpa Iklan",
+        "free": "Muat Turun Percuma"
+      }
+    },
+    "modVersions": {
+      "title": "Versi Mod Toca Boca Tersedia",
+      "subtitle": "Permainan Toca Boca berbeza dengan kandungan premium dibuka",
+      "downloadButton": "Muat Turun",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "Permainan Toca Boca utama dengan 8+ lokasi dan 40+ watak. Semua rumah, perabot, dan item dibuka. Permainan kreatif terbuka.",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "Versi Utama"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "Permainan memasak asal dengan semua alatan dapur dibuka. Permainan penyediaan makanan yang kreatif.",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "Tema Memasak"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "Permainan memasak yang ditingkatkan dengan lebih banyak bahan dan alatan. Semua resipi dan peralatan dapur dibuka.",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "Tema Memasak"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "Permainan menggayakan rambut dengan semua alatan dan aksesori dibuka. Pelbagai gaya rambut, warna, dan hiasan tersedia.",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "Tema Penggayaan"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "Simulasi perubatan dengan semua alatan dibuka. Main peranan sebagai doktor merawat pelbagai keadaan. Semua kandungan boleh diakses.",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "Tema Perubatan"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "Versi dipermudahkan untuk umur 3-5 tahun. Permainan asas dengan semua ciri dibuka. Antara muka tanpa iklan.",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "Umur 3-5"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "Terokai bandar dengan kedai, restoran, dan rumah. Semua lokasi dan watak dibuka.",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "Tema Bandar"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "Permainan penerokaan bandar dengan lokasi bandar. Semua bangunan dan kenderaan boleh diakses.",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "Tema Kota Besar"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "Simulasi pusat perubatan dengan semua jabatan dibuka. Peralatan hospital lengkap tersedia.",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "Tema Perubatan"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "Simulasi tempat kerja dengan semua ruang pejabat dibuka. Aktiviti main peranan profesional.",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "Tema Pejabat"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "Simulasi penjagaan haiwan dengan semua haiwan dibuka. Aksesori dan mainan haiwan lengkap tersedia.",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "Tema Haiwan"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "Penerokaan alam dan pembinaan ekosistem. Semua tumbuhan, haiwan, dan persekitaran dibuka.",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "Tema Alam Semula Jadi"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "Simulasi sekolah dengan bilik darjah dan aktiviti. Semua kandungan pendidikan dibuka.",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "Tema Sekolah"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "Permainan sorok-sorok yang menyeronokkan. Semua watak dan lokasi dibuka untuk permainan kreatif.",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "Tema Keseronokan"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "Permainan penerokaan sains dengan unsur kimia. Semua eksperimen dan alatan dibuka.",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "Tema Sains"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "Permainan sains botani dengan eksperimen tumbuhan. Semua tumbuhan, alatan, dan peralatan makmal dibuka.",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "Tema Biologi"
+      }
+    },
+    "whatIsMod": {
+      "title": "Apakah Toca Boca Mod APK?",
+      "intro": "Toca Boca mod apkadalah Toca Life World versi diubah suai yang membuka semua kandungan premium. Menyediakan wang tanpa had, perabot tanpa had, hadiah tanpa had, dan akses kepada semua ciri, watak, lokasi tanpa bayaran.",
+      "features": [
+        {
+          "title": "Semua Tanpa Had Dibuka",
+          "description": "Semua rumah, perabot tanpa had, watak, dan aksesori boleh diakses dari pemasangan. Termasuk akses rumah dan lokasi Toca Boca tanpa had."
+        },
+        {
+          "title": "Penyingkiran Iklan",
+          "description": "Iklan yang ada dalam versi rasmi percuma dibuang. Permainan berjalan tanpa gangguan dari iklan."
+        },
+        {
+          "title": "Wang & Hadiah Tanpa Had",
+          "description": "Wang dalam permainan tanpa had (syiling/permata) dan hadiah tanpa had disediakan. Toca Boca unlimited money apk membenarkan pembelian item dan penyesuaian tanpa sekatan."
+        }
+      ],
+      "difference": "Mod Toca Boca unlimited menyediakan akses percuma kepada semua kandungan dengan sumber tanpa had, manakala aplikasi rasmi memerlukan pembelian dalam aplikasi untuk lokasi, watak, dan item premium. Mekanik permainan asas kekal sama."
+    },
+    "aboutGame": {
+      "title": "Mengenai Permainan Toca Boca Life World",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "Gambaran permainan Toca Life World menunjukkan lokasi dan watak berwarna-warni",
+      "company": {
+        "heading": "Pembangun Permainan",
+        "text": "Toca Boca adalah pembangun aplikasi kanak-kanak yang dimiliki oleh Spin Master. Diasaskan pada tahun 2010 di Sweden, syarikat ini telah mengeluarkan lebih 40 aplikasi dengan lebih 500 juta muat turun di seluruh dunia."
+      },
+      "vision": {
+        "heading": "Falsafah Reka Bentuk",
+        "text": "Permainan Toca Boca menggunakan reka bentuk permainan terbuka. Tiada peraturan, skor, atau had masa dalam permainan. Pemain mencipta naratif mereka sendiri tanpa objektif yang telah ditetapkan."
+      },
+      "audience": {
+        "heading": "Kumpulan Umur Sasaran",
+        "text": "Permainan direka untuk kanak-kanak berumur 3-12 tahun. Toca Life World khususnya menyasarkan umur 6-12 yang berminat dalam permainan main peranan dan simulasi. Kawalan berasaskan sentuhan direka untuk pengguna kanak-kanak."
+      },
+      "popularity": {
+        "heading": "Ciri-ciri Permainan",
+        "text": "Permainan mempunyai reka bentuk watak yang pelbagai dan mengelakkan perwakilan stereotaip. Pemain mempunyai kebebasan dalam cara mereka berinteraksi dengan kandungan permainan. Versi berbayar tidak mengandungi iklan. Permainan menggunakan gaya seni berwarna-warni dan termasuk elemen interaktif."
+      }
+    },
+    "safety": {
+      "title": "Maklumat Keselamatan",
+      "subtitle": "Pertimbangan keselamatan untuk fail mod APK",
+      "importantLabel": "Penting:",
+      "bottomNote": "Sentiasa muat turun dari sumber yang dipercayai dan sahkan integriti fail sebelum pemasangan. Pastikan perisian keselamatan peranti anda dikemas kini.",
+      "safe1": {
+        "title": "Keselamatan Fail APK",
+        "description": "Fail APK yang diubah suai harus diimbas dengan perisian antivirus sebelum pemasangan. Gunakan alat antivirus yang bereputasi untuk mengesahkan integriti fail."
+      },
+      "safe2": {
+        "title": "Pengumpulan Data",
+        "description": "Mod ini tidak menambah pengumpulan data tambahan melebihi apa yang wujud dalam aplikasi asal. Tiada log masuk diperlukan untuk mengakses kandungan yang dibuka."
+      },
+      "safe3": {
+        "title": "Fungsi Luar Talian",
+        "description": "Permainan berfungsi luar talian selepas pemasangan. Sambungan internet tidak diperlukan untuk permainan. Ciri luar talian asal kekal berfungsi."
+      },
+      "safe4": {
+        "title": "Keserasian Peranti",
+        "description": "Diuji pada Android 5.0 dan versi yang lebih baru. Prestasi berbeza mengikut spesifikasi peranti. Memerlukan kira-kira 150 MB storan percuma."
+      },
+      "safe5": {
+        "title": "Penarafan Kandungan",
+        "description": "Permainan Toca Boca direka untuk umur 3-12 tahun. Kandungan kekal sesuai umur dalam versi mod. Tiada tema ganas atau matang."
+      },
+      "safe6": {
+        "title": "Pertimbangan Pemasangan",
+        "description": "Mod APK tidak boleh dipasang bersama versi rasmi. Memerlukan pengaktifan 'Sumber Tidak Diketahui' dalam tetapan Android. Kemas kini rasmi tidak disokong."
+      }
+    },
+    "latestVersion": {
+      "title": "Muat Turun Toca Boca Mod - Versi Terkini APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "Lokasi Apartmen Ditambah",
+          "description": "Lokasi bangunan apartmen baharu dengan 4 tingkat dan 8 bilik. Mengandungi perabot dan item interaktif."
+        },
+        {
+          "title": "Penambahan Watak",
+          "description": "6 watak baharu ditambah dengan pilihan pakaian dan aksesori. Semua watak dibuka dalam versi mod."
+        },
+        {
+          "title": "Pengembangan Perabot",
+          "description": "100+ perabot baharu ditambah: set dapur, item bilik tidur, lekapan bilik mandi, dan perabot ruang tamu."
+        },
+        {
+          "title": "Kemas Kini Teknikal",
+          "description": "Pengoptimuman enjin permainan untuk prestasi yang lebih baik pada peranti lama. Pengurangan masa pemuatan dan pembetulan pepijat disertakan."
+        }
+      ],
+      "changelog": {
+        "title": "Sejarah Versi",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "Apartmen baharu, 6 watak, 100+ perabot"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "Dis 2024",
+            "changes": "Item dan hiasan cuti musim sejuk"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "Nov 2024",
+            "changes": "Pengembangan lokasi pusat membeli-belah"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Ciri-ciri Permainan Toca Boca",
+      "subtitle": "Elemen permainan teras",
+      "feature1": {
+        "title": "8+ Lokasi Permainan",
+        "description": "Pelbagai lokasi tersedia: rumah, sekolah, pusat membeli-belah, medan selera, salun rambut, pejabat, apartmen, dan lain-lain. Setiap lokasi mengandungi objek interaktif.",
+        "keywords": "lokasi, penerokaan, interaktif"
+      },
+      "feature2": {
+        "title": "40+ Watak Boleh Dimainkan",
+        "description": "40+ watak dengan reka bentuk pelbagai mewakili umur, etnik, dan gaya yang berbeza. Penampilan watak, pakaian, dan aksesori boleh disesuaikan.",
+        "keywords": "watak, kepelbagaian, penyesuaian"
+      },
+      "feature3": {
+        "title": "Permainan Terbuka",
+        "description": "Permainan tidak mengandungi peraturan atau objektif yang telah ditetapkan. Pemain mencipta senario dan naratif mereka sendiri melalui mekanik main peranan.",
+        "keywords": "permainan kreatif, penceritaan, imaginasi"
+      },
+      "feature4": {
+        "title": "Reka Bentuk Fokus Kanak-kanak",
+        "description": "Versi rasmi direka untuk kanak-kanak: tiada pengiklanan pihak ketiga dalam versi berbayar, tiada pautan media sosial. Versi mod membuang gesaan pembelian dalam aplikasi.",
+        "keywords": "selamat, mesra kanak-kanak, kawalan ibu bapa"
+      }
+    },
+    "modFeatures": {
+      "title": "Ciri-ciri Toca Boca Mod APK",
+      "subtitle": "Wang tanpa had, perabot, dan hadiah disertakan",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "Mod Toca Boca unlimited dengan semua lokasi dan item dibuka",
+      "features": [
+        {
+          "title": "Semua Kandungan Dibuka",
+          "description": "Semua 8 lokasi, 40+ watak, 500+ perabot, dan item boleh diakses dari pemasangan. Tiada pembelian dalam aplikasi diperlukan.",
+          "icon": "unlock"
+        },
+        {
+          "title": "Wang & Mata Wang Tanpa Had",
+          "description": "Wang dalam permainan tanpa had (syiling/permata) disediakan. Semua item boleh dibeli tanpa sekatan mata wang. Versi Toca Boca unlimited money apk.",
+          "icon": "money"
+        },
+        {
+          "title": "Penyingkiran Iklan",
+          "description": "Iklan dari versi rasmi percuma dibuang. Tiada iklan pop-up, video, atau sepanduk dalam versi diubah suai ini.",
+          "icon": "shield"
+        },
+        {
+          "title": "Hadiah & Kandungan Premium Tanpa Had",
+          "description": "Semua lokasi premium, watak, hadiah tanpa had, item, dan kandungan bermusim disertakan. Tiada pembelian DLC berasingan diperlukan.",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK vs Asal",
+      "subtitle": "Perbandingan versi mod",
+      "featureLabel": "Ciri",
+      "modVersion": "Versi Mod",
+      "original": "Versi Asal",
+      "swipeHint": "← Leret untuk lihat perbandingan →",
+      "bottomNote": "Perbandingan ciri antara versi mod dan asal",
+      "downloadButton": "Muat Turun Toca Boca Mod",
+      "features": [
+        {
+          "feature": "Harga",
+          "mod": "100% Percuma",
+          "original": "$4.99 + Pembelian Dalam Aplikasi"
+        },
+        {
+          "feature": "Semua Lokasi Dibuka",
+          "mod": "Ya - 8 Lokasi",
+          "original": "Separa - 1 Percuma, 7 Berbayar"
+        },
+        {
+          "feature": "Semua Watak Tersedia",
+          "mod": "Ya - 40+ Watak",
+          "original": "Terhad - 8 Watak Percuma"
+        },
+        {
+          "feature": "Perabot & Item",
+          "mod": "Semua 500+ Item Percuma",
+          "original": "Kebanyakan Item Memerlukan Pembelian"
+        },
+        {
+          "feature": "Mata Wang Dalam Permainan",
+          "mod": "Wang Tanpa Had",
+          "original": "Terhad, Mesti Beli Lebih"
+        },
+        {
+          "feature": "Iklan",
+          "mod": "Tiada Iklan",
+          "original": "Iklan Dalam Versi Percuma"
+        },
+        {
+          "feature": "Kandungan Premium",
+          "mod": "Semua Disertakan Percuma",
+          "original": "DLC Berbayar Diperlukan"
+        },
+        {
+          "feature": "Kemas Kini Permainan",
+          "mod": "Kemas Kini Mod Berkala",
+          "original": "Kemas Kini Automatik Kedai Aplikasi"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "Cara Muat Turun Toca Boca Mod APK",
+      "subtitle": "Langkah-langkah muat turun toca boca mod apk",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "Butang muat turun Toca Boca mod APK",
+      "steps": [
+        {
+          "title": "Dayakan Sumber Tidak Diketahui",
+          "description": "Pergi ke Tetapan > Keselamatan > Sumber Tidak Diketahui dan dayakan pilihan ini. Tetapan ini membenarkan Android memasang fail APK dari sumber selain Kedai Google Play."
+        },
+        {
+          "title": "Muat Turun Fail APK",
+          "description": "Klik butang muat turun di halaman ini. Fail APK (720 MB) akan dimuat turun ke peranti anda. Tunggu sehingga muat turun selesai sebelum meneruskan."
+        },
+        {
+          "title": "Cari Fail Yang Dimuat Turun",
+          "description": "Buka folder Muat Turun peranti anda atau semak panel pemberitahuan. Cari fail bernama 'TocaBoca_Mod_v1.95.apk' dan ketik untuk memulakan pemasangan."
+        },
+        {
+          "title": "Pasang Aplikasi",
+          "description": "Android memaparkan skrin pengesahan pemasangan. Ketik 'Pasang' dan tunggu proses pemasangan selesai."
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "Cara Memasang Toca Boca Mod APK",
+      "subtitle": "Arahan pemasangan",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Skrin pemasangan mod Toca Boca",
+      "steps": [
+        {
+          "title": "Sahkan Keperluan Sistem",
+          "description": "Spesifikasi diperlukan: Android 5.0 atau lebih tinggi, 150 MB ruang storan percuma, 2 GB RAM minimum. Kebanyakan peranti yang dikilangkan 2018 atau kemudian memenuhi keperluan ini."
+        },
+        {
+          "title": "Buang Versi Rasmi",
+          "description": "Jika aplikasi Toca Boca rasmi dipasang, nyahpasang sebelum meneruskan. Versi mod dan rasmi tidak boleh wujud bersama pada peranti yang sama."
+        },
+        {
+          "title": "Berikan Kebenaran Pemasangan",
+          "description": "Android mungkin meminta kebenaran semasa pemasangan. Mod memerlukan akses storan untuk menyimpan kemajuan permainan. Semak permintaan kebenaran sebelum memberi."
+        },
+        {
+          "title": "Lancarkan Aplikasi",
+          "description": "Selepas pemasangan selesai, cari ikon Toca Boca di skrin utama anda. Buka aplikasi untuk mengakses semua kandungan yang dibuka."
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Cara Main Toca Boca",
+      "subtitle": "Arahan permainan asas",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Tutorial permainan Toca Boca",
+      "basics": [
+        {
+          "title": "Pilih Lokasi",
+          "description": "Pilih dari 8 lokasi tersedia melalui peta dunia. Setiap lokasi menyediakan tetapan aktiviti yang berbeza: rumah, pusat membeli-belah, sekolah, dan lain-lain. Semua lokasi dibuka dalam versi mod."
+        },
+        {
+          "title": "Pilih Watak",
+          "description": "Pilih watak dari menu watak (40+ tersedia). Seret watak ke dalam adegan. Pelbagai watak boleh aktif serentak. Sesuaikan pakaian watak dengan mengetik watak dan memilih item pakaian."
+        },
+        {
+          "title": "Gunakan Objek Interaktif",
+          "description": "Ketik objek untuk mencetuskan interaksi - buka peti sejuk, aktifkan peralatan, manipulasi item. Kebanyakan objek dalam permainan bertindak balas kepada input pemain. Seret item ke tangan watak untuk digunakan."
+        },
+        {
+          "title": "Bermain Bebas",
+          "description": "Tiada misi atau objektif. Pemain mencipta senario melalui interaksi watak dan manipulasi objek. Permainan menyokong aktiviti main peranan terbuka."
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Tangkapan Skrin Toca Boca Mod APK",
+      "subtitle": "Contoh antara muka permainan",
+      "images": [
+        {
+          "title": "Akses Lokasi",
+          "description": "Semua 8 lokasi boleh diakses dari pelancaran awal. Tiada pembukaan tambahan diperlukan.",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "Pilihan Watak",
+          "description": "40+ watak dengan ciri penyesuaian. Item pakaian dan aksesori dibuka.",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "Hiasan Bilik",
+          "description": "500+ perabot tersedia untuk hiasan bilik. Semua item boleh diakses dalam versi mod.",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "Elemen Interaktif",
+          "description": "Objek interaktif ada di seluruh lokasi permainan. Pelbagai item bertindak balas kepada interaksi pemain.",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Penyelesaian Masalah Biasa",
+      "subtitle": "Penyelesaian kepada masalah kerap",
+      "bottomNote": "Masih menghadapi masalah? Semak bahagian Soalan Lazim kami untuk bantuan lanjut.",
+      "issue1": {
+        "problem": "Pemasangan Gagal atau Disekat",
+        "solution": "Pastikan 'Sumber Tidak Diketahui' didayakan dalam Tetapan > Keselamatan. Jika masih disekat, cuba muat turun semula kerana fail mungkin rosak. Sesetengah aplikasi antivirus salah menanda mod - lumpuhkan sementara semasa pemasangan."
+      },
+      "issue2": {
+        "problem": "Aplikasi Terus Ranap",
+        "solution": "Kosongkan cache aplikasi: Tetapan > Aplikasi > Toca Boca > Kosongkan Cache. Pastikan anda mempunyai sekurang-kurangnya 150 MB storan percuma. Mulakan semula peranti anda dan cuba lagi. Kemas kini ke versi mod terkini jika tersedia."
+      },
+      "issue3": {
+        "problem": "Tidak Semua Kandungan Dibuka",
+        "solution": "Sahkan anda memuat turun versi mod (saiz fail sepatutnya 720 MB). Padam dan pasang semula dari laman kami. Sesetengah lokasi kelihatan terkunci tetapi sebenarnya boleh diakses - cuba ketik lagi."
+      },
+      "issue4": {
+        "problem": "Permainan Tidak Terbuka",
+        "solution": "Semak versi Android (perlu 5.0+). Nyahpasang Toca Boca rasmi jika dipasang. Pasang semula mod APK. Jika masalah berterusan, peranti anda mungkin tidak serasi - cuba pada peranti lain."
+      },
+      "issue5": {
+        "problem": "Kemajuan Tidak Disimpan",
+        "solution": "Berikan kebenaran storan: Tetapan > Aplikasi > Toca Boca > Kebenaran > Storan. Pastikan anda mempunyai ruang storan yang mencukupi. Elakkan menutup paksa aplikasi semasa bermain."
+      },
+      "issue6": {
+        "problem": "Prestasi Perlahan atau Lag",
+        "solution": "Tutup aplikasi lain yang berjalan untuk membebaskan RAM. Kurangkan kecerahan skrin peranti. Kosongkan cache secara berkala. Mod dioptimumkan tetapi peranti sangat lama (sebelum 2017) mungkin mengalami kelembapan."
+      }
+    },
+    "guides": {
+      "title": "Panduan Berguna",
+      "subtitle": "Navigasi pantas ke bahagian",
+      "readMore": "Baca Selanjutnya",
+      "whatIs": {
+        "title": "Apakah Toca Boca Mod?",
+        "excerpt": "Ketahui apa yang membezakan versi mod dari aplikasi asal."
+      },
+      "about": {
+        "title": "Mengenai Toca Life World",
+        "excerpt": "Temui latar belakang permainan, pembangun, dan mengapa ia sangat popular."
+      },
+      "download": {
+        "title": "Cara Muat Turun",
+        "excerpt": "Panduan muat turun langkah demi langkah untuk peranti Android."
+      },
+      "install": {
+        "title": "Panduan Pemasangan",
+        "excerpt": "Arahan pemasangan lengkap dengan keperluan sistem."
+      },
+      "play": {
+        "title": "Cara Main",
+        "excerpt": "Asas permainan dan petua untuk pemula."
+      },
+      "troubleshoot": {
+        "title": "Penyelesaian Masalah",
+        "excerpt": "Penyelesaian kepada masalah pemasangan dan permainan biasa."
+      }
+    },
+    "useCases": {
+      "title": "Siapa Menggunakan Toca Boca Mod?",
+      "subtitle": "Kumpulan pengguna biasa untuk versi diubah suai",
+      "socialMedia": {
+        "title": "Kanak-kanak Umur 6-12",
+        "description": "Kumpulan umur utama untuk permainan Toca. Mod menyediakan akses kepada semua kandungan tanpa memerlukan pembelian dalam aplikasi dari ibu bapa.",
+        "keywords": "kanak-kanak, permainan kreatif"
+      },
+      "business": {
+        "title": "Ibu Bapa & Keluarga",
+        "description": "Ibu bapa mencari versi penuh tanpa pembelian berterusan. Mod menghapuskan iklan yang ada dalam versi rasmi percuma.",
+        "keywords": "ibu bapa, keluarga, tanpa kos"
+      },
+      "creators": {
+        "title": "Pencipta Kandungan",
+        "description": "Pencipta video menunjukkan permainan penuh. Mod menyediakan akses kepada semua kandungan untuk demonstrasi dan ulasan menyeluruh.",
+        "keywords": "youtubers, streamers, kandungan"
+      },
+      "teams": {
+        "title": "Pendidik",
+        "description": "Guru menggunakan permainan Toca untuk aktiviti bercerita dan main peranan. Mod menghapuskan halangan kos untuk kegunaan bilik darjah.",
+        "keywords": "pendidikan, guru, bilik darjah"
+      },
+      "personal": {
+        "title": "Kanak-kanak Lebih Muda (3-5)",
+        "description": "Pengguna umur prasekolah. Mod membuang gesaan pembelian yang kanak-kanak muda tidak dapat navigasi sendiri.",
+        "keywords": "balita, prasekolah, antara muka mudah"
+      },
+      "education": {
+        "title": "Pengumpul Lengkap",
+        "description": "Pengguna mahukan akses kepada semua elemen permainan. Mod membuka keseluruhan perpustakaan kandungan tanpa pembelian berperingkat.",
+        "keywords": "pengumpul, kelengkapan, akses penuh"
+      },
+      "ctaDescription": "Versi diubah suai dengan semua kandungan boleh diakses dari pemasangan.",
+      "ctaButton": "Muat Turun APK"
+    },
+    "faq": {
+      "title": "Soalan Lazim",
+      "subtitle": "Soalan biasa mengenai Toca Boca mod APK",
+      "q1": {
+        "question": "Apakah Toca Boca Mod APK?",
+        "answer": "Toca Boca mod apk adalah versi diubah suai Toca Life World yang membuka semua kandungan premium. Termasuk wang tanpa had, perabot tanpa had, hadiah tanpa had, semua lokasi, watak, dan item. Mod Toca Boca dengan semua dibuka dan tiada iklan."
+      },
+      "q2": {
+        "question": "Adakah selamat memuat turun Toca Boca Mod APK?",
+        "answer": "Fail APK yang diubah suai membawa risiko yang tidak ada dalam muat turun kedai aplikasi rasmi. Mod ini tidak mengumpul data peribadi tambahan melebihi aplikasi asal. Fail harus diimbas dengan perisian antivirus sebelum pemasangan. Berfungsi luar talian selepas muat turun awal. Tiada pengesahan keselamatan rasmi untuk mod pihak ketiga."
+      },
+      "q3": {
+        "question": "Bagaimana cara muat turun Toca Boca Mod APK?",
+        "answer": "Langkah muat turun:\n\n1. Dayakan 'Sumber Tidak Diketahui' dalam Tetapan > Keselamatan\n2. Muat turun fail APK (720 MB)\n3. Buka folder Muat Turun dan ketik fail APK\n4. Ketik 'Pasang' dan tunggu sehingga selesai\n\nMemerlukan 150 MB storan percuma dan Android 5.0 atau lebih tinggi."
+      },
+      "q4": {
+        "question": "Adakah Toca Boca Mod memerlukan internet?",
+        "answer": "Tiada sambungan internet diperlukan selepas pemasangan. Semua kandungan disimpan secara tempatan pada peranti. Permainan berfungsi sepenuhnya luar talian."
+      },
+      "q5": {
+        "question": "Apakah perbezaan antara mod dan asal?",
+        "answer": "Perbezaan utama:\n\n• Harga: Mod percuma, asal berharga $4.99 ditambah pembelian dalam aplikasi\n• Kandungan: Mod mempunyai semua dibuka, asal memerlukan bayaran untuk kandungan premium\n• Mata Wang: Mod menyediakan wang tanpa had dalam permainan, asal memerlukan pembelian syiling\n• Iklan: Mod membuang iklan, versi asal percuma mengandungi iklan\n• Kemas Kini: Mod memerlukan pemasangan manual, asal kemas kini melalui kedai aplikasi\n\nMekanik permainan teras adalah sama."
+      },
+      "q6": {
+        "question": "Adakah Toca Boca Mod akan berfungsi pada peranti saya?",
+        "answer": "Keperluan sistem:\n\n• Android 5.0 (Lollipop) atau lebih tinggi\n• 150 MB ruang storan percuma\n• 2 GB RAM minimum\n• Pemproses ARM atau ARM64\n\niOS/iPhone tidak disokong. Serasi dengan kebanyakan peranti Android dari 2018 dan seterusnya."
+      },
+      "q7": {
+        "question": "Bolehkah saya main Toca Boca Mod pada pelbagai peranti?",
+        "answer": "Mod boleh dipasang pada pelbagai peranti Android. Kemajuan permainan tidak disegerakkan antara peranti - setiap pemasangan mengekalkan data simpanan berasingan. Pemindahan manual fail simpanan memerlukan pengetahuan teknikal."
+      },
+      "q8": {
+        "question": "Adakah semua benar-benar dibuka dalam mod?",
+        "answer": "Semua kandungan dibuka:\n\n• Semua 8 lokasi (Rumah, Sekolah, Pusat Membeli-belah, Medan Selera, Salun Rambut, Pejabat, Apartmen, Taman)\n• Semua 40+ watak dengan pilihan penyesuaian\n• Semua 500+ perabot dan item hiasan\n• Semua pakaian, aksesori, dan item khas\n• Mata wang tanpa had dalam permainan\n• Kandungan bermusim dan percutian\n\nTiada bayaran tambahan diperlukan untuk sebarang kandungan."
+      },
+      "q9": {
+        "question": "Mengapa saiz fail lebih besar dari asal?",
+        "answer": "Mod APK (720 MB) termasuk semua kandungan premium yang telah dibungkus. Aplikasi rasmi memuat turun kandungan tambahan atas permintaan apabila dibeli. Mod menggabungkan semua dalam fail pemasangan awal."
+      },
+      "q10": {
+        "question": "Berapa kerap Toca Boca Mod dikemas kini?",
+        "answer": "Versi mod biasanya dikeluarkan 1-2 minggu selepas kemas kini rasmi. Kemas kini memerlukan muat turun dan pemasangan manual. Versi terdahulu kekal berfungsi tetapi tidak menerima kandungan baharu dari keluaran rasmi."
+      }
+    },
+    "cta": {
+      "title": "Muat Turun Toca Boca Mod - Kemas Kini Terkini v1.116 Tersedia",
+      "description": "Muat turun toca boca mod apk kemas kini terkini dengan wang tanpa had, perabot tanpa had, dan hadiah tanpa had",
+      "primaryButton": "Muat Turun Toca Boca Mod",
+      "version": "Versi v1.116 (720 MB)",
+      "complianceNotice": "Sumber pendidikan. Tidak bersekutu dengan Toca Boca atau Spin Master. Hormati hak cipta asal."
+    }
+  }
+}

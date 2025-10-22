@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "Tải xuống",
+            "url": "/#download"
+          },
+          {
+            "title": "Phiên bản",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "Câu hỏi thường gặp",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Tải xuống Toca Boca Mod APK với mọi thứ được mở khóa miễn phí. An toàn, không quảng cáo và truy cập đầy đủ vào tất cả nội dung cao cấp.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "Liên hệ",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. Trang web người hâm mộ cho mục đích giáo dục. Không liên kết chính thức với Toca Boca hoặc Spin Master.",
+      "nav": {
+        "items": [
+          {
+            "title": "Tải xuống",
+            "children": [
+              {
+                "title": "Tải ngay",
+                "url": "/#download"
+              },
+              {
+                "title": "Tất cả phiên bản",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "Cách cài đặt",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "Thông tin",
+            "children": [
+              {
+                "title": "Mod là gì",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "An toàn",
+                "url": "/#safety"
+              },
+              {
+                "title": "Câu hỏi thường gặp",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "Chính sách bảo mật",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Điều khoản dịch vụ",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Chính sách bản quyền DMCA",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

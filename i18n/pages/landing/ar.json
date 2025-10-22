@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "تحميل",
+            "url": "/#download"
+          },
+          {
+            "title": "الإصدارات",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "الأسئلة الشائعة",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "قم بتنزيل Toca Boca Mod APK مع فتح كل شيء مجانًا. آمن، بدون إعلانات، ووصول كامل إلى جميع المحتويات المميزة.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "اتصل بنا",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. موقع المعجبين لأغراض تعليمية. غير منتسب رسميًا مع Toca Boca أو Spin Master.",
+      "nav": {
+        "items": [
+          {
+            "title": "تحميل",
+            "children": [
+              {
+                "title": "التحميل الآن",
+                "url": "/#download"
+              },
+              {
+                "title": "جميع الإصدارات",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "كيفية التثبيت",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "معلومات",
+            "children": [
+              {
+                "title": "ما هو Mod",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "الأمان",
+                "url": "/#safety"
+              },
+              {
+                "title": "الأسئلة الشائعة",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "سياسة الخصوصية",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "شروط الخدمة",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "سياسة حقوق النشر DMCA",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

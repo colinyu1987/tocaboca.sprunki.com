@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Toca Boca Mod APK 最新版2025をダウンロード - 全てアンロック無料",
+      "description": "Toca Boca Mod APK最新版2025をダウンロードします。Toca Life World Modで全てアンロック、無制限のお金、無制限の家具、無制限のギフトを入手できます。Android向け無料ダウンロード。",
+      "keywords": "toca boca mod apk, toca boca unlimited, toca boca お金無制限, toca boca unlimited apk, toca boca 全て無制限, toca boca ギフト無制限, toca boca 家具無制限, toca boca お金無制限 apk, toca life world mod apk, toca boca apk download"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "3-12歳",
+      "description": "無制限のお金、家具、ギフトを備えたToca Boca Mod APK。全てのコンテンツがアンロックされたToca Life World Modをダウンロード - 8つのロケーション、40以上のキャラクター、500以上のアイテム。Androidデバイス向け無料ダウンロード。",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Toca Boca Mod APKをダウンロード",
+      "description": "無制限のお金、家具、ギフトを備えたToca Boca Mod APKをダウンロードします。Android向けに全てのコンテンツがアンロックされたToca Life World Modを入手できます。"
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "Toca Boca Mod APKの無料ダウンロードサイト。全てのコンテンツがアンロックされたToca Life Worldの改造版を提供しています。"
+    }
+  },
+  "not-found": {
+    "404_title": "ページが見つかりません",
+    "404_description": "お探しのページは利用できません。",
+    "back_home": "ホームに戻る"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "このページを共有",
+      "defaultTitle": "Toca Boca Mod APK - 最新版をダウンロード",
+      "defaultDescription": "無制限のお金、家具、ギフトを備えたToca Life World Modを入手。全てのコンテンツが無料でアンロック",
+      "shareOn": "{{platform}}で共有",
+      "shareSuccess": "{{platform}}で共有に成功しました!",
+      "shareFailed": "共有に失敗しました。もう一度お試しください",
+      "copyLink": "リンクをコピー",
+      "linkCopied": "リンクがクリップボードにコピーされました!",
+      "copyFailed": "リンクのコピーに失敗しました",
+      "share": "共有"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Toca Life World Mod ダウンロード - 無限のお金、家具、ギフト",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "最新バージョン",
+      "downloadButton": "Toca Boca Mod ダウンロード",
+      "downloadCount": "ファイルサイズ: 720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "全てのコンテンツがアンロック",
+        "money": "無制限のお金",
+        "ads": "広告なし",
+        "free": "無料ダウンロード"
+      }
+    },
+    "modVersions": {
+      "title": "利用可能なToca Boca Modバージョン",
+      "subtitle": "プレミアムコンテンツがアンロックされた様々なToca Bocaゲーム",
+      "downloadButton": "ダウンロード",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "8以上のロケーションと40以上のキャラクターを持つメインのToca Bocaゲームです。全ての家、家具、アイテムがアンロック済み。無制限のクリエイティブなゲームプレイが可能です。",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "メインバージョン"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "全てのキッチン用具がアンロックされたオリジナル料理ゲームです。クリエイティブな調理ゲームプレイです。",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "キッチンテーマ"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "より多くの食材とツールを追加した強化版料理ゲームです。全てのレシピとキッチン機器がアンロック済みです。",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "キッチンテーマ"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "全てのツールとアクセサリーがアンロックされたヘアサロンゲームです。様々なヘアスタイル、カラー、デコレーションが利用可能です。",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "スタイルテーマ"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "全てのツールがアンロックされた医療シミュレーションです。様々な症状を治療する医師としてプレイできます。全てのコンテンツにアクセス可能です。",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "医療テーマ"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "3-5歳向けのシンプルバージョンです。全ての機能がアンロックされた基本的なゲームプレイです。広告なしのインターフェースです。",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "3-5歳"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "お店、レストラン、家がある町を探索しましょう。全ての場所とキャラクターがアンロック済みです。",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "タウンテーマ"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "都市の場所を探索する都市探検ゲームです。全ての建物と乗り物にアクセス可能です。",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "シティテーマ"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "全ての診療科がアンロックされた医療センターシミュレーションです。完全な病院設備が利用可能です。",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "医療テーマ"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "全てのオフィススペースがアンロックされた職場シミュレーションです。プロフェッショナルなロールプレイ活動です。",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "オフィステーマ"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "全ての動物がアンロックされたペットケアシミュレーションです。完全なペット用アクセサリーとおもちゃが利用可能です。",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "ペットテーマ"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "自然探索とエコシステム構築ゲームです。全ての植物、動物、環境がアンロック済みです。",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "ネイチャーテーマ"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "教室と活動がある学校シミュレーションです。全ての教育コンテンツがアンロック済みです。",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "スクールテーマ"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "楽しいかくれんぼゲームです。クリエイティブなプレイのために全てのキャラクターと場所がアンロック済みです。",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "ファンテーマ"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "化学元素を扱う科学探索ゲームです。全ての実験とツールがアンロック済みです。",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "サイエンステーマ"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "植物実験を行う植物科学ゲームです。全ての植物、ツール、実験室設備がアンロック済みです。",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "生物学テーマ"
+      }
+    },
+    "whatIsMod": {
+      "title": "Toca Boca Mod APKとは?",
+      "intro": "Toca Boca Mod APKは、全てのプレミアムコンテンツをアンロックする改造版です。無制限のお金、無制限の家具、無制限のギフト、全ての機能、キャラクター、ロケーションに支払いなしでアクセスできます。",
+      "features": [
+        {
+          "title": "全てが無制限でアンロック",
+          "description": "全ての家、無制限の家具、キャラクター、アクセサリーがインストール時からアクセス可能です。Toca Bocaの家とロケーションへの無制限アクセスが含まれます。"
+        },
+        {
+          "title": "広告の削除",
+          "description": "公式無料版に存在する広告が削除されています。広告の中断なしでゲームプレイが続きます。"
+        },
+        {
+          "title": "無制限のお金とギフト",
+          "description": "ゲーム内通貨(コイン/ジェム)とギフトが無制限に提供されます。Toca Boca Unlimited Money APKでアイテム購入とカスタマイズが制限なく可能です。"
+        }
+      ],
+      "difference": "Toca Boca Unlimited Modは無制限のリソースで全てのコンテンツへの無料アクセスを提供しますが、公式アプリはプレミアムロケーション、キャラクター、アイテムにアプリ内購入が必要です。基本的なゲームプレイメカニクスは同じです。"
+    },
+    "aboutGame": {
+      "title": "Toca Boca Life Worldゲームについて",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "カラフルなロケーションとキャラクターを持つToca Life Worldゲームの概要",
+      "company": {
+        "heading": "ゲーム開発者",
+        "text": "Toca BocaはSpin Masterが所有する子供向けアプリ開発会社です。2010年にスウェーデンで設立され、世界中で5億以上のダウンロードを持つ40以上のアプリをリリースしています。"
+      },
+      "vision": {
+        "heading": "デザイン哲学",
+        "text": "Toca Bocaゲームはオープンエンドプレイデザインを採用しています。ゲームプレイにルール、スコア、時間制限はありません。プレイヤーは事前定義された目標なしで独自のストーリーを作成します。"
+      },
+      "audience": {
+        "heading": "対象ユーザー",
+        "text": "ゲームは3-12歳の子供向けに設計されています。Toca Life Worldは特に6-12歳の子供で、ロールプレイングとシミュレーションに興味がある層をターゲットにしています。タッチベースのコントロールは子供のユーザー向けに設計されています。"
+      },
+      "popularity": {
+        "heading": "ゲームの特徴",
+        "text": "ゲームは多様なキャラクターデザインを特徴とし、ステレオタイプの描写を避けています。プレイヤーはゲームコンテンツとの対話において自由を持っています。有料版には広告が含まれていません。ゲームはカラフルなアートスタイルを使用し、インタラクティブ要素を含んでいます。"
+      }
+    },
+    "safety": {
+      "title": "安全情報",
+      "subtitle": "Mod APKファイルの安全性評価",
+      "importantLabel": "重要:",
+      "bottomNote": "常に信頼できるソースからダウンロードし、インストール前にファイルの整合性を確認してください。デバイスのセキュリティソフトウェアを最新に保ってください。",
+      "safe1": {
+        "title": "APKファイルの安全性",
+        "description": "改造APKファイルはインストール前にアンチウイルスソフトウェアでスキャンする必要があります。信頼できるアンチウイルスツールを使用してファイルの整合性を確認してください。"
+      },
+      "safe2": {
+        "title": "データ収集",
+        "description": "このModは元のアプリに存在するもの以外の追加データ収集を追加しません。アンロックされたコンテンツにアクセスするためのログインは必要ありません。"
+      },
+      "safe3": {
+        "title": "オフライン機能",
+        "description": "ゲームはインストール後にオフラインで機能します。ゲームプレイにインターネット接続は必要ありません。元のオフライン機能は保持されています。"
+      },
+      "safe4": {
+        "title": "デバイス互換性",
+        "description": "Android 5.0以降でテスト済みです。パフォーマンスはデバイス仕様によって異なります。約150 MBの空き容量が必要です。"
+      },
+      "safe5": {
+        "title": "コンテンツレーティング",
+        "description": "Toca Bocaゲームは3-12歳向けに設計されています。Mod版でもコンテンツは年齢に適しています。暴力的または成人向けのテーマはありません。"
+      },
+      "safe6": {
+        "title": "インストールに関する考慮事項",
+        "description": "Mod APKは公式版と一緒にインストールできません。Android設定で「提供元不明のアプリ」を有効にする必要があります。公式アップデートはサポートされていません。"
+      }
+    },
+    "latestVersion": {
+      "title": "Toca Boca Mod ダウンロード - 最新版 APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "アパートロケーション追加",
+          "description": "4階建て、8部屋の新しいアパート建物ロケーションです。家具とインタラクティブアイテムが含まれます。"
+        },
+        {
+          "title": "キャラクター追加",
+          "description": "衣装とアクセサリーの選択肢を持つ6つの新キャラクターが追加されました。Mod版では全てのキャラクターがアンロック済みです。"
+        },
+        {
+          "title": "家具の拡張",
+          "description": "100以上の新しい家具アイテムが追加されました: キッチンセット、ベッドルームアイテム、バスルーム備品、リビングルーム家具です。"
+        },
+        {
+          "title": "技術的更新",
+          "description": "古いデバイスでのより良いパフォーマンスのためにゲームエンジンを最適化しました。ローディング時間の短縮とバグ修正が含まれます。"
+        }
+      ],
+      "changelog": {
+        "title": "バージョン履歴",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "新アパート、6キャラクター、100以上の家具"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "2024年12月",
+            "changes": "冬のホリデーアイテムと装飾"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "2024年11月",
+            "changes": "ショッピングモールロケーション拡張"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Toca Bocaゲームの特徴",
+      "subtitle": "基本的なゲームプレイ要素",
+      "feature1": {
+        "title": "8以上のゲームロケーション",
+        "description": "様々なロケーションが利用可能です: 家、学校、モール、フードエリア、ヘアサロン、オフィス、アパート、その他。各ロケーションにはインタラクティブなオブジェクトが含まれます。",
+        "keywords": "ロケーション, 探索, インタラクティブ"
+      },
+      "feature2": {
+        "title": "40以上のプレイ可能なキャラクター",
+        "description": "様々な年齢層、民族、スタイルを表す多様なデザインの40以上のキャラクターです。キャラクターの外見、服装、アクセサリーをカスタマイズできます。",
+        "keywords": "キャラクター, 多様性, カスタマイズ"
+      },
+      "feature3": {
+        "title": "オープンエンドゲームプレイ",
+        "description": "ゲームには事前定義されたルールや目標が含まれていません。プレイヤーはロールプレイングメカニクスを通じて独自のシナリオとストーリーを作成します。",
+        "keywords": "創造的遊び, ストーリーテリング, 想像力"
+      },
+      "feature4": {
+        "title": "子供に優しいデザイン",
+        "description": "公式版は子供向けに設計されています: 有料版にサードパーティの広告なし、ソーシャルメディアリンクなし。Mod版はアプリ内購入プロンプトを削除します。",
+        "keywords": "安全, 子供に優しい, ペアレンタルコントロール"
+      }
+    },
+    "modFeatures": {
+      "title": "Toca Boca Mod APKの特徴",
+      "subtitle": "無制限のお金、家具、ギフトを含む",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "全てのロケーションとアイテムがアンロックされたToca Boca Unlimited Mod",
+      "features": [
+        {
+          "title": "全てのコンテンツがアンロック",
+          "description": "全ての8つのロケーション、40以上のキャラクター、500以上の家具アイテムと装飾品がインストール時からアクセス可能です。アプリ内購入は必要ありません。",
+          "icon": "unlock"
+        },
+        {
+          "title": "無制限のお金と通貨",
+          "description": "ゲーム内通貨(コイン/ジェム)が無制限に提供されます。全てのアイテムを通貨制限なしで購入できます。Toca Boca Unlimited Money APKバージョンです。",
+          "icon": "money"
+        },
+        {
+          "title": "広告の削除",
+          "description": "公式無料版に存在する広告が削除されています。この改造版にはポップアップ、ビデオ、バナー広告はありません。",
+          "icon": "shield"
+        },
+        {
+          "title": "無制限のギフトとプレミアムコンテンツ",
+          "description": "全てのプレミアムロケーション、キャラクター、無制限のギフト、アイテム、季節限定コンテンツが含まれます。別途DLC購入は必要ありません。",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK vs オリジナル",
+      "subtitle": "Modバージョンの比較",
+      "featureLabel": "機能",
+      "modVersion": "Mod版",
+      "original": "オリジナル版",
+      "swipeHint": "← スワイプして比較 →",
+      "bottomNote": "Mod版とオリジナル版の機能比較",
+      "downloadButton": "Toca Boca Mod ダウンロード",
+      "features": [
+        {
+          "feature": "価格",
+          "mod": "100% 無料",
+          "original": "$4.99 + アプリ内購入"
+        },
+        {
+          "feature": "全てのロケーションアンロック",
+          "mod": "はい - 8ロケーション",
+          "original": "部分的 - 1無料、7有料"
+        },
+        {
+          "feature": "全てのキャラクター利用可能",
+          "mod": "はい - 40以上のキャラクター",
+          "original": "制限あり - 8キャラクター無料"
+        },
+        {
+          "feature": "家具とアイテム",
+          "mod": "全500以上のアイテム無料",
+          "original": "ほとんどのアイテムは購入が必要"
+        },
+        {
+          "feature": "ゲーム通貨",
+          "mod": "無制限のお金",
+          "original": "制限あり、追加購入が必要"
+        },
+        {
+          "feature": "広告",
+          "mod": "広告なし",
+          "original": "無料版に広告あり"
+        },
+        {
+          "feature": "プレミアムコンテンツ",
+          "mod": "全て無料で含まれる",
+          "original": "有料DLCが必要"
+        },
+        {
+          "feature": "ゲームアップデート",
+          "mod": "定期的なMod更新",
+          "original": "App Storeの自動更新"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "Toca Boca Mod APKのダウンロード方法",
+      "subtitle": "Toca Boca Mod APKをダウンロードする手順",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "Toca Boca Mod APKダウンロードボタン",
+      "steps": [
+        {
+          "title": "提供元不明のアプリを有効化",
+          "description": "設定 > セキュリティ > 提供元不明のアプリを開き、このオプションを有効にします。この設定により、AndroidがGoogle Play Store以外のソースからAPKファイルをインストールできるようになります。"
+        },
+        {
+          "title": "APKファイルをダウンロード",
+          "description": "このページのダウンロードボタンをクリックします。APKファイル(720 MB)がデバイスにダウンロードされます。続行する前にダウンロードが完了するまで待ちます。"
+        },
+        {
+          "title": "ダウンロードしたファイルを見つける",
+          "description": "デバイスのダウンロードフォルダを開くか、通知パネルを確認します。「TocaBoca_Mod_v1.95.apk」という名前のファイルを見つけてタップし、インストールを開始します。"
+        },
+        {
+          "title": "アプリをインストール",
+          "description": "Androidがインストール確認画面を表示します。「インストール」をタップし、インストールプロセスが完了するまで待ちます。"
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "Toca Boca Mod APKのインストール方法",
+      "subtitle": "インストール手順",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Toca Boca Modインストール画面",
+      "steps": [
+        {
+          "title": "システム要件を確認",
+          "description": "必要な仕様: Android 5.0以降、150 MBの空き容量、最低2 GB RAMです。2018年以降に製造されたほとんどのデバイスがこれらの要件を満たします。"
+        },
+        {
+          "title": "公式版を削除",
+          "description": "公式Toca Bocaアプリがインストールされている場合は、続行する前に削除してください。Mod版と公式版は同じデバイスに共存できません。"
+        },
+        {
+          "title": "インストール権限を付与",
+          "description": "インストール中にAndroidが権限を求める場合があります。Modはゲームの進行を保存するためにストレージアクセスが必要です。付与する前に権限リクエストを確認してください。"
+        },
+        {
+          "title": "アプリを起動",
+          "description": "インストールが完了すると、ホーム画面にToca Bocaアイコンが表示されます。アプリを開いて、全てのアンロックされたコンテンツにアクセスします。"
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Toca Bocaのプレイ方法",
+      "subtitle": "基本的なゲームプレイ手順",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Toca Bocaゲームプレイチュートリアル",
+      "basics": [
+        {
+          "title": "ロケーションを選択",
+          "description": "ワールドマップから利用可能な8つのロケーションのいずれかを選択します。各ロケーションは異なる活動環境を提供します: 家、モール、学校、その他。Mod版では全てのロケーションがアンロック済みです。"
+        },
+        {
+          "title": "キャラクターを選択",
+          "description": "キャラクターメニューからキャラクターを選択します(40以上利用可能)。キャラクターをシーンにドラッグします。複数のキャラクターが同時にアクティブになれます。キャラクターをタップして服を選択することで、キャラクターの服装をカスタマイズします。"
+        },
+        {
+          "title": "インタラクティブオブジェクトを使用",
+          "description": "オブジェクトをタップして相互作用をトリガーします - 冷蔵庫を開く、デバイスをアクティブにする、アイテムを操作する。ゲーム内のほとんどのオブジェクトはプレイヤーの入力に反応します。アイテムをキャラクターの手にドラッグして使用します。"
+        },
+        {
+          "title": "自由にプレイ",
+          "description": "タスクや目標はありません。プレイヤーはキャラクターの相互作用とオブジェクトの操作を通じてシナリオを作成します。ゲームはオープンエンドのロールプレイング活動をサポートします。"
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Toca Boca Mod APKのスクリーンショット",
+      "subtitle": "ゲームインターフェースの例",
+      "images": [
+        {
+          "title": "ロケーションアクセス",
+          "description": "全ての8つのロケーションが初回起動からアクセス可能です。追加のアンロックは必要ありません。",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "キャラクターオプション",
+          "description": "カスタマイズ機能を持つ40以上のキャラクターです。服とアクセサリーがアンロック済みです。",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "部屋の装飾",
+          "description": "部屋の装飾に500以上の家具アイテムが利用可能です。Mod版では全てのアイテムにアクセス可能です。",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "インタラクティブ要素",
+          "description": "全てのゲームロケーションでインタラクティブオブジェクトが利用可能です。様々なアイテムがプレイヤーの相互作用に反応します。",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "よくある問題のトラブルシューティング",
+      "subtitle": "頻繁に発生する問題の解決策",
+      "bottomNote": "まだ問題が解決しませんか? さらなるサポートについてはFAQセクションをご覧ください。",
+      "issue1": {
+        "problem": "インストールが失敗またはブロックされる",
+        "solution": "設定 > セキュリティで「提供元不明のアプリ」が有効になっていることを確認してください。それでもブロックされる場合は、ファイルが破損している可能性があるため、再ダウンロードしてください。一部のアンチウイルスアプリがModを誤検知します - インストール中は一時的に無効にしてください。"
+      },
+      "issue2": {
+        "problem": "アプリが頻繁にクラッシュする",
+        "solution": "アプリキャッシュをクリアします: 設定 > アプリ > Toca Boca > キャッシュをクリア。少なくとも150 MBの空き容量があることを確認してください。デバイスを再起動して再試行してください。利用可能な場合は最新のMod版に更新してください。"
+      },
+      "issue3": {
+        "problem": "全てのコンテンツがアンロックされていない",
+        "solution": "Mod版をダウンロードしたことを確認してください(ファイルサイズは720 MBです)。当サイトからアンインストールして再インストールしてください。一部のロケーションはロックされているように見えますが、実際にはアクセス可能です - 再度タップしてみてください。"
+      },
+      "issue4": {
+        "problem": "ゲームが開かない",
+        "solution": "Androidバージョンを確認してください(5.0以上が必要)。公式Toca Bocaがインストールされている場合は削除してください。Mod APKを再インストールしてください。問題が続く場合は、デバイスが互換性がない可能性があります - 別のデバイスで試してください。"
+      },
+      "issue5": {
+        "problem": "進行状況が保存されない",
+        "solution": "ストレージ権限を付与します: 設定 > アプリ > Toca Boca > 権限 > ストレージ。十分なストレージ容量があることを確認してください。プレイ中にアプリを強制終了しないでください。"
+      },
+      "issue6": {
+        "problem": "パフォーマンスが遅いまたはラグがある",
+        "solution": "RAMを解放するために実行中の他のアプリを閉じてください。デバイスの画面の明るさを下げてください。定期的にキャッシュをクリアしてください。Modは最適化されていますが、非常に古いデバイス(2017年以前)では遅延が発生する可能性があります。"
+      }
+    },
+    "guides": {
+      "title": "役立つガイド",
+      "subtitle": "セクションへのクイックナビゲーション",
+      "readMore": "続きを読む",
+      "whatIs": {
+        "title": "Toca Boca Modとは?",
+        "excerpt": "Mod版がオリジナルアプリとどのように異なるかを学びます。"
+      },
+      "about": {
+        "title": "Toca Life Worldについて",
+        "excerpt": "ゲームの歴史、開発者、人気の理由を発見します。"
+      },
+      "download": {
+        "title": "ダウンロード方法",
+        "excerpt": "Androidデバイス向けのステップバイステップのダウンロードガイドです。"
+      },
+      "install": {
+        "title": "インストールガイド",
+        "excerpt": "システム要件を含む完全なインストール手順です。"
+      },
+      "play": {
+        "title": "プレイ方法",
+        "excerpt": "初心者向けのゲームプレイの基本とヒントです。"
+      },
+      "troubleshoot": {
+        "title": "トラブルシューティング",
+        "excerpt": "一般的なインストールとゲームプレイの問題の解決策です。"
+      }
+    },
+    "useCases": {
+      "title": "誰がToca Boca Modを使用していますか?",
+      "subtitle": "改造版の一般的なユーザーグループ",
+      "socialMedia": {
+        "title": "6-12歳の子供",
+        "description": "Tocaゲームの主要年齢層です。Modは親によるアプリ内購入を必要とせずに全てのコンテンツへのアクセスを提供します。",
+        "keywords": "子供, 創造的遊び"
+      },
+      "business": {
+        "title": "親と家族",
+        "description": "継続的な購入なしで完全版を求める親です。Modは公式無料版に存在する広告を削除します。",
+        "keywords": "親, 家族, 費用対効果"
+      },
+      "creators": {
+        "title": "コンテンツクリエイター",
+        "description": "完全なゲームプレイを特集するビデオクリエイターです。Modは包括的なデモとレビューのために全てのコンテンツへのアクセスを提供します。",
+        "keywords": "YouTuber, ストリーマー, コンテンツ"
+      },
+      "teams": {
+        "title": "教育者",
+        "description": "ストーリーテリングとロールプレイング活動にTocaゲームを使用する教師です。Modは教室での使用のための費用障壁を排除します。",
+        "keywords": "教育, 教師, 教室"
+      },
+      "personal": {
+        "title": "幼い子供(3-5歳)",
+        "description": "就学前年齢のユーザーです。Modは幼い子供が独立してナビゲートするのが難しい購入プロンプトを削除します。",
+        "keywords": "幼児, 就学前, シンプルインターフェース"
+      },
+      "education": {
+        "title": "完全コレクション愛好家",
+        "description": "全てのゲーム要素へのアクセスを希望するユーザーです。Modは段階的な購入なしでコンテンツライブラリ全体をアンロックします。",
+        "keywords": "コレクター, 完全, フルアクセス"
+      },
+      "ctaDescription": "インストール時から全てのコンテンツにアクセス可能な改造版です。",
+      "ctaButton": "APKをダウンロード"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "subtitle": "Toca Boca Mod APKに関する一般的な質問",
+      "q1": {
+        "question": "Toca Boca Mod APKとは何ですか?",
+        "answer": "Toca Boca Mod APKは、全てのプレミアムコンテンツをアンロックするToca Life Worldの改造版です。無制限のお金、無制限の家具、無制限のギフト、全てのロケーション、キャラクター、アイテムが含まれます。全てアンロックされ、広告なしのToca Boca Modです。"
+      },
+      "q2": {
+        "question": "Toca Boca Mod APKをダウンロードするのは安全ですか?",
+        "answer": "改造APKファイルには、公式アプリストアのダウンロードには存在しない固有のリスクがあります。このModは元のアプリ以外の追加の個人データを収集しません。ファイルはインストール前にアンチウイルスソフトウェアでスキャンする必要があります。初回ダウンロード後はオフラインで機能します。サードパーティのModには公式のセキュリティレビューはありません。"
+      },
+      "q3": {
+        "question": "Toca Boca Mod APKをダウンロードする方法は?",
+        "answer": "ダウンロード手順:\n\n1. 設定 > セキュリティで「提供元不明のアプリ」を有効化\n2. APKファイル(720 MB)をダウンロード\n3. ダウンロードフォルダを開き、APKファイルをタップ\n4. 「インストール」をタップして完了まで待つ\n\n150 MBの空き容量とAndroid 5.0以降が必要です。"
+      },
+      "q4": {
+        "question": "Toca Boca Modはインターネットが必要ですか?",
+        "answer": "インストール後はインターネット接続は必要ありません。全てのコンテンツはデバイスにローカルに保存されます。ゲームプレイは完全にオフラインで機能します。"
+      },
+      "q5": {
+        "question": "Modとオリジナルの違いは何ですか?",
+        "answer": "主な違い:\n\n• 価格: Modは無料、オリジナルは$4.99プラスアプリ内購入\n• コンテンツ: Modでは全てアンロック、オリジナルはプレミアムコンテンツに支払いが必要\n• 通貨: Modは無制限のゲームマネーを提供、オリジナルはコイン購入が必要\n• 広告: Modは広告を削除、オリジナルの無料版には広告あり\n• 更新: Modは手動インストールが必要、オリジナルはApp Store経由で更新\n\n基本的なゲームプレイメカニクスは同じです。"
+      },
+      "q6": {
+        "question": "Toca Boca Modは私のデバイスで動作しますか?",
+        "answer": "システム要件:\n\n• Android 5.0(Lollipop)以降\n• 150 MBの空き容量\n• 最低2 GB RAM\n• ARMまたはARM64プロセッサ\n\niOS/iPhoneはサポートされていません。2018年以降のほとんどのAndroidデバイスと互換性があります。"
+      },
+      "q7": {
+        "question": "複数のデバイスでToca Boca Modをプレイできますか?",
+        "answer": "Modは複数のAndroidデバイスにインストールできます。ゲームの進行状況はデバイス間で同期されません - 各インストールは個別のセーブデータを保存します。セーブファイルの手動転送には技術的な知識が必要です。"
+      },
+      "q8": {
+        "question": "Modでは本当に全てがアンロックされていますか?",
+        "answer": "アンロックされる全てのコンテンツ:\n\n• 全ての8つのロケーション(家、学校、モール、フードエリア、ヘアサロン、オフィス、アパート、公園)\n• カスタマイズオプション付きの全40以上のキャラクター\n• 全ての500以上の家具アイテムと装飾品\n• 全ての服、アクセサリー、特別アイテム\n• 無制限のゲーム通貨\n• 季節限定およびホリデーコンテンツ\n\nどのコンテンツにも追加の支払いは必要ありません。"
+      },
+      "q9": {
+        "question": "ファイルサイズがオリジナルより大きいのはなぜですか?",
+        "answer": "Mod APK(720 MB)には、すべてのプレミアムコンテンツが事前にパッケージされています。公式アプリは購入時にオンデマンドで追加コンテンツをダウンロードします。Modは全てを初期インストールファイルに統合しています。"
+      },
+      "q10": {
+        "question": "Toca Boca Modはどのくらいの頻度で更新されますか?",
+        "answer": "Mod版は通常、公式更新の1-2週間後にリリースされます。更新には手動ダウンロードとインストールが必要です。以前のバージョンは機能し続けますが、公式リリースからの新しいコンテンツは受け取りません。"
+      }
+    },
+    "cta": {
+      "title": "Toca Boca Mod ダウンロード - 最新アップデート v1.116 利用可能",
+      "description": "toca boca mod apk の最新アップデートをダウンロード。無限のお金、無限の家具、無限のギフト付き",
+      "primaryButton": "Toca Boca Mod ダウンロード",
+      "version": "バージョン v1.116 (720 MB)",
+      "complianceNotice": "教育リソースです。Toca BocaまたはSpin Masterとは提携していません。オリジナルの著作権を尊重します。"
+    }
+  }
+}

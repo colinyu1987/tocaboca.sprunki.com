@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "ดาวน์โหลด",
+            "url": "/#download"
+          },
+          {
+            "title": "เวอร์ชัน",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "คำถามที่พบบ่อย",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "ดาวน์โหลด Toca Boca Mod APK ที่ปลดล็อกทุกอย่างฟรี ปลอดภัย ไม่มีโฆษณา และเข้าถึงเนื้อหาพรีเมียมทั้งหมด",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "ติดต่อ",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. เว็บไซต์แฟนคลับเพื่อการศึกษา ไม่มีความเกี่ยวข้องอย่างเป็นทางการกับ Toca Boca หรือ Spin Master",
+      "nav": {
+        "items": [
+          {
+            "title": "ดาวน์โหลด",
+            "children": [
+              {
+                "title": "ดาวน์โหลดเลย",
+                "url": "/#download"
+              },
+              {
+                "title": "เวอร์ชันทั้งหมด",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "วิธีติดตั้ง",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "ข้อมูล",
+            "children": [
+              {
+                "title": "Mod คืออะไร",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "ความปลอดภัย",
+                "url": "/#safety"
+              },
+              {
+                "title": "คำถามที่พบบ่อย",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "นโยบายความเป็นส่วนตัว",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "เงื่อนไขการให้บริการ",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "นโยบายลิขสิทธิ์ DMCA",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

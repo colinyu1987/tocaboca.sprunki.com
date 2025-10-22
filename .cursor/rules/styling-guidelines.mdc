@@ -1,0 +1,174 @@
+---
+description: Styling guidelines using Tailwind CSS and theme variables
+globs: ["**/*.tsx", "**/*.ts", "app/css/**/*.css", "tailwind.config.js"]
+alwaysApply: true
+---
+
+# 样式编码规范
+
+## 核心原则
+**样式优先使用 `app/css/theme.css` 中定义的 CSS 变量，避免硬编码颜色值**
+
+## 样式优先级
+1. **Tailwind CSS 类名** - 首选方案
+2. **CSS 变量** - 主题兼容的颜色系统
+3. **内联样式** - 仅在实在没办法时使用
+
+## 颜色使用规范
+
+### ✅ 推荐做法
+```tsx
+// 使用语义化的 Tailwind 类名
+<div className="bg-background text-foreground border-border">
+  <h1 className="text-primary">Title</h1>
+  <p className="text-muted-foreground">Description</p>
+</div>
+
+// 使用预定义的透明度
+<div className="bg-primary/10 text-foreground/50">
+  Semi-transparent content
+</div>
+```
+
+### ❌ 禁止做法
+```tsx
+// 硬编码颜色值
+<div style={{ backgroundColor: '#ffffff', color: '#000000' }}>
+<div className="bg-white text-black">
+
+// 未定义的透明度值
+<div className="bg-primary/15 text-foreground/35">
+
+// 直接使用 RGB/HSL
+<div style={{ color: 'rgb(255, 255, 255)' }}>
+```
+
+## 常用 Tailwind 类名
+
+### 背景色
+- `bg-background` - 主背景色
+- `bg-card` - 卡片背景
+- `bg-muted` - 柔和背景
+- `bg-primary` - 主色调背景
+- `bg-secondary` - 次要背景
+- `bg-accent` - 强调背景
+- `bg-destructive` - 危险/错误背景
+
+### 文字色
+- `text-foreground` - 主文字色
+- `text-muted-foreground` - 柔和文字色
+- `text-primary` - 主色调文字
+- `text-secondary` - 次要文字
+- `text-accent` - 强调文字
+- `text-destructive` - 危险/错误文字
+
+### 边框色
+- `border-border` - 主边框色
+- `border-input` - 输入框边框
+- `border-primary` - 主色调边框
+- `border-destructive` - 危险边框
+
+## 透明度限制
+**只能使用 `app/css/compatibility.css` 中实际定义的透明度类**
+
+### 支持的透明度值
+- **基本透明度**: `/10`, `/20`, `/30`, `/40`, `/50`, `/60`, `/70`, `/80`, `/90`
+- **特殊透明度**: `/95` (仅部分颜色支持)
+
+### 支持的颜色组合（示例）
+- **语义化颜色**: `bg-primary/10`, `text-foreground/50`, `border-border/30` 等
+- **具体颜色**: `bg-black/20`, `bg-white/80`, `text-muted-foreground/60` 等
+- **伪类状态**: `hover:bg-primary/90`, `group-hover:bg-accent/20` 等
+
+**注意**: 以上仅为部分示例，完整的支持列表请查看 `app/css/compatibility.css` 文件
+
+### ❌ 禁止使用未定义的透明度
+```tsx
+// ❌ 这些透明度值未在 compatibility.css 中定义
+<div className="bg-primary/15 text-foreground/35 border-border/25">
+
+// ✅ 只使用已定义的透明度值
+<div className="bg-primary/10 text-foreground/50 border-border/30">
+```
+
+## 图标使用规范
+- **优先使用 `lucide-react` 图标库**
+- **避免内联 SVG**（除非特殊需求）
+- **所有图标添加 `flex-shrink-0` 防止变形**
+
+```tsx
+import { Search, User } from 'lucide-react';
+
+<Search className="h-4 w-4 flex-shrink-0 text-muted-foreground" />
+<User className="h-6 w-6 flex-shrink-0 text-primary" />
+```
+
+## 响应式设计
+使用 Tailwind 的响应式前缀：
+```tsx
+<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+  <div className="p-4 md:p-6 lg:p-8">
+    Responsive content
+  </div>
+</div>
+```
+
+## 主题兼容性
+确保样式支持亮色和暗色主题切换：
+```tsx
+// ✅ 自动适应主题
+<div className="bg-card text-card-foreground">
+  Content adapts to theme
+</div>
+
+// ❌ 固定颜色，不支持主题切换
+<div className="bg-white text-black">
+  Fixed colors
+</div>
+```
+
+## 布局最佳实践
+```tsx
+// 使用 Flexbox
+<div className="flex items-center justify-between gap-4">
+
+// 使用 Grid
+<div className="grid grid-cols-12 gap-4">
+
+// 间距系统
+<div className="p-4 m-2 space-y-4">
+  <div className="mb-6">Content</div>
+</div>
+```
+
+## 组件样式示例
+```tsx
+// 按钮样式
+<Button 
+  variant="default" 
+  size="md"
+  className="bg-primary hover:bg-primary/90 text-primary-foreground"
+>
+  Click me
+</Button>
+
+// 卡片样式
+<Card className="bg-card border-border shadow-sm">
+  <CardHeader className="border-b border-border">
+    <CardTitle className="text-card-foreground">Title</CardTitle>
+  </CardHeader>
+  <CardContent className="p-6">
+    <p className="text-muted-foreground">Description</p>
+  </CardContent>
+</Card>
+```
+
+## 检查清单
+在编写样式时，确保：
+- [ ] 使用语义化的 Tailwind 类名
+- [ ] 避免硬编码颜色值
+- [ ] 使用预定义的透明度值
+- [ ] 支持亮色/暗色主题切换
+- [ ] 图标添加 `flex-shrink-0`
+- [ ] 响应式设计适配
+- [ ] 清理未使用的样式类

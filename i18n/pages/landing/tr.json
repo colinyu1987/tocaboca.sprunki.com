@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "İndir",
+            "url": "/#download"
+          },
+          {
+            "title": "Sürümler",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "SSS",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Toca Boca Mod APK'yı her şey ücretsiz olarak açık şekilde indirin. Güvenli, reklamsız ve tüm premium içeriğe tam erişim.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "İletişim",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. Eğitim amaçlı hayran sitesi. Toca Boca veya Spin Master ile resmi olarak bağlantılı değildir.",
+      "nav": {
+        "items": [
+          {
+            "title": "İndir",
+            "children": [
+              {
+                "title": "Şimdi İndir",
+                "url": "/#download"
+              },
+              {
+                "title": "Tüm Sürümler",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "Nasıl Kurulur",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "Bilgi",
+            "children": [
+              {
+                "title": "Mod Nedir",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "Güvenlik",
+                "url": "/#safety"
+              },
+              {
+                "title": "SSS",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "Gizlilik Politikası",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Hizmet Şartları",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "DMCA Telif Hakkı Politikası",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "Downloaden",
+            "url": "/#download"
+          },
+          {
+            "title": "Versies",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "Veelgestelde vragen",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Download Toca Boca Mod APK met alles ontgrendeld gratis. Veilig, advertentievrij en volledige toegang tot alle premium content.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "Contact",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. Fansite voor educatieve doeleinden. Niet officieel verbonden met Toca Boca of Spin Master.",
+      "nav": {
+        "items": [
+          {
+            "title": "Downloaden",
+            "children": [
+              {
+                "title": "Nu downloaden",
+                "url": "/#download"
+              },
+              {
+                "title": "Alle versies",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "Hoe te installeren",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "Info",
+            "children": [
+              {
+                "title": "Wat is Mod",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "Veiligheid",
+                "url": "/#safety"
+              },
+              {
+                "title": "Veelgestelde vragen",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "Privacybeleid",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Servicevoorwaarden",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "DMCA Auteursrechtbeleid",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,339 @@
+---
+description: TypeScript coding standards and type safety rules
+globs: ["**/*.ts", "**/*.tsx", "types/**/*.d.ts"]
+alwaysApply: true
+---
+
+# TypeScript 编码标准
+
+## 核心原则
+- **确保类型安全** - 避免使用 `any` 类型
+- **使用 ESM 导入** - 优先使用 `import/export` 而不是 `require`
+- **明确类型定义** - 为组件、函数、变量提供明确的类型
+- **遵循命名约定** - 使用 camelCase 和 PascalCase
+
+## 类型定义规范
+
+### 1. 接口定义
+```tsx
+// ✅ 推荐：明确的接口定义
+interface UserProfile {
+  id: string;
+  name: string;
+  email: string;
+  avatar?: string;
+  isActive: boolean;
+  createdAt: Date;
+  preferences: UserPreferences;
+}
+
+interface UserPreferences {
+  theme: 'light' | 'dark' | 'system';
+  language: 'en' | 'zh';
+  notifications: {
+    email: boolean;
+    push: boolean;
+  };
+}
+
+// ❌ 避免：过度使用 any
+interface BadProfile {
+  id: any;
+  data: any;
+  config: any;
+}
+```
+
+### 2. 组件 Props 类型
+```tsx
+// 基础 Props 类型
+interface ButtonProps {
+  variant?: 'default' | 'destructive' | 'outline' | 'secondary' | 'ghost' | 'link';
+  size?: 'default' | 'sm' | 'lg' | 'icon';
+  disabled?: boolean;
+  className?: string;
+  children: React.ReactNode;
+  onClick?: (event: React.MouseEvent<HTMLButtonElement>) => void;
+}
+
+// 扩展 HTML 属性
+interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {
+  label?: string;
+  error?: string;
+  helperText?: string;
+}
+
+// 泛型组件 Props
+interface SelectProps<T> {
+  options: Array<{
+    value: T;
+    label: string;
+    disabled?: boolean;
+  }>;
+  value?: T;
+  onChange: (value: T) => void;
+  placeholder?: string;
+}
+```
+
+### 3. API 响应类型
+```tsx
+// API 响应基础类型
+interface ApiResponse<T> {
+  data: T;
+  message: string;
+  success: boolean;
+  timestamp: string;
+}
+
+interface PaginatedResponse<T> extends ApiResponse<T[]> {
+  pagination: {
+    page: number;
+    limit: number;
+    total: number;
+    totalPages: number;
+  };
+}
+
+// 具体 API 类型
+type GetUsersResponse = PaginatedResponse<UserProfile>;
+type CreateUserRequest = Omit<UserProfile, 'id' | 'createdAt'>;
+type UpdateUserRequest = Partial<Pick<UserProfile, 'name' | 'email' | 'preferences'>>;
+```
+
+## 高级类型使用
+
+### 1. 联合类型和字面量类型
+```tsx
+// 状态类型
+type LoadingState = 'idle' | 'loading' | 'success' | 'error';
+
+// 主题类型
+type ThemeMode = 'light' | 'dark' | 'system';
+
+// 组件变体
+type AlertVariant = 'default' | 'destructive' | 'warning' | 'success';
+
+interface AlertProps {
+  variant?: AlertVariant;
+  title?: string;
+  description: string;
+}
+```
+
+### 2. 实用类型
+```tsx
+// 使用 Pick 选择特定字段
+type UserBasicInfo = Pick<UserProfile, 'id' | 'name' | 'email'>;
+
+// 使用 Omit 排除特定字段
+type CreateUserData = Omit<UserProfile, 'id' | 'createdAt'>;
+
+// 使用 Partial 使所有字段可选
+type UpdateUserData = Partial<UserProfile>;
+
+// 使用 Required 使所有字段必需
+type CompleteUserProfile = Required<UserProfile>;
+
+// 自定义实用类型
+type NonNullable<T> = T extends null | undefined ? never : T;
+type Optional<T, K extends keyof T> = Omit<T, K> & Partial<Pick<T, K>>;
+```
+
+### 3. 泛型约束
+```tsx
+// 泛型函数
+function createApiClient<T extends Record<string, any>>(config: T): ApiClient<T> {
+  return new ApiClient(config);
+}
+
+// 泛型组件
+interface TableProps<T> {
+  data: T[];
+  columns: Array<{
+    key: keyof T;
+    title: string;
+    render?: (value: T[keyof T], record: T) => React.ReactNode;
+  }>;
+  onRowClick?: (record: T) => void;
+}
+
+function Table<T extends Record<string, any>>({ data, columns, onRowClick }: TableProps<T>) {
+  // 实现逻辑
+}
+```
+
+## 类型守卫和断言
+
+### 1. 类型守卫
+```tsx
+// 基础类型守卫
+function isString(value: unknown): value is string {
+  return typeof value === 'string';
+}
+
+function isUserProfile(obj: any): obj is UserProfile {
+  return (
+    typeof obj === 'object' &&
+    obj !== null &&
+    typeof obj.id === 'string' &&
+    typeof obj.name === 'string' &&
+    typeof obj.email === 'string'
+  );
+}
+
+// 使用类型守卫
+function processUserData(data: unknown) {
+  if (isUserProfile(data)) {
+    // 这里 data 的类型被推断为 UserProfile
+    console.log(data.name); // 类型安全
+  }
+}
+```
+
+### 2. 断言（谨慎使用）
+```tsx
+// 类型断言（仅在确定类型时使用）
+const userElement = document.getElementById('user') as HTMLDivElement;
+
+// 非空断言（确定值不为 null/undefined 时使用）
+const user = getCurrentUser()!;
+
+// 常量断言
+const themes = ['light', 'dark', 'system'] as const;
+type Theme = typeof themes[number]; // 'light' | 'dark' | 'system'
+```
+
+## 环境和配置类型
+
+### 1. 环境变量类型
+```tsx
+// types/env.d.ts
+declare global {
+  namespace NodeJS {
+    interface ProcessEnv {
+      NODE_ENV: 'development' | 'production' | 'test';
+      NEXT_PUBLIC_API_URL: string;
+      NEXT_PUBLIC_APP_NAME: string;
+      DATABASE_URL: string;
+      JWT_SECRET: string;
+    }
+  }
+}
+
+export {};
+```
+
+### 2. 模块声明
+```tsx
+// types/global.d.ts
+declare module '*.svg' {
+  const content: React.FunctionComponent<React.SVGAttributes<SVGElement>>;
+  export default content;
+}
+
+declare module '*.png' {
+  const src: string;
+  export default src;
+}
+
+// 扩展 Window 对象
+declare global {
+  interface Window {
+    gtag?: (...args: any[]) => void;
+    dataLayer?: any[];
+  }
+}
+```
+
+## 错误处理类型
+
+### 1. 错误类型定义
+```tsx
+// 自定义错误类型
+class ApiError extends Error {
+  constructor(
+    message: string,
+    public statusCode: number,
+    public code?: string
+  ) {
+    super(message);
+    this.name = 'ApiError';
+  }
+}
+
+class ValidationError extends Error {
+  constructor(
+    message: string,
+    public field: string
+  ) {
+    super(message);
+    this.name = 'ValidationError';
+  }
+}
+
+// 结果类型
+type Result<T, E = Error> = 
+  | { success: true; data: T }
+  | { success: false; error: E };
+
+// 使用示例
+async function fetchUser(id: string): Promise<Result<UserProfile, ApiError>> {
+  try {
+    const user = await api.getUser(id);
+    return { success: true, data: user };
+  } catch (error) {
+    return { success: false, error: new ApiError('Failed to fetch user', 500) };
+  }
+}
+```
+
+## 最佳实践
+
+### 1. 命名约定
+```tsx
+// ✅ 推荐命名
+interface UserProfile {} // PascalCase for interfaces
+type ThemeMode = 'light' | 'dark'; // PascalCase for types
+const userName = 'john'; // camelCase for variables
+const API_BASE_URL = 'https://api.example.com'; // UPPER_SNAKE_CASE for constants
+
+// 泛型参数命名
+interface ApiResponse<TData, TError = Error> {
+  data: TData;
+  error?: TError;
+}
+```
+
+### 2. 避免常见陷阱
+```tsx
+// ❌ 避免：过度使用 any
+function processData(data: any): any {
+  return data.someProperty;
+}
+
+// ✅ 推荐：使用泛型或具体类型
+function processData<T>(data: T): T {
+  return data;
+}
+
+// ❌ 避免：不必要的类型断言
+const result = apiCall() as UserProfile;
+
+// ✅ 推荐：使用类型守卫
+const result = apiCall();
+if (isUserProfile(result)) {
+  // 安全地使用 result
+}
+```
+
+## 检查清单
+- [ ] 避免使用 `any` 类型
+- [ ] 使用 ESM 导入/导出
+- [ ] 为组件定义明确的 Props 接口
+- [ ] 使用联合类型和字面量类型
+- [ ] 实现类型守卫而不是类型断言
+- [ ] 定义环境变量类型
+- [ ] 使用泛型提高代码重用性
+- [ ] 遵循命名约定
+- [ ] 清理未使用的类型定义

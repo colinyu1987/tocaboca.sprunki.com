@@ -1,0 +1,105 @@
+# 项目：Next.js 应用程序
+
+## 通用规则
+
+- 这是一个使用 App Router 的 Next.js TypeScript 应用程序。
+- 使用 React 进行组件开发，优先使用函数式组件。
+- 使用 Tailwind CSS 进行样式设计。
+- 使用 Shadcn UI 组件（基于 Radix UI）。
+- 使用 sonner 进行 toast 通知。
+- 使用 next-themes 进行主题切换。
+- 使用 MDX 进行内容管理。
+- 组件名称使用 camel-model-case 格式。
+- 使用 next-intl 进行国际化。
+- **样式优先使用 `app/css/theme.css` 中定义的 CSS 变量，避免硬编码颜色值**
+
+## 国际化要求
+
+- **所有用户可见的文案必须支持国际化，不允许硬编码文本**
+- **所有文案必须放在 `i18n/messages/` 目录下的语言文件中**
+- **新增任何文案 key 时，必须在所有语言文件中同步添加**
+- **每次新增 key 后，必须运行 `node scripts/validate-i18n-line-order.js` 检查多语言一致性**
+- **多语言文件的 key 顺序必须保持一致，以 `en.json` 为基准**
+- **禁止在组件中直接写中文、英文等任何语言的文案**
+- **使用 `useTranslations()` hook 或 `getTranslations()` 函数获取翻译文本**
+
+### 国际化例外情况
+以下内容可以不支持国际化：
+- **法律文件**：`app/(legal)/` 目录下的 MDX 文件（如隐私政策、服务条款等）
+- **博客内容**：`app/(content)/` 目录下的博客文章和相关内容
+- **技术文档**：API 文档、开发者文档等技术性内容
+- **第三方内容**：来自外部 API 或服务的内容
+- **调试信息**：开发环境的调试信息和错误日志
+
+**重要**：新增例外路径时，需要同步更新 `middleware.ts` 中的 `matcher` 配置，将相应路径排除在国际化处理之外。
+
+## 文件结构
+
+- app/: Next.js App Router 页面和 API 路由
+  - [locale]/: 特定语言环境的页面
+  - (legal)/: 法律相关页面（使用 MDX）
+  - (content)/: 博客和内容页面（国际化例外）
+  - css/: 样式文件（theme.css、compatibility.css、md.css）
+- components/: React 组件
+  - ui/: **Shadcn UI 组件及其包装器**
+  - widget/: **自定义可重用组件**
+  - page/: **页面级组件（如 home-page 下的各个模块）**
+  - layout/: **布局组件（header、footer、default-layout）**
+  - locale/: **语言切换相关组件**
+  - bprogress/: **进度条组件**
+- i18n/: 国际化
+  - pages/landing/: 落地页的页面特定翻译
+  - messages/: 全局消息
+  - locale.ts、request.ts、routing.ts: 国际化配置文件
+- types/: TypeScript 类型定义
+  - 包含全局类型、环境变量类型、MDX 类型等
+- services/: **业务逻辑服务层**
+- hooks/: **自定义 React Hooks**
+- public/: 静态资源
+  - images/: 图片资源
+  - videos/: 视频资源
+  - audios/: 音频资源
+  - imgs/: 图标和支付相关图片
+- lib/: 自定义库和函数
+- scripts/: 脚本文件
+- .env.local: 本地环境变量（不提交到版本控制，Cursor 或大多数 IDE/AI 工具无法读取）
+
+## 编码约定
+- 使用 TypeScript 确保类型安全
+- 遵循 React 最佳实践和 hooks
+- 使用 Tailwind CSS 和 Shadcn UI 实现响应式设计
+- 保持一致的国际化结构
+- 保持组件模块化和可重用
+- 为组件和数据使用适当的类型定义
+- **及时清理未使用的 import**：删除不需要的导入语句，保持代码整洁
+- **修复 linter 错误**：及时修复代码中的 linter 错误，保持代码质量
+
+## 样式编码规范
+- **优先使用 Tailwind CSS 类名**：使用 `bg-background`、`text-foreground`、`border-border` 等语义化类名
+- **避免内联样式**：优先使用 Tailwind 类名，`style` 属性只在实在没办法的时候再使用
+- **避免硬编码颜色**：禁止直接使用 `#ffffff`、`rgb()` 等固定颜色值
+- **主题兼容性**：确保样式支持亮色和暗色主题切换
+- **透明度限制**：只能使用 `app/css/compatibility.css` 中预定义的透明度类，如 `bg-primary/10`、`text-foreground/50` 等，不允许使用未定义的透明度值
+- **图标使用规范**：优先使用 `lucide-react` 图标库，避免内联 SVG，所有图标添加 `flex-shrink-0` 防止变形
+- **常用 Tailwind 类名示例**：
+  - 背景色：`bg-background`、`bg-card`、`bg-muted`
+  - 文字色：`text-foreground`、`text-muted-foreground`、`text-primary`
+  - 边框色：`border-border`、`border-input`、`border-primary`
+  - 状态色：`bg-destructive`、`text-destructive`、`bg-accent`
+
+## 国际化编码规范
+- 在组件中使用 `const t = useTranslations('namespace')` 获取翻译函数
+- 在服务端组件中使用 `const t = await getTranslations('namespace')` 获取翻译函数
+- 翻译 key 使用小写字母和下划线命名，如 `button_submit`、`error_message`
+- **翻译 Key 结构化组织**：采用三级结构 `页面名.区块名.元素名`
+  - 页面级：`about`、`pricing`、`contact`
+  - 区块级：`hero`、`features`、`cta`、`testimonials`
+  - 元素级：`title`、`description`、`button_text`
+- 复杂的翻译内容使用嵌套结构组织，如 `form.validation.required`
+- 添加新翻译 key 后立即运行 `pnpm i18n:check` 验证一致性
+
+## 文件管理
+- **所有文件删除操作必须在执行前得到用户确认**
+- 除非绝对必要，否则避免删除文件
+- 当需要删除文件时，清楚地解释原因并获得用户的明确批准
+- 优先修改现有文件而不是删除和重新创建

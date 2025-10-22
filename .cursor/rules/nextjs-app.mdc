@@ -1,0 +1,104 @@
+---
+description: Next.js App Router application development rules
+globs: ["app/**/*.tsx", "app/**/*.ts", "middleware.ts", "next.config.mjs"]
+alwaysApply: true
+---
+
+# Next.js App Router 应用程序规则
+
+## 项目概述
+- 这是一个使用 App Router 的 Next.js TypeScript 应用程序
+- 使用 React 进行组件开发，优先使用函数式组件
+- 支持多语言国际化 (next-intl)
+- 使用 MDX 进行内容管理
+
+## 核心技术栈
+- **框架**: Next.js 14+ with App Router
+- **语言**: TypeScript
+- **样式**: Tailwind CSS + Shadcn UI
+- **国际化**: next-intl
+- **主题**: next-themes
+- **通知**: sonner
+- **内容**: MDX
+
+## 环境配置
+- **NEXT_PUBLIC_URL**: 项目的完整域名地址（如 `https://example.com`），用于生成绝对路径、SEO metadata、sitemap 等功能
+
+## 文件结构约定
+- `app/[locale]/`: 特定语言环境的页面
+- `app/(legal)/`: 法律相关页面（使用 MDX，国际化例外）
+- `app/(content)/`: 博客和内容页面（国际化例外）
+- `components/ui/`: Shadcn UI 组件及其包装器
+- `components/widget/`: 自定义可重用组件
+- `components/page/`: 页面级组件
+- `components/layout/`: 布局组件
+- `i18n/`: 国际化配置和翻译文件
+
+## 编码约定
+1. **组件命名**: 使用 camel-model-case 格式
+2. **类型安全**: 使用 TypeScript 确保类型安全
+3. **React 最佳实践**: 遵循 React hooks 和函数式组件
+4. **响应式设计**: 使用 Tailwind CSS 和 Shadcn UI
+5. **模块化**: 保持组件模块化和可重用
+6. **清理导入**: 及时清理未使用的 import 语句
+
+## 示例代码结构
+
+### 页面组件
+```tsx
+import { getTranslations } from 'next-intl/server';
+
+export default async function HomePage() {
+  const t = await getTranslations('home');
+  
+  return (
+    <div className="min-h-screen bg-background">
+      <h1 className="text-foreground">{t('title')}</h1>
+    </div>
+  );
+}
+```
+
+### 客户端组件
+```tsx
+'use client';
+
+import { useTranslations } from 'next-intl';
+import { Button } from '@/components/ui/button';
+
+export default function InteractiveComponent() {
+  const t = useTranslations('common');
+  
+  return (
+    <Button variant="default" className="bg-primary text-primary-foreground">
+      {t('button_submit')}
+    </Button>
+  );
+}
+```
+
+## 重要提醒
+- 所有用户可见的文案必须支持国际化
+- 禁止硬编码任何语言的文案
+- 优先修改现有文件而不是创建新文件
+- 文件删除操作必须得到用户确认
+
+## 环境变量配置
+
+项目需要以下环境变量（在 `.env.local` 文件中配置）：
+
+```bash
+# 项目域名（必需）- 用于 SEO、sitemap 等功能
+NEXT_PUBLIC_URL=https://your-domain.com
+
+# 开发环境示例
+NEXT_PUBLIC_URL=http://localhost:3000
+```
+
+**重要说明**:
+- `NEXT_PUBLIC_URL`: 项目的完整域名地址（必须包含协议，如 `https://example.com`）
+  - 用于生成 sitemap.xml 中的绝对路径
+  - SEO metadata 中的 canonical URL
+  - Open Graph 和 Twitter Card 的 URL
+  - 多语言 hreflang 标签的生成
+- URL 格式要求：必须是完整的 URL，包含协议（http:// 或 https://），不能以斜杠结尾

@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "Pobierz",
+            "url": "/#download"
+          },
+          {
+            "title": "Wersje",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "FAQ",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Pobierz Toca Boca Mod APK z wszystkim odblokowanym za darmo. Bezpieczne, bez reklam i pełny dostęp do wszystkich treści premium.",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "Kontakt",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK. Strona fanowska w celach edukacyjnych. Nie jest oficjalnie powiązana z Toca Boca ani Spin Master.",
+      "nav": {
+        "items": [
+          {
+            "title": "Pobierz",
+            "children": [
+              {
+                "title": "Pobierz teraz",
+                "url": "/#download"
+              },
+              {
+                "title": "Wszystkie wersje",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "Jak zainstalować",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "Informacje",
+            "children": [
+              {
+                "title": "Czym jest Mod",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "Bezpieczeństwo",
+                "url": "/#safety"
+              },
+              {
+                "title": "FAQ",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "Polityka prywatności",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Warunki korzystania z usługi",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "Polityka praw autorskich DMCA",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

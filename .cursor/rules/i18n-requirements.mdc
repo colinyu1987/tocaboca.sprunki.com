@@ -1,0 +1,115 @@
+---
+description: Internationalization (i18n) requirements and rules
+globs: ["i18n/**/*.json", "i18n/**/*.ts", "app/[locale]/**/*.tsx", "components/**/*.tsx", "middleware.ts"]
+alwaysApply: true
+---
+
+# 国际化 (i18n) 要求
+
+## 核心原则
+**所有用户可见的文案必须支持国际化，不允许硬编码文本**
+
+## 严格要求
+
+### 1. 文案管理
+- **所有文案必须放在 `i18n/messages/` 目录下的语言文件中**
+- **新增任何文案 key 时，必须在所有语言文件中同步添加**
+- **禁止在组件中直接写中文、英文等任何语言的文案**
+
+### 2. 一致性检查
+- **每次新增 key 后，必须运行 `node scripts/validate-i18n-line-order.js` 检查多语言一致性**
+- **多语言文件的 key 顺序必须保持一致，以 `en.json` 为基准**
+
+### 3. 使用方式
+- **客户端组件**: 使用 `useTranslations()` hook
+- **服务端组件**: 使用 `getTranslations()` 函数
+
+## 国际化例外情况
+以下内容可以不支持国际化：
+- **法律文件**: `app/(legal)/` 目录下的 MDX 文件（如隐私政策、服务条款等）
+- **博客内容**: `app/(content)/` 目录下的博客文章和相关内容
+- **技术文档**: API 文档、开发者文档等技术性内容
+- **第三方内容**: 来自外部 API 或服务的内容
+- **调试信息**: 开发环境的调试信息和错误日志
+
+**重要**: 新增例外路径时，需要同步更新 `middleware.ts` 中的 `matcher` 配置。
+
+## 编码规范
+
+### 翻译 Key 命名
+- 使用小写字母和下划线命名: `button_submit`、`error_message`
+- 复杂内容使用嵌套结构: `form.validation.required`
+- 页面特定翻译放在对应的 namespace 中
+
+### 客户端组件示例
+```tsx
+'use client';
+
+import { useTranslations } from 'next-intl';
+
+export default function MyComponent() {
+  const t = useTranslations('common');
+  
+  return (
+    <div>
+      <h1>{t('welcome_message')}</h1>
+      <button>{t('button_submit')}</button>
+    </div>
+  );
+}
+```
+
+### 服务端组件示例
+```tsx
+import { getTranslations } from 'next-intl/server';
+
+export default async function ServerComponent() {
+  const t = await getTranslations('home');
+  
+  return (
+    <div>
+      <h1>{t('page_title')}</h1>
+      <p>{t('page_description')}</p>
+    </div>
+  );
+}
+```
+
+### 翻译文件结构示例
+```json
+{
+  "common": {
+    "button_submit": "Submit",
+    "button_cancel": "Cancel",
+    "loading": "Loading..."
+  },
+  "home": {
+    "page_title": "Welcome to Our App",
+    "page_description": "This is the home page"
+  },
+  "form": {
+    "validation": {
+      "required": "This field is required",
+      "email_invalid": "Please enter a valid email"
+    }
+  }
+}
+```
+
+## 工作流程
+1. 添加新的翻译 key 到所有语言文件中
+2. 在组件中使用 `t('key')` 获取翻译
+3. 运行 `pnpm i18n:check` 验证一致性
+4. 确保 `middleware.ts` 正确配置路由匹配
+
+## 禁止事项
+❌ 直接在 JSX 中写文案: `<h1>Welcome</h1>`
+❌ 硬编码文本: `const title = "欢迎"`
+❌ 混合语言: `<p>Welcome {userName}</p>`
+❌ 跳过一致性检查
+
+## 必须事项
+✅ 使用翻译函数: `<h1>{t('welcome')}</h1>`
+✅ 所有语言文件同步更新
+✅ 运行一致性检查脚本
+✅ 保持 key 命名规范

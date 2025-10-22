@@ -1,0 +1,401 @@
+:root {
+  /* Toca Boca 主色调 */
+  --toca-pink: #FF6B9D;
+  --toca-yellow: #FFD166;
+  --toca-cyan: #06D6A0;
+  --toca-orange: #FF8A5B;
+  --toca-purple: #9B7EDE;
+  --toca-blue: #4A90E2;
+
+  /* Toca Boca 背景色 */
+  --background: #FFFFFF;
+  --background-pink: #FFF5F8;
+  --background-yellow: #FFF9E6;
+  --background-cyan: #F0FDFA;
+  --background-purple: #FAF8FF;
+  --background-blue: #F0F7FF;
+
+  /* 文字颜色 */
+  --foreground: #2D3748;
+  --foreground-muted: #718096;
+
+  /* 卡片和弹窗 */
+  --card: #ffffff;
+  --card-foreground: #2D3748;
+  --popover: #ffffff;
+  --popover-foreground: #2D3748;
+
+  /* 主要颜色 - 使用 Toca 粉色 */
+  --primary: #FF6B9D;
+  --primary-foreground: #ffffff;
+
+  /* RGB格式变量 */
+  --primary-rgb: 255, 107, 157;
+  --background-rgb: 255, 255, 255;
+  --border-rgb: 226, 232, 240;
+  --destructive-rgb: 239, 68, 68;
+  --muted-rgb: 247, 250, 252;
+  --accent-rgb: 240, 253, 250;
+  --card-rgb: 255, 255, 255;
+  --foreground-rgb: 45, 55, 72;
+  --muted-foreground-rgb: 113, 128, 150;
+  --sidebar-foreground-rgb: 45, 55, 72;
+
+  /* 次要颜色 */
+  --secondary: #F7FAFC;
+  --secondary-foreground: #2D3748;
+  --muted: #F7FAFC;
+  --muted-foreground: #718096;
+  --accent: #F0FDFA;
+  --accent-foreground: #2D3748;
+
+  /* 其他语义化颜色 */
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #E2E8F0;
+  --input: #E2E8F0;
+  --ring: #FF6B9D;
+
+  /* Chart 颜色 - 使用 Toca 色系 */
+  --chart-1: #FF6B9D;
+  --chart-2: #06D6A0;
+  --chart-3: #FFD166;
+  --chart-4: #FF8A5B;
+  --chart-5: #4A90E2;
+
+  /* Sidebar */
+  --sidebar: #ffffff;
+  --sidebar-foreground: #2D3748;
+  --sidebar-primary: #FF6B9D;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #F7FAFC;
+  --sidebar-accent-foreground: #2D3748;
+  --sidebar-border: #E2E8F0;
+  --sidebar-ring: #FF6B9D;
+
+  /* 字体 - 将改为 Fredoka */
+  --font-sans: var(--font-fredoka), system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-serif: Georgia, serif;
+  --font-mono: Menlo, monospace;
+
+  /* Toca 风格圆角系统 */
+  --radius: 1rem;
+  --radius-sm: 0.75rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.5rem;
+  --radius-xl: 2rem;
+  --radius-2xl: 2.5rem;
+  --radius-full: 9999px;
+
+  /* 柔和阴影 */
+  --shadow-2xs: 0px 1px 2px 0px rgba(0, 0, 0, 0.04);
+  --shadow-xs: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  --shadow-sm: 0px 2px 8px 0px rgba(0, 0, 0, 0.08);
+  --shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0px 6px 16px 0px rgba(0, 0, 0, 0.12);
+  --shadow-lg: 0px 8px 24px 0px rgba(0, 0, 0, 0.14);
+  --shadow-xl: 0px 12px 32px 0px rgba(0, 0, 0, 0.16);
+  --shadow-2xl: 0px 16px 48px 0px rgba(0, 0, 0, 0.18);
+  --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.04);
+
+  /* 滚动条颜色 */
+  --scrollbar-thumb: var(--border);
+  --scrollbar-track: var(--muted);
+}
+
+/* 暗色主题 - 优化版 */
+.dark {
+  /* Toca Boca 主色调 - 暗色模式下更加鲜艳明亮 */
+  --toca-pink: #FF9DC5;
+  --toca-yellow: #FFE599;
+  --toca-cyan: #2FFFCC;
+  --toca-orange: #FFB088;
+  --toca-purple: #C5ACFF;
+  --toca-blue: #7AB8FF;
+
+  /* 暗色背景 - 提高层次感 */
+  --background: #0B1120;
+  --background-pink: #1F0D17;
+  --background-yellow: #1F1810;
+  --background-cyan: #0D1F1A;
+  --background-purple: #170F1F;
+  --background-blue: #0D1525;
+
+  /* 暗色文字 - 提高可读性 */
+  --foreground: #F8FAFC;
+  --foreground-muted: #94A3B8;
+
+  /* 暗色卡片 - 增强对比度和立体感 */
+  --card: #1A2332;
+  --card-foreground: #F8FAFC;
+  --popover: #1A2332;
+  --popover-foreground: #F8FAFC;
+
+  /* 主要颜色 - 使用更明亮的 Toca 粉色 */
+  --primary: #FF9DC5;
+  --primary-foreground: #0B1120;
+
+  /* RGB格式变量 - 暗色优化 */
+  --primary-rgb: 255, 157, 197;
+  --background-rgb: 11, 17, 32;
+  --border-rgb: 71, 85, 105;
+  --destructive-rgb: 252, 129, 129;
+  --muted-rgb: 30, 41, 59;
+  --accent-rgb: 47, 255, 204;
+  --card-rgb: 26, 35, 50;
+  --foreground-rgb: 248, 250, 252;
+  --muted-foreground-rgb: 148, 163, 184;
+  --sidebar-foreground-rgb: 248, 250, 252;
+
+  /* 次要颜色 - 提高对比度 */
+  --secondary: #1E293B;
+  --secondary-foreground: #F8FAFC;
+  --muted: #1E293B;
+  --muted-foreground: #A0AEC0;
+  --accent: #0F3A30;
+  --accent-foreground: #F8FAFC;
+
+  /* 其他语义化颜色 */
+  --destructive: #FC8181;
+  --destructive-foreground: #0B1120;
+  --border: #475569;
+  --input: #475569;
+  --ring: #FF9DC5;
+
+  /* Chart 颜色 - 使用更明亮的 Toca 色系 */
+  --chart-1: #FF9DC5;
+  --chart-2: #2FFFCC;
+  --chart-3: #FFE599;
+  --chart-4: #FFB088;
+  --chart-5: #7AB8FF;
+
+  /* Sidebar - 增强对比 */
+  --sidebar: #1A2332;
+  --sidebar-foreground: #F8FAFC;
+  --sidebar-primary: #FF9DC5;
+  --sidebar-primary-foreground: #0B1120;
+  --sidebar-accent: #475569;
+  --sidebar-accent-foreground: #F8FAFC;
+  --sidebar-border: #475569;
+  --sidebar-ring: #FF9DC5;
+
+  /* 暗色滚动条 */
+  --scrollbar-thumb: #64748B;
+  --scrollbar-track: #1E293B;
+
+  /* 暗色模式专属阴影 - 使用发光效果替代传统阴影 */
+  --shadow-2xs: 0px 1px 2px 0px rgba(0, 0, 0, 0.3);
+  --shadow-xs: 0px 2px 4px 0px rgba(0, 0, 0, 0.4);
+  --shadow-sm: 0px 2px 8px 0px rgba(0, 0, 0, 0.5), 0px 0px 1px 0px rgba(255, 157, 197, 0.1);
+  --shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.6), 0px 0px 2px 0px rgba(255, 157, 197, 0.15);
+  --shadow-md: 0px 6px 16px 0px rgba(0, 0, 0, 0.7), 0px 0px 3px 0px rgba(255, 157, 197, 0.2);
+  --shadow-lg: 0px 8px 24px 0px rgba(0, 0, 0, 0.8), 0px 0px 4px 0px rgba(255, 157, 197, 0.25);
+  --shadow-xl: 0px 12px 32px 0px rgba(0, 0, 0, 0.9), 0px 0px 6px 0px rgba(255, 157, 197, 0.3);
+  --shadow-2xl: 0px 16px 48px 0px rgba(0, 0, 0, 1), 0px 0px 8px 0px rgba(255, 157, 197, 0.35);
+  --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* 自定义滚动条样式 - 跟随主题色，按需显示 */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb);
+  border-radius: 4px;
+  border: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* 只在容器有滚动内容且被hover时显示滚动条 */
+*:hover::-webkit-scrollbar-thumb {
+  opacity: 1;
+}
+
+/* 移除默认hover颜色变化效果 */
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--scrollbar-thumb);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+  --font-serif: var(--font-serif);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 16px);
+  --shadow-2xs: var(--shadow-2xs);
+  --shadow-xs: var(--shadow-xs);
+  --shadow-sm: var(--shadow-sm);
+  --shadow: var(--shadow);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+  --shadow-xl: var(--shadow-xl);
+  --shadow-2xl: var(--shadow-2xl);
+}
+
+/* Toca Boca 自定义工具类 */
+@layer utilities {
+
+  /* Toca 背景色工具类 */
+  .bg-toca-pink {
+    background-color: var(--toca-pink);
+  }
+
+  .bg-toca-yellow {
+    background-color: var(--toca-yellow);
+  }
+
+  .bg-toca-cyan {
+    background-color: var(--toca-cyan);
+  }
+
+  .bg-toca-orange {
+    background-color: var(--toca-orange);
+  }
+
+  .bg-toca-purple {
+    background-color: var(--toca-purple);
+  }
+
+  .bg-toca-blue {
+    background-color: var(--toca-blue);
+  }
+
+  /* Toca 文字颜色工具类 */
+  .text-toca-pink {
+    color: var(--toca-pink);
+  }
+
+  .text-toca-yellow {
+    color: var(--toca-yellow);
+  }
+
+  .text-toca-cyan {
+    color: var(--toca-cyan);
+  }
+
+  .text-toca-orange {
+    color: var(--toca-orange);
+  }
+
+  .text-toca-purple {
+    color: var(--toca-purple);
+  }
+
+  .text-toca-blue {
+    color: var(--toca-blue);
+  }
+
+  /* Toca 风格按钮 - 超大圆角 */
+  .btn-toca {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-full);
+    font-weight: 600;
+    transition: all 0.2s ease;
+    padding: 1rem 2rem;
+    font-size: 1.125rem;
+    box-shadow: var(--shadow-md);
+  }
+
+  .btn-toca:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .btn-toca:active {
+    transform: scale(0.95);
+  }
+
+  .btn-toca-sm {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+  }
+
+  .btn-toca-lg {
+    padding: 1.25rem 2.5rem;
+    font-size: 1.25rem;
+  }
+
+  /* Toca 风格卡片 */
+  .card-toca {
+    background: var(--card);
+    border-radius: var(--radius-xl);
+    padding: 2rem;
+    box-shadow: var(--shadow-md);
+    transition: all 0.3s ease;
+  }
+
+  .card-toca:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl);
+  }
+
+  /* Toca 风格图标背景 */
+  .icon-toca {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-full);
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .icon-toca-sm {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .icon-toca-lg {
+    width: 5rem;
+    height: 5rem;
+  }
+}

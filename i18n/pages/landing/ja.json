@@ -1,0 +1,106 @@
+{
+  "landing": {
+    "header": {
+      "brand": {
+        "title": "Toca Boca Mod",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "nav": {
+        "items": [
+          {
+            "title": "ダウンロード",
+            "url": "/#download"
+          },
+          {
+            "title": "バージョン",
+            "url": "/#mod-versions"
+          },
+          {
+            "title": "よくある質問",
+            "url": "/#faq"
+          }
+        ]
+      },
+      "show_locale": true
+    },
+    "footer": {
+      "name": "footer",
+      "showLocaleList": true,
+      "brand": {
+        "title": "Toca Boca Mod",
+        "description": "Toca Boca Mod APKをダウンロードして、すべてのコンテンツを無料でアンロックします。安全で広告なし、すべてのプレミアムコンテンツへの完全アクセスが可能です。",
+        "logo": {
+          "src": "/tocalifelogo.jpg",
+          "alt": "Toca Boca Logo"
+        },
+        "url": "/"
+      },
+      "contact": {
+        "label": "お問い合わせ",
+        "email": "support@sprunki.com"
+      },
+      "copyright": "© 2025 Toca Boca Mod APK。教育目的のファンサイトです。Toca BocaまたはSpin Masterとの公式な提携関係はありません。",
+      "nav": {
+        "items": [
+          {
+            "title": "ダウンロード",
+            "children": [
+              {
+                "title": "今すぐダウンロード",
+                "url": "/#download"
+              },
+              {
+                "title": "すべてのバージョン",
+                "url": "/#mod-versions"
+              },
+              {
+                "title": "インストール方法",
+                "url": "/#download-guide"
+              }
+            ]
+          },
+          {
+            "title": "情報",
+            "children": [
+              {
+                "title": "Modとは",
+                "url": "/#what-is-mod"
+              },
+              {
+                "title": "安全性",
+                "url": "/#safety"
+              },
+              {
+                "title": "よくある質問",
+                "url": "/#faq"
+              }
+            ]
+          }
+        ]
+      },
+      "agreement": {
+        "items": [
+          {
+            "title": "プライバシーポリシー",
+            "url": "/privacy-policy",
+            "rel": "nofollow"
+          },
+          {
+            "title": "利用規約",
+            "url": "/terms-of-service",
+            "rel": "nofollow"
+          },
+          {
+            "title": "DMCA著作権ポリシー",
+            "url": "/dmca",
+            "rel": "nofollow"
+          }
+        ]
+      }
+    }
+  }
+}

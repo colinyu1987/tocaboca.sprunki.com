@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Tải Xuống Toca Boca Mod APK Phiên Bản Mới Nhất 2025 - Mở Khóa Tất Cả Miễn Phí",
+      "description": "Tải xuống phiên bản mới nhất Toca Boca Mod APK 2025. Nhận bản mod Toca Life World với mọi thứ được mở khóa, tiền không giới hạn, đồ nội thất không giới hạn, quà tặng không giới hạn. Tải xuống miễn phí cho Android.",
+      "keywords": "toca boca mod apk, toca boca unlimited, toca boca tiền không giới hạn, toca boca unlimited apk, toca boca mọi thứ không giới hạn, toca boca quà tặng không giới hạn, toca boca đồ nội thất không giới hạn, toca boca unlimited money apk, toca life world mod apk, toca boca apk download"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "Độ tuổi 3-12",
+      "description": "Toca Boca Mod APK với tiền không giới hạn, đồ nội thất và quà tặng. Tải xuống bản mod Toca Life World với toàn bộ nội dung được mở khóa - 8 địa điểm, hơn 40 nhân vật, hơn 500 vật phẩm. Tải xuống miễn phí cho thiết bị Android.",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Tải Xuống Toca Boca Mod APK",
+      "description": "Tải xuống Toca Boca Mod APK với tiền không giới hạn, đồ nội thất và quà tặng. Nhận bản mod Toca Life World với toàn bộ nội dung được mở khóa cho Android."
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "Trang web tải xuống Toca Boca Mod APK miễn phí. Cung cấp các phiên bản đã chỉnh sửa của Toca Life World với toàn bộ nội dung được mở khóa."
+    }
+  },
+  "not-found": {
+    "404_title": "Không Tìm Thấy Trang",
+    "404_description": "Trang quý vị đang tìm kiếm không tồn tại.",
+    "back_home": "Quay Lại Trang Chủ"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "Chia sẻ trang này",
+      "defaultTitle": "Toca Boca Mod APK - Tải Xuống Phiên Bản Mới Nhất",
+      "defaultDescription": "Nhận bản mod Toca Life World với tiền không giới hạn, đồ nội thất và quà tặng. Mở khóa tất cả nội dung miễn phí",
+      "shareOn": "Chia sẻ trên {{platform}}",
+      "shareSuccess": "Đã chia sẻ thành công trên {{platform}}!",
+      "shareFailed": "Chia sẻ thất bại, vui lòng thử lại",
+      "copyLink": "Sao chép liên kết",
+      "linkCopied": "Đã sao chép liên kết vào bảng tạm!",
+      "copyFailed": "Sao chép liên kết thất bại",
+      "share": "Chia sẻ"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Tải Toca Life World Mod - Tiền, Đồ Nội Thất & Quà Không Giới Hạn",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "Phiên Bản Mới Nhất",
+      "downloadButton": "Tải Toca Boca Mod",
+      "downloadCount": "Kích thước tệp: 720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "Toàn Bộ Nội Dung Đã Mở Khóa",
+        "money": "Tiền Không Giới Hạn",
+        "ads": "Không Quảng Cáo",
+        "free": "Tải Xuống Miễn Phí"
+      }
+    },
+    "modVersions": {
+      "title": "Các Phiên Bản Mod Toca Boca Có Sẵn",
+      "subtitle": "Các trò chơi Toca Boca khác nhau với nội dung cao cấp đã mở khóa",
+      "downloadButton": "Tải Xuống",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "Trò chơi Toca Boca chính với hơn 8 địa điểm và hơn 40 nhân vật. Tất cả nhà cửa, đồ nội thất và vật phẩm đã được mở khóa. Lối chơi sáng tạo mở.",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "Phiên Bản Chính"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "Trò chơi nấu ăn gốc với tất cả dụng cụ nhà bếp đã mở khóa. Lối chơi chế biến thức ăn sáng tạo.",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "Chủ Đề Nấu Ăn"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "Trò chơi nấu ăn nâng cao với nhiều nguyên liệu và công cụ hơn. Tất cả công thức và thiết bị nhà bếp đã mở khóa.",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "Chủ Đề Nấu Ăn"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "Trò chơi tạo kiểu tóc với tất cả công cụ và phụ kiện đã mở khóa. Nhiều kiểu tóc, màu sắc và trang trí có sẵn.",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "Chủ Đề Tạo Kiểu"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "Mô phỏng y tế với tất cả công cụ đã mở khóa. Đóng vai bác sĩ điều trị các tình trạng khác nhau. Toàn bộ nội dung có thể truy cập.",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "Chủ Đề Y Tế"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "Phiên bản đơn giản hóa cho độ tuổi 3-5. Lối chơi cơ bản với tất cả tính năng đã mở khóa. Giao diện không quảng cáo.",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "Độ Tuổi 3-5"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "Khám phá thị trấn với cửa hàng, nhà hàng và nhà cửa. Tất cả địa điểm và nhân vật đã mở khóa.",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "Chủ Đề Thị Trấn"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "Trò chơi khám phá đô thị với các địa điểm thành phố. Tất cả tòa nhà và phương tiện có thể truy cập.",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "Chủ Đề Thành Phố"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "Mô phỏng trung tâm y tế với tất cả các khoa đã mở khóa. Thiết bị bệnh viện đầy đủ có sẵn.",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "Chủ Đề Y Tế"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "Mô phỏng nơi làm việc với tất cả không gian văn phòng đã mở khóa. Hoạt động nhập vai chuyên nghiệp.",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "Chủ Đề Văn Phòng"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "Mô phỏng chăm sóc thú cưng với tất cả động vật đã mở khóa. Phụ kiện và đồ chơi thú cưng đầy đủ có sẵn.",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "Chủ Đề Thú Cưng"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "Khám phá thiên nhiên và xây dựng hệ sinh thái. Tất cả thực vật, động vật và môi trường đã mở khóa.",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "Chủ Đề Thiên Nhiên"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "Mô phỏng trường học với lớp học và hoạt động. Tất cả nội dung giáo dục đã mở khóa.",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "Chủ Đề Trường Học"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "Trò chơi trốn tìm vui nhộn. Tất cả nhân vật và địa điểm đã mở khóa cho lối chơi sáng tạo.",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "Chủ Đề Vui Chơi"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "Trò chơi khám phá khoa học với các nguyên tố hóa học. Tất cả thí nghiệm và công cụ đã mở khóa.",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "Chủ Đề Khoa Học"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "Trò chơi khoa học thực vật với thí nghiệm cây. Tất cả cây, công cụ và thiết bị phòng thí nghiệm đã mở khóa.",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "Chủ Đề Sinh Học"
+      }
+    },
+    "whatIsMod": {
+      "title": "Toca Boca Mod APK Là Gì?",
+      "intro": "Toca Boca mod apklà Toca Life World phiên bản đã chỉnh sửa mở khóa toàn bộ nội dung cao cấp. Cung cấp tiền không giới hạn, đồ nội thất không giới hạn, quà tặng không giới hạn và quyền truy cập vào tất cả tính năng, nhân vật, địa điểm mà không cần thanh toán.",
+      "features": [
+        {
+          "title": "Mọi Thứ Không Giới Hạn Đã Mở Khóa",
+          "description": "Tất cả nhà cửa, đồ nội thất không giới hạn, nhân vật và phụ kiện có thể truy cập ngay từ khi cài đặt. Bao gồm quyền truy cập nhà cửa và địa điểm không giới hạn của Toca Boca."
+        },
+        {
+          "title": "Loại Bỏ Quảng Cáo",
+          "description": "Các quảng cáo có trong phiên bản chính thức miễn phí đã được loại bỏ. Trò chơi diễn ra mà không bị gián đoạn bởi quảng cáo."
+        },
+        {
+          "title": "Tiền & Quà Tặng Không Giới Hạn",
+          "description": "Tiền tệ trong trò chơi không giới hạn (xu/kim cương) và quà tặng không giới hạn được cung cấp. Toca boca unlimited money apk cho phép mua vật phẩm và tùy chỉnh không hạn chế."
+        }
+      ],
+      "difference": "Bản mod Toca Boca unlimited cung cấp quyền truy cập miễn phí vào toàn bộ nội dung với tài nguyên không giới hạn, trong khi ứng dụng chính thức yêu cầu mua hàng trong ứng dụng cho các địa điểm, nhân vật và vật phẩm cao cấp. Cơ chế chơi cốt lõi vẫn giống hệt nhau."
+    },
+    "aboutGame": {
+      "title": "Về Trò Chơi Toca Boca Life World",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "Tổng quan trò chơi Toca Life World hiển thị các địa điểm và nhân vật đầy màu sắc",
+      "company": {
+        "heading": "Nhà Phát Triển Trò Chơi",
+        "text": "Toca Boca là nhà phát triển ứng dụng dành cho trẻ em thuộc sở hữu của Spin Master. Được thành lập năm 2010 tại Thụy Điển, công ty đã phát hành hơn 40 ứng dụng với hơn 500 triệu lượt tải xuống trên toàn cầu."
+      },
+      "vision": {
+        "heading": "Triết Lý Thiết Kế",
+        "text": "Các trò chơi Toca Boca sử dụng thiết kế chơi mở. Không có quy tắc, điểm số hoặc giới hạn thời gian trong lối chơi. Người chơi tạo ra câu chuyện của riêng mình mà không có mục tiêu được xác định trước."
+      },
+      "audience": {
+        "heading": "Nhóm Tuổi Mục Tiêu",
+        "text": "Các trò chơi được thiết kế cho trẻ em từ 3-12 tuổi. Toca Life World đặc biệt nhắm đến độ tuổi 6-12 quan tâm đến trò chơi nhập vai và mô phỏng. Điều khiển dựa trên chạm được thiết kế cho người dùng là trẻ em."
+      },
+      "popularity": {
+        "heading": "Đặc Điểm Trò Chơi",
+        "text": "Các trò chơi có thiết kế nhân vật đa dạng và tránh các biểu hiện rập khuôn. Người chơi có quyền tự do trong cách họ tương tác với nội dung trò chơi. Các phiên bản trả phí không chứa quảng cáo. Trò chơi sử dụng phong cách nghệ thuật đầy màu sắc và bao gồm các yếu tố tương tác."
+      }
+    },
+    "safety": {
+      "title": "Thông Tin An Toàn",
+      "subtitle": "Các cân nhắc về bảo mật cho tệp mod APK",
+      "importantLabel": "Quan trọng:",
+      "bottomNote": "Luôn tải xuống từ các nguồn đáng tin cậy và xác minh tính toàn vẹn của tệp trước khi cài đặt. Giữ cho phần mềm bảo mật thiết bị của quý vị được cập nhật.",
+      "safe1": {
+        "title": "Bảo Mật Tệp APK",
+        "description": "Các tệp APK đã chỉnh sửa nên được quét bằng phần mềm diệt virus trước khi cài đặt. Sử dụng các công cụ diệt virus uy tín để xác minh tính toàn vẹn của tệp."
+      },
+      "safe2": {
+        "title": "Thu Thập Dữ Liệu",
+        "description": "Bản mod này không thêm thu thập dữ liệu bổ sung ngoài những gì có trong ứng dụng gốc. Không cần đăng nhập để truy cập nội dung đã mở khóa."
+      },
+      "safe3": {
+        "title": "Chức Năng Ngoại Tuyến",
+        "description": "Trò chơi hoạt động ngoại tuyến sau khi cài đặt. Không cần kết nối internet cho lối chơi. Các tính năng ngoại tuyến ban đầu vẫn hoạt động."
+      },
+      "safe4": {
+        "title": "Khả Năng Tương Thích Thiết Bị",
+        "description": "Đã được thử nghiệm trên Android 5.0 và các phiên bản mới hơn. Hiệu suất thay đổi theo thông số kỹ thuật thiết bị. Yêu cầu khoảng 150 MB dung lượng lưu trữ trống."
+      },
+      "safe5": {
+        "title": "Xếp Hạng Nội Dung",
+        "description": "Các trò chơi Toca Boca được thiết kế cho độ tuổi 3-12. Nội dung vẫn phù hợp với lứa tuổi trong phiên bản mod. Không có chủ đề bạo lực hoặc người lớn."
+      },
+      "safe6": {
+        "title": "Cân Nhắc Khi Cài Đặt",
+        "description": "Mod APK không thể được cài đặt cùng với phiên bản chính thức. Yêu cầu bật 'Nguồn không xác định' trong cài đặt Android. Cập nhật chính thức không được hỗ trợ."
+      }
+    },
+    "latestVersion": {
+      "title": "Tải Toca Boca Mod - Phiên Bản Mới Nhất APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "Đã Thêm Địa Điểm Căn Hộ",
+          "description": "Địa điểm tòa nhà căn hộ mới với 4 tầng và 8 phòng. Chứa đồ nội thất và vật phẩm tương tác."
+        },
+        {
+          "title": "Bổ Sung Nhân Vật",
+          "description": "6 nhân vật mới được thêm vào với các tùy chọn trang phục và phụ kiện. Tất cả nhân vật đã mở khóa trong phiên bản mod."
+        },
+        {
+          "title": "Mở Rộng Đồ Nội Thất",
+          "description": "Đã thêm hơn 100 món đồ nội thất mới: bộ nhà bếp, đồ phòng ngủ, đồ dùng phòng tắm và đồ nội thất phòng khách."
+        },
+        {
+          "title": "Cập Nhật Kỹ Thuật",
+          "description": "Tối ưu hóa engine trò chơi để cải thiện hiệu suất trên các thiết bị cũ hơn. Bao gồm giảm thời gian tải và sửa lỗi."
+        }
+      ],
+      "changelog": {
+        "title": "Lịch Sử Phiên Bản",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "Căn hộ mới, 6 nhân vật, hơn 100 món đồ nội thất"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "Tháng 12/2024",
+            "changes": "Vật phẩm và trang trí ngày lễ mùa đông"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "Tháng 11/2024",
+            "changes": "Mở rộng địa điểm trung tâm mua sắm"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Tính Năng Trò Chơi Toca Boca",
+      "subtitle": "Các yếu tố lối chơi cốt lõi",
+      "feature1": {
+        "title": "Hơn 8 Địa Điểm Trò Chơi",
+        "description": "Nhiều địa điểm có sẵn: nhà, trường học, trung tâm mua sắm, khu ẩm thực, tiệm làm tóc, văn phòng, căn hộ và những nơi khác. Mỗi địa điểm chứa các đối tượng tương tác.",
+        "keywords": "địa điểm, khám phá, tương tác"
+      },
+      "feature2": {
+        "title": "Hơn 40 Nhân Vật Có Thể Chơi",
+        "description": "Hơn 40 nhân vật với thiết kế đa dạng đại diện cho các độ tuổi, sắc tộc và phong cách khác nhau. Ngoại hình, trang phục và phụ kiện của nhân vật có thể tùy chỉnh.",
+        "keywords": "nhân vật, đa dạng, tùy chỉnh"
+      },
+      "feature3": {
+        "title": "Lối Chơi Mở",
+        "description": "Trò chơi không chứa quy tắc hoặc mục tiêu được xác định trước. Người chơi tạo ra các kịch bản và câu chuyện của riêng mình thông qua cơ chế nhập vai.",
+        "keywords": "chơi sáng tạo, kể chuyện, trí tưởng tượng"
+      },
+      "feature4": {
+        "title": "Thiết Kế Tập Trung Vào Trẻ Em",
+        "description": "Phiên bản chính thức được thiết kế cho trẻ em: không có quảng cáo của bên thứ ba trong phiên bản trả phí, không có liên kết mạng xã hội. Phiên bản mod loại bỏ các lời nhắc mua hàng trong ứng dụng.",
+        "keywords": "an toàn, thân thiện với trẻ em, kiểm soát của phụ huynh"
+      }
+    },
+    "modFeatures": {
+      "title": "Tính Năng Toca Boca Mod APK",
+      "subtitle": "Bao gồm tiền, đồ nội thất và quà tặng không giới hạn",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "Bản mod Toca Boca unlimited với tất cả địa điểm và vật phẩm đã mở khóa",
+      "features": [
+        {
+          "title": "Toàn Bộ Nội Dung Đã Mở Khóa",
+          "description": "Tất cả 8 địa điểm, hơn 40 nhân vật, hơn 500 món đồ nội thất và vật phẩm có thể truy cập ngay từ khi cài đặt. Không cần mua hàng trong ứng dụng.",
+          "icon": "unlock"
+        },
+        {
+          "title": "Tiền & Tiền Tệ Không Giới Hạn",
+          "description": "Tiền tệ trong trò chơi không giới hạn (xu/kim cương) được cung cấp. Tất cả vật phẩm có thể mua mà không bị hạn chế về tiền tệ. Phiên bản Toca Boca unlimited money apk.",
+          "icon": "money"
+        },
+        {
+          "title": "Loại Bỏ Quảng Cáo",
+          "description": "Quảng cáo từ phiên bản chính thức miễn phí đã được loại bỏ. Không có quảng cáo bật lên, video hoặc banner trong phiên bản đã chỉnh sửa này.",
+          "icon": "shield"
+        },
+        {
+          "title": "Quà Tặng Không Giới Hạn & Nội Dung Cao Cấp",
+          "description": "Tất cả địa điểm cao cấp, nhân vật, quà tặng không giới hạn, vật phẩm và nội dung theo mùa đều được bao gồm. Không cần mua DLC riêng.",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK So Với Bản Gốc",
+      "subtitle": "So sánh phiên bản Mod",
+      "featureLabel": "Tính Năng",
+      "modVersion": "Phiên Bản Mod",
+      "original": "Phiên Bản Gốc",
+      "swipeHint": "← Vuốt để xem so sánh →",
+      "bottomNote": "So sánh tính năng giữa phiên bản mod và bản gốc",
+      "downloadButton": "Tải Toca Boca Mod",
+      "features": [
+        {
+          "feature": "Giá",
+          "mod": "100% Miễn Phí",
+          "original": "$4.99 + Mua Hàng Trong Ứng Dụng"
+        },
+        {
+          "feature": "Tất Cả Địa Điểm Đã Mở Khóa",
+          "mod": "Có - 8 Địa Điểm",
+          "original": "Một Phần - 1 Miễn Phí, 7 Trả Phí"
+        },
+        {
+          "feature": "Tất Cả Nhân Vật Có Sẵn",
+          "mod": "Có - Hơn 40 Nhân Vật",
+          "original": "Hạn Chế - 8 Nhân Vật Miễn Phí"
+        },
+        {
+          "feature": "Đồ Nội Thất & Vật Phẩm",
+          "mod": "Tất Cả Hơn 500 Vật Phẩm Miễn Phí",
+          "original": "Hầu Hết Vật Phẩm Cần Mua"
+        },
+        {
+          "feature": "Tiền Tệ Trong Trò Chơi",
+          "mod": "Tiền Không Giới Hạn",
+          "original": "Hạn Chế, Phải Mua Thêm"
+        },
+        {
+          "feature": "Quảng Cáo",
+          "mod": "Không Quảng Cáo",
+          "original": "Có Quảng Cáo Trong Phiên Bản Miễn Phí"
+        },
+        {
+          "feature": "Nội Dung Cao Cấp",
+          "mod": "Tất Cả Miễn Phí Đi Kèm",
+          "original": "Cần DLC Trả Phí"
+        },
+        {
+          "feature": "Cập Nhật Trò Chơi",
+          "mod": "Cập Nhật Mod Thường Xuyên",
+          "original": "Cập Nhật Tự Động Từ Cửa Hàng Ứng Dụng"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "Cách Tải Xuống Toca Boca Mod APK",
+      "subtitle": "Các bước tải xuống toca boca mod apk",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "Nút tải xuống Toca Boca mod APK",
+      "steps": [
+        {
+          "title": "Bật Nguồn Không Xác Định",
+          "description": "Điều hướng đến Cài đặt > Bảo mật > Nguồn Không Xác Định và bật tùy chọn này. Cài đặt này cho phép Android cài đặt các tệp APK từ các nguồn khác ngoài Google Play Store."
+        },
+        {
+          "title": "Tải Xuống Tệp APK",
+          "description": "Nhấp vào nút tải xuống trên trang này. Tệp APK (720 MB) sẽ tải xuống vào thiết bị của quý vị. Đợi quá trình tải xuống hoàn tất trước khi tiếp tục."
+        },
+        {
+          "title": "Xác Định Vị Trí Tệp Đã Tải Xuống",
+          "description": "Mở thư mục Tải xuống trên thiết bị của quý vị hoặc kiểm tra bảng thông báo. Xác định vị trí tệp có tên 'TocaBoca_Mod_v1.95.apk' và chạm để bắt đầu cài đặt."
+        },
+        {
+          "title": "Cài Đặt Ứng Dụng",
+          "description": "Android hiển thị màn hình xác nhận cài đặt. Chạm vào 'Cài đặt' và đợi quá trình cài đặt hoàn tất."
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "Cách Cài Đặt Toca Boca Mod APK",
+      "subtitle": "Hướng dẫn cài đặt",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Màn hình cài đặt mod Toca Boca",
+      "steps": [
+        {
+          "title": "Xác Minh Yêu Cầu Hệ Thống",
+          "description": "Thông số kỹ thuật yêu cầu: Android 5.0 trở lên, 150 MB dung lượng lưu trữ trống, tối thiểu 2 GB RAM. Hầu hết các thiết bị được sản xuất từ năm 2018 trở đi đều đáp ứng các yêu cầu này."
+        },
+        {
+          "title": "Gỡ Bỏ Phiên Bản Chính Thức",
+          "description": "Nếu ứng dụng Toca Boca chính thức đã được cài đặt, hãy gỡ cài đặt nó trước khi tiếp tục. Phiên bản mod và chính thức không thể cùng tồn tại trên cùng một thiết bị."
+        },
+        {
+          "title": "Cấp Quyền Cài Đặt",
+          "description": "Android có thể yêu cầu quyền trong quá trình cài đặt. Mod yêu cầu quyền truy cập bộ nhớ để lưu tiến trình trò chơi. Xem xét các yêu cầu quyền trước khi cấp."
+        },
+        {
+          "title": "Khởi Chạy Ứng Dụng",
+          "description": "Sau khi cài đặt hoàn tất, xác định vị trí biểu tượng Toca Boca trên màn hình chính của quý vị. Mở ứng dụng để truy cập toàn bộ nội dung đã mở khóa."
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Cách Chơi Toca Boca",
+      "subtitle": "Hướng dẫn chơi cơ bản",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Hướng dẫn lối chơi Toca Boca",
+      "basics": [
+        {
+          "title": "Chọn Địa Điểm",
+          "description": "Chọn từ 8 địa điểm có sẵn qua bản đồ thế giới. Mỗi địa điểm cung cấp các cài đặt hoạt động khác nhau: nhà, trung tâm mua sắm, trường học và những nơi khác. Tất cả địa điểm đã mở khóa trong phiên bản mod."
+        },
+        {
+          "title": "Chọn Nhân Vật",
+          "description": "Chọn nhân vật từ menu nhân vật (hơn 40 có sẵn). Kéo nhân vật vào cảnh. Nhiều nhân vật có thể hoạt động đồng thời. Tùy chỉnh trang phục nhân vật bằng cách chạm vào nhân vật và chọn các món đồ quần áo."
+        },
+        {
+          "title": "Sử Dụng Đối Tượng Tương Tác",
+          "description": "Chạm vào các đối tượng để kích hoạt tương tác - mở tủ lạnh, kích hoạt thiết bị, thao tác vật phẩm. Hầu hết các đối tượng trong trò chơi đều phản hồi đầu vào của người chơi. Kéo vật phẩm đến tay nhân vật để sử dụng."
+        },
+        {
+          "title": "Chơi Tự Do",
+          "description": "Không có nhiệm vụ hoặc mục tiêu. Người chơi tạo ra các kịch bản thông qua tương tác nhân vật và thao tác đối tượng. Trò chơi hỗ trợ các hoạt động nhập vai mở."
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Ảnh Chụp Màn Hình Toca Boca Mod APK",
+      "subtitle": "Ví dụ về giao diện trò chơi",
+      "images": [
+        {
+          "title": "Truy Cập Địa Điểm",
+          "description": "Tất cả 8 địa điểm có thể truy cập ngay từ lần khởi chạy đầu tiên. Không cần mở khóa bổ sung.",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "Tùy Chọn Nhân Vật",
+          "description": "Hơn 40 nhân vật với các tính năng tùy chỉnh. Các món đồ quần áo và phụ kiện đã được mở khóa.",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "Trang Trí Phòng",
+          "description": "Hơn 500 món đồ nội thất có sẵn để trang trí phòng. Tất cả vật phẩm có thể truy cập trong phiên bản mod.",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "Các Yếu Tố Tương Tác",
+          "description": "Các đối tượng tương tác có mặt khắp các địa điểm trò chơi. Nhiều vật phẩm phản hồi tương tác của người chơi.",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Khắc Phục Các Vấn Đề Thường Gặp",
+      "subtitle": "Giải pháp cho các vấn đề thường xuyên",
+      "bottomNote": "Vẫn gặp vấn đề? Kiểm tra phần Câu hỏi thường gặp của chúng tôi để được trợ giúp thêm.",
+      "issue1": {
+        "problem": "Cài Đặt Thất Bại Hoặc Bị Chặn",
+        "solution": "Đảm bảo 'Nguồn Không Xác Định' được bật trong Cài đặt > Bảo mật. Nếu vẫn bị chặn, hãy thử tải xuống lại vì tệp có thể bị lỗi. Một số ứng dụng diệt virus gắn cờ sai mod - tạm thời tắt chúng trong quá trình cài đặt."
+      },
+      "issue2": {
+        "problem": "Ứng Dụng Liên Tục Gặp Sự Cố",
+        "solution": "Xóa bộ nhớ cache ứng dụng: Cài đặt > Ứng dụng > Toca Boca > Xóa Bộ Nhớ Cache. Đảm bảo quý vị có ít nhất 150 MB dung lượng lưu trữ trống. Khởi động lại thiết bị và thử lại. Cập nhật lên phiên bản mod mới nhất nếu có."
+      },
+      "issue3": {
+        "problem": "Không Phải Tất Cả Nội Dung Được Mở Khóa",
+        "solution": "Xác minh quý vị đã tải xuống phiên bản mod (kích thước tệp phải là 720 MB). Xóa và cài đặt lại từ trang web của chúng tôi. Một số địa điểm có vẻ bị khóa nhưng thực sự có thể truy cập được - hãy thử chạm vào chúng lần nữa."
+      },
+      "issue4": {
+        "problem": "Trò Chơi Không Mở",
+        "solution": "Kiểm tra phiên bản Android (cần 5.0+). Gỡ cài đặt Toca Boca chính thức nếu đã cài đặt. Cài đặt lại mod APK. Nếu vấn đề vẫn tiếp diễn, thiết bị của quý vị có thể không tương thích - hãy thử trên thiết bị khác."
+      },
+      "issue5": {
+        "problem": "Tiến Trình Không Được Lưu",
+        "solution": "Cấp quyền lưu trữ: Cài đặt > Ứng dụng > Toca Boca > Quyền > Lưu trữ. Đảm bảo quý vị có đủ dung lượng lưu trữ khả dụng. Tránh đóng ứng dụng bắt buộc khi đang chơi."
+      },
+      "issue6": {
+        "problem": "Hiệu Suất Chậm Hoặc Giật Lag",
+        "solution": "Đóng các ứng dụng khác đang chạy để giải phóng RAM. Giảm độ sáng màn hình thiết bị. Xóa bộ nhớ cache thường xuyên. Mod đã được tối ưu hóa nhưng các thiết bị rất cũ (trước 2017) có thể gặp tình trạng chậm."
+      }
+    },
+    "guides": {
+      "title": "Hướng Dẫn Hữu Ích",
+      "subtitle": "Điều hướng nhanh đến các phần",
+      "readMore": "Đọc Thêm",
+      "whatIs": {
+        "title": "Toca Boca Mod Là Gì?",
+        "excerpt": "Tìm hiểu điều gì làm cho phiên bản mod khác với ứng dụng gốc."
+      },
+      "about": {
+        "title": "Về Toca Life World",
+        "excerpt": "Khám phá lý lịch của trò chơi, nhà phát triển và tại sao nó lại phổ biến như vậy."
+      },
+      "download": {
+        "title": "Cách Tải Xuống",
+        "excerpt": "Hướng dẫn tải xuống từng bước cho thiết bị Android."
+      },
+      "install": {
+        "title": "Hướng Dẫn Cài Đặt",
+        "excerpt": "Hướng dẫn cài đặt đầy đủ với yêu cầu hệ thống."
+      },
+      "play": {
+        "title": "Cách Chơi",
+        "excerpt": "Kiến thức cơ bản về lối chơi và mẹo cho người mới bắt đầu."
+      },
+      "troubleshoot": {
+        "title": "Khắc Phục Sự Cố",
+        "excerpt": "Giải pháp cho các vấn đề cài đặt và chơi thường gặp."
+      }
+    },
+    "useCases": {
+      "title": "Ai Sử Dụng Toca Boca Mod?",
+      "subtitle": "Các nhóm người dùng phổ biến cho phiên bản đã chỉnh sửa",
+      "socialMedia": {
+        "title": "Trẻ Em Độ Tuổi 6-12",
+        "description": "Nhóm tuổi chính cho các trò chơi Toca. Mod cung cấp quyền truy cập vào toàn bộ nội dung mà không yêu cầu mua hàng trong ứng dụng từ phụ huynh.",
+        "keywords": "trẻ em, chơi sáng tạo"
+      },
+      "business": {
+        "title": "Phụ Huynh & Gia Đình",
+        "description": "Phụ huynh tìm kiếm phiên bản đầy đủ tính năng mà không cần mua hàng liên tục. Mod loại bỏ quảng cáo có trong phiên bản chính thức miễn phí.",
+        "keywords": "phụ huynh, gia đình, không tốn phí"
+      },
+      "creators": {
+        "title": "Người Tạo Nội Dung",
+        "description": "Người tạo video hiển thị lối chơi đầy đủ. Mod cung cấp quyền truy cập vào toàn bộ nội dung để trình diễn và đánh giá toàn diện.",
+        "keywords": "youtuber, streamer, nội dung"
+      },
+      "teams": {
+        "title": "Nhà Giáo Dục",
+        "description": "Giáo viên sử dụng trò chơi Toca cho các hoạt động kể chuyện và nhập vai. Mod loại bỏ rào cản chi phí cho việc sử dụng trong lớp học.",
+        "keywords": "giáo dục, giáo viên, lớp học"
+      },
+      "personal": {
+        "title": "Trẻ Em Nhỏ Hơn (3-5 Tuổi)",
+        "description": "Người dùng ở độ tuổi mẫu giáo. Mod loại bỏ các lời nhắc mua hàng mà trẻ nhỏ không thể điều hướng độc lập.",
+        "keywords": "trẻ mới biết đi, mẫu giáo, giao diện đơn giản"
+      },
+      "education": {
+        "title": "Người Yêu Hoàn Thiện",
+        "description": "Người dùng muốn truy cập vào tất cả các yếu tố trò chơi. Mod mở khóa toàn bộ thư viện nội dung mà không cần mua hàng từng phần.",
+        "keywords": "người sưu tập, người yêu hoàn thiện, truy cập đầy đủ"
+      },
+      "ctaDescription": "Phiên bản đã chỉnh sửa với toàn bộ nội dung có thể truy cập ngay từ khi cài đặt.",
+      "ctaButton": "Tải Xuống APK"
+    },
+    "faq": {
+      "title": "Câu Hỏi Thường Gặp",
+      "subtitle": "Các câu hỏi phổ biến về Toca Boca mod APK",
+      "q1": {
+        "question": "Toca Boca Mod APK là gì?",
+        "answer": "Toca Boca mod apk là phiên bản đã chỉnh sửa của Toca Life World mở khóa toàn bộ nội dung cao cấp. Bao gồm tiền không giới hạn, đồ nội thất không giới hạn, quà tặng không giới hạn, tất cả địa điểm, nhân vật và vật phẩm. Bản mod Toca Boca với mọi thứ đã mở khóa và không có quảng cáo."
+      },
+      "q2": {
+        "question": "Tải xuống Toca Boca Mod APK có an toàn không?",
+        "answer": "Các tệp APK đã chỉnh sửa mang các rủi ro tiềm ẩn không có trong các lượt tải xuống từ cửa hàng ứng dụng chính thức. Mod này không thu thập dữ liệu cá nhân bổ sung ngoài ứng dụng gốc. Tệp nên được quét bằng phần mềm diệt virus trước khi cài đặt. Hoạt động ngoại tuyến sau lần tải xuống ban đầu. Không có xác minh bảo mật chính thức cho các mod của bên thứ ba."
+      },
+      "q3": {
+        "question": "Làm thế nào để tải xuống Toca Boca Mod APK?",
+        "answer": "Các bước tải xuống:\n\n1. Bật 'Nguồn Không Xác Định' trong Cài đặt > Bảo mật\n2. Tải xuống tệp APK (720 MB)\n3. Mở thư mục Tải xuống và chạm vào tệp APK\n4. Chạm vào 'Cài đặt' và đợi hoàn tất\n\nYêu cầu 150 MB dung lượng lưu trữ trống và Android 5.0 trở lên."
+      },
+      "q4": {
+        "question": "Toca Boca Mod có cần internet không?",
+        "answer": "Không cần kết nối internet sau khi cài đặt. Tất cả nội dung được lưu trữ cục bộ trên thiết bị. Lối chơi hoạt động hoàn toàn ngoại tuyến."
+      },
+      "q5": {
+        "question": "Sự khác biệt giữa mod và bản gốc là gì?",
+        "answer": "Các khác biệt chính:\n\n• Giá: Mod miễn phí, bản gốc có giá $4.99 cộng mua hàng trong ứng dụng\n• Nội dung: Mod có mọi thứ đã mở khóa, bản gốc yêu cầu thanh toán cho nội dung cao cấp\n• Tiền tệ: Mod cung cấp tiền trong trò chơi không giới hạn, bản gốc yêu cầu mua xu\n• Quảng cáo: Mod loại bỏ quảng cáo, phiên bản gốc miễn phí chứa quảng cáo\n• Cập nhật: Mod yêu cầu cài đặt thủ công, bản gốc cập nhật qua cửa hàng ứng dụng\n\nCơ chế chơi cốt lõi giống hệt nhau."
+      },
+      "q6": {
+        "question": "Toca Boca Mod có hoạt động trên thiết bị của tôi không?",
+        "answer": "Yêu cầu hệ thống:\n\n• Android 5.0 (Lollipop) trở lên\n• 150 MB dung lượng lưu trữ trống\n• Tối thiểu 2 GB RAM\n• Bộ xử lý ARM hoặc ARM64\n\niOS/iPhone không được hỗ trợ. Tương thích với hầu hết các thiết bị Android từ năm 2018 trở đi."
+      },
+      "q7": {
+        "question": "Tôi có thể chơi Toca Boca Mod trên nhiều thiết bị không?",
+        "answer": "Mod có thể được cài đặt trên nhiều thiết bị Android. Tiến trình trò chơi không đồng bộ giữa các thiết bị - mỗi lần cài đặt duy trì dữ liệu lưu riêng biệt. Chuyển tệp lưu thủ công yêu cầu kiến thức kỹ thuật."
+      },
+      "q8": {
+        "question": "Có thực sự mọi thứ đều được mở khóa trong mod không?",
+        "answer": "Toàn bộ nội dung đã mở khóa:\n\n• Tất cả 8 địa điểm (Nhà, Trường học, Trung tâm mua sắm, Khu ẩm thực, Tiệm làm tóc, Văn phòng, Căn hộ, Công viên)\n• Tất cả hơn 40 nhân vật với các tùy chọn tùy chỉnh\n• Tất cả hơn 500 món đồ nội thất và vật phẩm trang trí\n• Tất cả quần áo, phụ kiện và vật phẩm đặc biệt\n• Tiền tệ trong trò chơi không giới hạn\n• Nội dung theo mùa và ngày lễ\n\nKhông cần thanh toán bổ sung cho bất kỳ nội dung nào."
+      },
+      "q9": {
+        "question": "Tại sao kích thước tệp lớn hơn bản gốc?",
+        "answer": "Mod APK (720 MB) bao gồm toàn bộ nội dung cao cấp được đóng gói sẵn. Ứng dụng chính thức tải xuống nội dung bổ sung theo yêu cầu khi được mua. Mod đóng gói mọi thứ trong tệp cài đặt ban đầu."
+      },
+      "q10": {
+        "question": "Toca Boca Mod được cập nhật thường xuyên như thế nào?",
+        "answer": "Các phiên bản mod thường được phát hành 1-2 tuần sau các bản cập nhật chính thức. Cập nhật yêu cầu tải xuống và cài đặt thủ công. Các phiên bản trước vẫn hoạt động nhưng không nhận nội dung mới từ các bản phát hành chính thức."
+      }
+    },
+    "cta": {
+      "title": "Tải Toca Boca Mod - Bản Cập Nhật Mới Nhất v1.116 Đã Ra Mắt",
+      "description": "Tải toca boca mod apk cập nhật mới nhất với tiền không giới hạn, đồ nội thất không giới hạn và quà không giới hạn",
+      "primaryButton": "Tải Toca Boca Mod",
+      "version": "Phiên bản v1.116 (720 MB)",
+      "complianceNotice": "Tài nguyên giáo dục. Không liên kết với Toca Boca hoặc Spin Master. Tôn trọng bản quyền gốc."
+    }
+  }
+}

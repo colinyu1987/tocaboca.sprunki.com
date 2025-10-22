@@ -1,0 +1,120 @@
+---
+description: Component development rules and best practices
+globs: ["components/**/*.tsx", "components/**/*.ts"]
+alwaysApply: true
+---
+
+# 组件开发规则
+
+## 组件架构
+
+### 目录结构
+- `components/ui/` - **Shadcn UI 组件及其包装器**
+- `components/widget/` - **自定义可重用组件**
+- `components/page/` - **页面级组件（如 home-page 下的各个模块）**
+- `components/layout/` - **布局组件（header、footer、default-layout）**
+- `components/locale/` - **语言切换相关组件**
+
+### 组件命名约定
+- **组件名称使用 camel-model-case 格式**
+- 文件夹名使用 kebab-case: `home-page/`, `back-to-top/`
+- 组件文件名使用 PascalCase: `back-to-home-button.tsx`
+- 索引文件统一使用 `index.tsx`
+
+## 组件开发原则
+
+### 1. 函数式组件优先
+```tsx
+// ✅ 推荐：函数式组件
+export default function BackToHomeButton({ title, children }: Props) {
+  return (
+    <div className="bg-background">
+      <h1>{title}</h1>
+      {children}
+    </div>
+  );
+}
+
+// ❌ 避免：类组件（除非必要）
+class BackToHomeButton extends React.Component {
+  // ...
+}
+```
+
+### 2. TypeScript 类型定义
+```tsx
+// 定义 Props 接口
+interface BackToHomeButtonProps {
+  variant?: 'default' | 'destructive' | 'outline';
+  size?: 'sm' | 'md' | 'lg';
+  disabled?: boolean;
+  onClick?: () => void;
+  children: React.ReactNode;
+}
+
+export default function BackToHomeButton({ 
+  variant = 'default', 
+  size = 'md', 
+  disabled = false,
+  onClick,
+  children 
+}: BackToHomeButtonProps) {
+  return (
+    <button
+      className={cn(
+        "inline-flex items-center justify-center rounded-md",
+        variants[variant],
+        sizes[size]
+      )}
+      disabled={disabled}
+      onClick={onClick}
+    >
+      {children}
+    </button>
+  );
+}
+```
+
+### 3. 国际化集成
+```tsx
+'use client';
+
+import { useTranslations } from 'next-intl';
+
+interface BackToHomeButtonProps {
+  titleKey: string;
+  descriptionKey: string;
+  icon: React.ReactNode;
+}
+
+export default function FeatureCard({ titleKey, descriptionKey, icon }: BackToHomeButtonProps) {
+  const t = useTranslations('features');
+  
+  return (
+    <div className="bg-card border border-border rounded-lg p-6">
+      <div className="flex items-center gap-3 mb-4">
+        {icon}
+        <h3 className="text-lg font-semibold text-card-foreground">
+          {t(titleKey)}
+        </h3>
+      </div>
+      <p className="text-muted-foreground">
+        {t(descriptionKey)}
+      </p>
+    </div>
+  );
+}
+```
+```
+
+## 最佳实践检查清单
+- [ ] 使用函数式组件和 React Hooks
+- [ ] 定义清晰的 TypeScript 接口
+- [ ] 集成国际化支持
+- [ ] 使用语义化的 CSS 类名
+- [ ] 支持主题切换
+- [ ] 组件具有良好的可重用性
+- [ ] 适当的性能优化
+- [ ] 错误处理机制
+- [ ] 清理未使用的导入
+- [ ] 遵循组件命名约定

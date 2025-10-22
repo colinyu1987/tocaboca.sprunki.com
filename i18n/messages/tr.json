@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "site_name": "Toca Boca Mod APK",
+    "home_page": {
+      "title": "Toca Boca Mod APK En Son Sürüm İndir 2025 - Her Şey Kilidi Açık Ücretsiz",
+      "description": "Toca Boca Mod APK en son sürüm 2025 indirin. Toca Life World Mod'u her şey kilidi açık, sınırsız para, sınırsız mobilya, sınırsız hediyeler ile edinin. Android için ücretsiz indirme.",
+      "keywords": "toca boca mod apk, toca boca sınırsız, toca boca sınırsız para, toca boca sınırsız apk, toca boca her şey sınırsız, toca boca sınırsız hediyeler, toca boca sınırsız mobilya, toca boca sınırsız para apk, toca life world mod apk, toca boca apk indir"
+    }
+  },
+  "schema": {
+    "mobileApplication": {
+      "name": "Toca Boca Mod APK",
+      "operatingSystem": "ANDROID",
+      "applicationCategory": "GameApplication",
+      "fileSize": "720MB",
+      "softwareVersion": "v1.116",
+      "datePublished": "2025-01-01",
+      "contentRating": "3-12 Yaş",
+      "description": "Toca Boca Mod APK sınırsız para, mobilya ve hediyelerle. Toca Life World Mod'u tüm içerikler kilidi açık olarak indirin - 8 konum, 40'tan fazla karakter, 500'den fazla eşya. Android cihazlar için ücretsiz indirme.",
+      "price": "0",
+      "priceCurrency": "USD",
+      "ratingValue": "4.5",
+      "reviewCount": "10000"
+    },
+    "website": {
+      "name": "Toca Boca Mod APK İndir",
+      "description": "Toca Boca Mod APK'yı sınırsız para, mobilya ve hediyelerle indirin. Android için tüm içerikler kilidi açık Toca Life World Mod'u edinin."
+    },
+    "organization": {
+      "name": "Toca Boca Mod APK",
+      "description": "Toca Boca Mod APK için ücretsiz indirme sitesi. Tüm içerikler kilidi açık Toca Life World modifiye sürümlerini sunar."
+    }
+  },
+  "not-found": {
+    "404_title": "Sayfa Bulunamadı",
+    "404_description": "Aradığınız sayfa mevcut değil.",
+    "back_home": "Ana Sayfaya Dön"
+  },
+  "common": {
+    "social": {
+      "shareLabel": "Bu sayfayı paylaş",
+      "defaultTitle": "Toca Boca Mod APK - En Son Sürümü İndir",
+      "defaultDescription": "Sınırsız para, mobilya ve hediyelerle Toca Life World mod'u edinin. Tüm içerik ücretsiz kilidi açık",
+      "shareOn": "{{platform}} üzerinde paylaş",
+      "shareSuccess": "{{platform}} üzerinde başarıyla paylaşıldı!",
+      "shareFailed": "Paylaşma başarısız, lütfen tekrar deneyin",
+      "copyLink": "Bağlantıyı kopyala",
+      "linkCopied": "Bağlantı panoya kopyalandı!",
+      "copyFailed": "Bağlantı kopyalanamadı",
+      "share": "Paylaş"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Toca Boca Mod APK",
+      "subtitle": "Toca Life World Mod İndir - Sınırsız Para, Mobilya ve Hediyeler",
+      "version": "v1.116",
+      "size": "720 MB",
+      "updated": "2025",
+      "latestVersion": "En Son Sürüm",
+      "downloadButton": "Toca Boca Mod İndir",
+      "downloadCount": "Dosya Boyutu: 720 MB | Android 5.0+",
+      "features": {
+        "unlocked": "Tüm İçerikler Kilidi Açık",
+        "money": "Sınırsız Para",
+        "ads": "Reklamlar Kaldırıldı",
+        "free": "Ücretsiz İndirme"
+      }
+    },
+    "modVersions": {
+      "title": "Mevcut Toca Boca Mod Sürümleri",
+      "subtitle": "Premium içerikleri açılmış çeşitli Toca Boca oyunları",
+      "downloadButton": "İndir",
+      "lifeWorld": {
+        "title": "Toca Life World Mod",
+        "description": "8'den fazla konum ve 40'tan fazla karakter içeren ana Toca Boca oyunu. Tüm evler, mobilyalar ve eşyalar kilidi açık. Açık uçlu yaratıcı oynanış.",
+        "version": "v1.116",
+        "size": "720 MB",
+        "badge": "Ana Sürüm"
+      },
+      "kitchen": {
+        "title": "Toca Kitchen Mod",
+        "description": "Tüm mutfak araçları kilidi açık orijinal yemek pişirme oyunu. Yaratıcı yemek hazırlama oynanışı.",
+        "version": "v1.9.5",
+        "size": "38 MB",
+        "badge": "Mutfak Teması"
+      },
+      "kitchen2": {
+        "title": "Toca Kitchen 2 Mod",
+        "description": "Daha fazla malzeme ve araçlarla geliştirilmiş yemek pişirme oyunu. Tüm tarifler ve mutfak ekipmanları kilidi açık.",
+        "version": "v2.1.3",
+        "size": "45 MB",
+        "badge": "Mutfak Teması"
+      },
+      "hairSalon": {
+        "title": "Toca Hair Salon 4 Mod",
+        "description": "Tüm araçlar ve aksesuarlar kilidi açık kuaför oyunu. Birden fazla saç stili, renk ve dekorasyon mevcut.",
+        "version": "v1.8.2",
+        "size": "68 MB",
+        "badge": "Stil Teması"
+      },
+      "doctor": {
+        "title": "Toca Doctor Mod",
+        "description": "Tüm araçlar kilidi açık tıbbi simülasyon. Çeşitli rahatsızlıkları tedavi eden doktor olarak oynayın. Tüm içerikler erişilebilir.",
+        "version": "v1.3.1",
+        "size": "52 MB",
+        "badge": "Tıp Teması"
+      },
+      "jr": {
+        "title": "Toca Boca Jr Mod",
+        "description": "3-5 yaş için basitleştirilmiş sürüm. Tüm özellikler kilidi açık temel oynanış. Reklamsız arayüz.",
+        "version": "v1.2.0",
+        "size": "38 MB",
+        "badge": "3-5 Yaş"
+      },
+      "town": {
+        "title": "Toca Town Mod",
+        "description": "Mağazalar, restoranlar ve evlerle kasabayı keşfedin. Tüm konumlar ve karakterler kilidi açık.",
+        "version": "v1.5.4",
+        "size": "42 MB",
+        "badge": "Kasaba Teması"
+      },
+      "city": {
+        "title": "Toca City Mod",
+        "description": "Şehir konumlarıyla kentsel keşif oyunu. Tüm binalar ve araçlar erişilebilir.",
+        "version": "v1.6.2",
+        "size": "48 MB",
+        "badge": "Şehir Teması"
+      },
+      "hospital": {
+        "title": "Toca Hospital Mod",
+        "description": "Tüm bölümler kilidi açık tıp merkezi simülasyonu. Eksiksiz hastane ekipmanları mevcut.",
+        "version": "v1.4.1",
+        "size": "50 MB",
+        "badge": "Tıp Teması"
+      },
+      "office": {
+        "title": "Toca Office Mod",
+        "description": "Tüm ofis alanları kilidi açık işyeri simülasyonu. Profesyonel rol yapma aktiviteleri.",
+        "version": "v1.3.5",
+        "size": "39 MB",
+        "badge": "Ofis Teması"
+      },
+      "pets": {
+        "title": "Toca Pets Mod",
+        "description": "Tüm hayvanlar kilidi açık evcil hayvan bakımı simülasyonu. Eksiksiz evcil hayvan aksesuarları ve oyuncakları mevcut.",
+        "version": "v1.7.0",
+        "size": "55 MB",
+        "badge": "Evcil Hayvan Teması"
+      },
+      "nature": {
+        "title": "Toca Nature Mod",
+        "description": "Doğa keşfi ve ekosistem oluşturma. Tüm bitkiler, hayvanlar ve çevreler kilidi açık.",
+        "version": "v1.5.8",
+        "size": "62 MB",
+        "badge": "Doğa Teması"
+      },
+      "school": {
+        "title": "Toca School Mod",
+        "description": "Sınıflar ve aktivitelerle okul simülasyonu. Tüm eğitim içeriği kilidi açık.",
+        "version": "v1.6.3",
+        "size": "47 MB",
+        "badge": "Okul Teması"
+      },
+      "boo": {
+        "title": "Toca Boo Mod",
+        "description": "Eğlenceli saklambaç oyunu. Yaratıcı oyun için tüm karakterler ve konumlar kilidi açık.",
+        "version": "v1.2.8",
+        "size": "35 MB",
+        "badge": "Eğlence Teması"
+      },
+      "elements": {
+        "title": "Toca Lab Elements Mod",
+        "description": "Kimyasal elementlerle bilim keşif oyunu. Tüm deneyler ve araçlar kilidi açık.",
+        "version": "v1.4.6",
+        "size": "41 MB",
+        "badge": "Bilim Teması"
+      },
+      "labPlants": {
+        "title": "Toca Lab Plants Mod",
+        "description": "Bitki deneyleriyle botanik bilim oyunu. Tüm bitkiler, araçlar ve laboratuvar ekipmanı kilidi açık.",
+        "version": "v1.3.2",
+        "size": "44 MB",
+        "badge": "Biyoloji Teması"
+      }
+    },
+    "whatIsMod": {
+      "title": "Toca Boca Mod APK Nedir?",
+      "intro": "Toca Boca Mod APK, tüm premium içeriklerin kilidini açan modifiye bir sürümdür. Ödeme yapmadan sınırsız para, sınırsız mobilya, sınırsız hediyeler ve tüm özelliklere, karakterlere ve konumlara erişim sunar.",
+      "features": [
+        {
+          "title": "Her Şey Sınırsız Kilidi Açık",
+          "description": "Tüm evler, sınırsız mobilyalar, karakterler ve aksesuarlar kurulumdan itibaren erişilebilir. Toca Boca evlerine ve konumlarına sınırsız erişim dahildir."
+        },
+        {
+          "title": "Reklam Kaldırma",
+          "description": "Ücretsiz resmi sürümdeki reklamlar kaldırılmıştır. Oyun deneyimi reklam kesintileri olmadan devam eder."
+        },
+        {
+          "title": "Sınırsız Para ve Hediyeler",
+          "description": "Sınırsız oyun içi para birimi (coin/gem) ve sınırsız hediyeler sağlanmıştır. Toca Boca Sınırsız Para APK, kısıtlama olmadan eşya satın alma ve özelleştirme yapmanıza olanak tanır."
+        }
+      ],
+      "difference": "Toca Boca Sınırsız Mod, sınırsız kaynaklarla tüm içeriklere ücretsiz erişim sağlarken, resmi uygulama premium konumlar, karakterler ve eşyalar için uygulama içi satın alımlar gerektirir. Temel oynanış mekaniği aynı kalır."
+    },
+    "aboutGame": {
+      "title": "Toca Boca Life World Oyunu Hakkında",
+      "image": "/placeholder/toca-life-world-overview.jpg",
+      "imageAlt": "Renkli konumlar ve karakterlerle Toca Life World oyun genel görünümü",
+      "company": {
+        "heading": "Oyun Geliştirici",
+        "text": "Toca Boca, Spin Master'a ait bir çocuk uygulamaları geliştiricisidir. 2010 yılında İsveç'te kurulan şirket, dünya çapında 500 milyondan fazla indirmeye sahip 40'tan fazla uygulama yayınlamıştır."
+      },
+      "vision": {
+        "heading": "Tasarım Felsefesi",
+        "text": "Toca Boca oyunları açık uçlu oyun tasarımı kullanır. Oynanışta kural, puan veya zaman sınırı bulunmaz. Oyuncular önceden tanımlanmış hedefler olmadan kendi hikayelerini yaratırlar."
+      },
+      "audience": {
+        "heading": "Hedef Kitle",
+        "text": "Oyunlar 3-12 yaş arası çocuklar için tasarlanmıştır. Toca Life World özellikle rol yapma ve simülasyonla ilgilenen 6-12 yaş arası çocukları hedefler. Dokunmatik tabanlı kontroller çocuk kullanıcılar için tasarlanmıştır."
+      },
+      "popularity": {
+        "heading": "Oyun Özellikleri",
+        "text": "Oyunlar çeşitli karakter tasarımları sergiler ve klişe betimlemelerden kaçınır. Oyuncular oyun içeriğiyle etkileşimde özgürlüğe sahiptir. Ücretli sürümler reklam içermez. Oyunlar renkli bir sanat stili kullanır ve interaktif elementler içerir."
+      }
+    },
+    "safety": {
+      "title": "Güvenlik Bilgileri",
+      "subtitle": "Mod APK dosyaları için güvenlik değerlendirmeleri",
+      "importantLabel": "Önemli:",
+      "bottomNote": "Her zaman güvenilir kaynaklardan indirin ve kurulumdan önce dosya bütünlüğünü doğrulayın. Cihaz güvenlik yazılımınızı güncel tutun.",
+      "safe1": {
+        "title": "APK Dosya Güvenliği",
+        "description": "Modifiye APK dosyaları kurulumdan önce antivirüs yazılımı ile taranmalıdır. Dosya bütünlüğünü doğrulamak için güvenilir antivirüs araçları kullanın."
+      },
+      "safe2": {
+        "title": "Veri Toplama",
+        "description": "Bu mod, orijinal uygulamada var olanın ötesinde ek veri toplama eklemez. Kilidi açık içeriklere erişim için giriş yapma gerekmez."
+      },
+      "safe3": {
+        "title": "Çevrimdışı İşlevsellik",
+        "description": "Oyun kurulumdan sonra çevrimdışı çalışır. Oynanış için internet bağlantısı gerekmez. Orijinal çevrimdışı özellikler işlevsel kalır."
+      },
+      "safe4": {
+        "title": "Cihaz Uyumluluğu",
+        "description": "Android 5.0 ve daha yeni sürümlerde test edilmiştir. Performans cihaz özelliklerine göre değişir. Yaklaşık 150 MB boş depolama alanı gerektirir."
+      },
+      "safe5": {
+        "title": "İçerik Derecelendirmesi",
+        "description": "Toca Boca oyunları 3-12 yaş için tasarlanmıştır. İçerik mod sürümünde yaşa uygun kalır. Şiddetli veya yetişkin temaları yoktur."
+      },
+      "safe6": {
+        "title": "Kurulum Değerlendirmeleri",
+        "description": "Mod APK'lar resmi sürümlerle birlikte yüklenemez. Android ayarlarında 'Bilinmeyen Kaynaklar' etkinleştirilmesini gerektirir. Resmi güncellemeler desteklenmez."
+      }
+    },
+    "latestVersion": {
+      "title": "Toca Boca Mod İndir - En Son Sürüm APK 2025",
+      "currentVersion": "v1.116",
+      "releaseDate": "2025",
+      "fileSize": "720 MB",
+      "requirements": "Android 5.0+",
+      "updates": [
+        {
+          "title": "Apartman Konumu Eklendi",
+          "description": "4 katlı ve 8 odalı yeni konut binası konumu. Mobilyalar ve interaktif eşyalar içerir."
+        },
+        {
+          "title": "Karakter Eklemeleri",
+          "description": "Kıyafet seçenekleri ve aksesuarlarla 6 yeni karakter eklendi. Tüm karakterler mod sürümünde kilidi açık."
+        },
+        {
+          "title": "Mobilya Genişlemesi",
+          "description": "100'den fazla yeni mobilya parçası eklendi: mutfak setleri, yatak odası eşyaları, banyo armatürleri ve oturma odası mobilyaları."
+        },
+        {
+          "title": "Teknik Güncellemeler",
+          "description": "Eski cihazlarda geliştirilmiş performans için oyun motoru optimizasyonu. Azaltılmış yükleme süreleri ve hata düzeltmeleri dahildir."
+        }
+      ],
+      "changelog": {
+        "title": "Sürüm Geçmişi",
+        "versions": [
+          {
+            "version": "v1.116",
+            "date": "2025",
+            "changes": "Yeni apartman, 6 karakter, 100+ mobilya"
+          },
+          {
+            "version": "v1.92.0",
+            "date": "Ara 2024",
+            "changes": "Kış tatili eşyaları ve dekorasyonları"
+          },
+          {
+            "version": "v1.90.0",
+            "date": "Kas 2024",
+            "changes": "Alışveriş merkezi konum genişlemesi"
+          }
+        ]
+      }
+    },
+    "gameFeatures": {
+      "title": "Toca Boca Oyun Özellikleri",
+      "subtitle": "Temel oynanış elementleri",
+      "feature1": {
+        "title": "8'den Fazla Oyun Konumu",
+        "description": "Birden fazla konum mevcut: ev, okul, alışveriş merkezi, yemek alanı, kuaför, ofis, apartman ve diğerleri. Her konum interaktif nesneler içerir.",
+        "keywords": "konumlar, keşif, interaktif"
+      },
+      "feature2": {
+        "title": "40'tan Fazla Oynanabilir Karakter",
+        "description": "Farklı yaş gruplarını, etnisiteleri ve stilleri temsil eden çeşitli tasarımlara sahip 40'tan fazla karakter. Karakter görünümü, kıyafetler ve aksesuarlar özelleştirilebilir.",
+        "keywords": "karakterler, çeşitlilik, özelleştirme"
+      },
+      "feature3": {
+        "title": "Açık Uçlu Oynanış",
+        "description": "Oyun önceden tanımlanmış kural veya hedef içermez. Oyuncular rol yapma mekanikleri aracılığıyla kendi senaryolarını ve hikayelerini yaratırlar.",
+        "keywords": "yaratıcı oyun, hikaye anlatımı, hayal gücü"
+      },
+      "feature4": {
+        "title": "Çocuk Dostu Tasarım",
+        "description": "Çocuklar için tasarlanan resmi sürüm: ücretli sürümde üçüncü taraf reklam yok, sosyal medya bağlantıları yok. Mod sürümü uygulama içi satın alma istemlerini kaldırır.",
+        "keywords": "güvenli, çocuk dostu, ebeveyn kontrolü"
+      }
+    },
+    "modFeatures": {
+      "title": "Toca Boca Mod APK Özellikleri",
+      "subtitle": "Sınırsız para, mobilya ve hediyeler dahil",
+      "image": "/placeholder/toca-mod-unlocked.jpg",
+      "imageAlt": "Tüm konumlar ve eşyalar kilidi açık Toca Boca Sınırsız Mod",
+      "features": [
+        {
+          "title": "Tüm İçerikler Kilidi Açık",
+          "description": "Tüm 8 konum, 40'tan fazla karakter, 500'den fazla mobilya parçası ve eşya kurulumdan itibaren erişilebilir. Uygulama içi satın alım gerekmez.",
+          "icon": "unlock"
+        },
+        {
+          "title": "Sınırsız Para ve Para Birimi",
+          "description": "Sınırsız oyun içi para birimi (coin/gem) sağlanmıştır. Tüm eşyalar para birimi kısıtlaması olmadan satın alınabilir. Toca Boca Sınırsız Para APK sürümü.",
+          "icon": "money"
+        },
+        {
+          "title": "Reklam Kaldırma",
+          "description": "Ücretsiz resmi sürümdeki reklamlar kaldırılmıştır. Bu modifiye sürümde açılır, video veya banner reklam bulunmaz.",
+          "icon": "shield"
+        },
+        {
+          "title": "Sınırsız Hediyeler ve Premium İçerik",
+          "description": "Tüm premium konumlar, karakterler, sınırsız hediyeler, eşyalar ve mevsimsel içerikler dahildir. Ayrı DLC satın alımı gerekmez.",
+          "icon": "gift"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Toca Boca Mod APK vs Orijinal",
+      "subtitle": "Mod sürüm karşılaştırması",
+      "featureLabel": "Özellik",
+      "modVersion": "Mod Sürüm",
+      "original": "Orijinal Sürüm",
+      "swipeHint": "← Karşılaştırma için kaydır →",
+      "bottomNote": "Mod ve orijinal sürüm arasında özellik karşılaştırması",
+      "downloadButton": "Toca Boca Mod İndir",
+      "features": [
+        {
+          "feature": "Fiyat",
+          "mod": "%100 Ücretsiz",
+          "original": "$4.99 + Uygulama içi satın alımlar"
+        },
+        {
+          "feature": "Tüm Konumlar Kilidi Açık",
+          "mod": "Evet - 8 Konum",
+          "original": "Kısmi - 1 ücretsiz, 7 ücretli"
+        },
+        {
+          "feature": "Tüm Karakterler Mevcut",
+          "mod": "Evet - 40+ Karakter",
+          "original": "Sınırlı - 8 ücretsiz karakter"
+        },
+        {
+          "feature": "Mobilya ve Eşyalar",
+          "mod": "Tüm 500+ Eşya Ücretsiz",
+          "original": "Çoğu eşya satın alım gerektirir"
+        },
+        {
+          "feature": "Oyun Para Birimi",
+          "mod": "Sınırsız Para",
+          "original": "Sınırlı, daha fazla satın almalısınız"
+        },
+        {
+          "feature": "Reklamlar",
+          "mod": "Reklam Yok",
+          "original": "Ücretsiz sürümde reklamlar var"
+        },
+        {
+          "feature": "Premium İçerik",
+          "mod": "Her Şey Ücretsiz Dahil",
+          "original": "Ücretli DLC gerekli"
+        },
+        {
+          "feature": "Oyun Güncellemeleri",
+          "mod": "Düzenli Mod Güncellemeleri",
+          "original": "Otomatik App Store güncellemeleri"
+        }
+      ]
+    },
+    "howToDownload": {
+      "title": "Toca Boca Mod APK Nasıl İndirilir",
+      "subtitle": "Toca Boca Mod APK indirme adımları",
+      "image": "/placeholder/download-button.jpg",
+      "imageAlt": "Toca Boca Mod APK indirme butonu",
+      "steps": [
+        {
+          "title": "Bilinmeyen Kaynakları Etkinleştir",
+          "description": "Ayarlar > Güvenlik > Bilinmeyen Kaynaklar'a gidin ve bu seçeneği etkinleştirin. Bu ayar Android'in Google Play Store dışındaki kaynaklardan APK dosyaları yüklemesine izin verir."
+        },
+        {
+          "title": "APK Dosyasını İndir",
+          "description": "Bu sayfadaki indirme butonuna tıklayın. APK dosyası (720 MB) cihazınıza indirilecektir. Devam etmeden önce indirme işleminin tamamlanmasını bekleyin."
+        },
+        {
+          "title": "İndirilen Dosyayı Bul",
+          "description": "Cihazınızın İndirilenler klasörünü açın veya bildirim panelini kontrol edin. 'TocaBoca_Mod_v1.95.apk' adlı dosyayı bulun ve kurulumu başlatmak için üzerine dokunun."
+        },
+        {
+          "title": "Uygulamayı Yükle",
+          "description": "Android bir kurulum onay ekranı gösterecektir. 'Yükle' seçeneğine dokunun ve kurulum işleminin tamamlanmasını bekleyin."
+        }
+      ]
+    },
+    "howToInstall": {
+      "title": "Toca Boca Mod APK Nasıl Kurulur",
+      "subtitle": "Kurulum talimatları",
+      "image": "/placeholder/install-screen.jpg",
+      "imageAlt": "Toca Boca Mod kurulum ekranı",
+      "steps": [
+        {
+          "title": "Sistem Gereksinimlerini Kontrol Et",
+          "description": "Gerekli özellikler: Android 5.0 veya üzeri, 150 MB boş depolama alanı, en az 2 GB RAM. 2018 veya sonrasında üretilen çoğu cihaz bu gereksinimleri karşılar."
+        },
+        {
+          "title": "Resmi Sürümü Kaldır",
+          "description": "Resmi Toca Boca uygulaması yüklüyse, devam etmeden önce kaldırın. Mod ve resmi sürümler aynı cihazda aynı anda bulunamaz."
+        },
+        {
+          "title": "Kurulum İzinlerini Ver",
+          "description": "Android kurulum sırasında izinler isteyebilir. Mod, oyun ilerlemesini kaydetmek için depolama erişimine ihtiyaç duyar. İzin vermeden önce izin isteklerini gözden geçirin."
+        },
+        {
+          "title": "Uygulamayı Başlat",
+          "description": "Kurulum tamamlandıktan sonra, ana ekranınızda Toca Boca simgesini bulacaksınız. Tüm kilidi açık içeriklere erişmek için uygulamayı açın."
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Toca Boca Nasıl Oynanır",
+      "subtitle": "Temel oynanış talimatları",
+      "image": "/placeholder/gameplay-tutorial.jpg",
+      "imageAlt": "Toca Boca oynanış eğitimi",
+      "basics": [
+        {
+          "title": "Konum Seç",
+          "description": "Dünya haritasından 8 mevcut konumdan birini seçin. Her konum farklı aktivite ortamları sunar: ev, alışveriş merkezi, okul ve diğerleri. Tüm konumlar mod sürümünde kilidi açık."
+        },
+        {
+          "title": "Karakter Seç",
+          "description": "Karakter menüsünden karakterler seçin (40+ mevcut). Karakterleri sahneye sürükleyin. Aynı anda birden fazla karakter aktif olabilir. Karaktere dokunarak ve kıyafet seçerek karakter kıyafetlerini özelleştirin."
+        },
+        {
+          "title": "İnteraktif Nesneleri Kullan",
+          "description": "Etkileşimleri tetiklemek için nesnelere dokunun - buzdolaplarını açın, cihazları etkinleştirin, eşyaları manipüle edin. Oyundaki çoğu nesne oyuncu girdilerine tepki verir. Kullanmak için eşyaları karakterlerin ellerine sürükleyin."
+        },
+        {
+          "title": "Serbest Oyun",
+          "description": "Görev veya hedef bulunmaz. Oyuncular karakter etkileşimi ve nesne manipülasyonu yoluyla senaryolar yaratırlar. Oyun açık uçlu rol yapma aktivitelerini destekler."
+        }
+      ]
+    },
+    "screenshots": {
+      "title": "Toca Boca Mod APK Ekran Görüntüleri",
+      "subtitle": "Oyun arayüzü örnekleri",
+      "images": [
+        {
+          "title": "Konum Erişimi",
+          "description": "Tüm 8 konum ilk başlatmadan itibaren erişilebilir. Ek kilit açma gerekmez.",
+          "image": "/images/home/tocaboca-unblocked-all-locations.webp"
+        },
+        {
+          "title": "Karakter Seçenekleri",
+          "description": "Özelleştirme özellikleriyle 40'tan fazla karakter. Giysiler ve aksesuarlar kilidi açık.",
+          "image": "/images/home/tocaboca-unbloced-all-charaters.jpg"
+        },
+        {
+          "title": "Oda Dekorasyonu",
+          "description": "Oda dekorasyonu için 500'den fazla mobilya parçası mevcut. Tüm eşyalar mod sürümünde erişilebilir.",
+          "image": "/images/home/tocaboca-free-furnitures.jpg"
+        },
+        {
+          "title": "İnteraktif Elementler",
+          "description": "Tüm oyun konumlarında interaktif nesneler mevcut. Birden fazla eşya oyuncu etkileşimine tepki verir.",
+          "image": "/images/home/tocaboca-unblocked-all-elements.jpg"
+        }
+      ]
+    },
+    "troubleshooting": {
+      "title": "Yaygın Sorunları Çözme",
+      "subtitle": "Sık karşılaşılan sorunlar için çözümler",
+      "bottomNote": "Hala sorun mu yaşıyorsunuz? Daha fazla yardım için SSS bölümüne bakın.",
+      "issue1": {
+        "problem": "Kurulum Başarısız Oldu veya Engellendi",
+        "solution": "Ayarlar > Güvenlik'te 'Bilinmeyen Kaynaklar'ın etkin olduğundan emin olun. Hala engelleniyorsa, dosya bozuk olabilir ve yeniden indirmeyi deneyin. Bazı antivirüs uygulamaları modları yanlışlıkla işaretler - kurulum sırasında geçici olarak devre dışı bırakın."
+      },
+      "issue2": {
+        "problem": "Uygulama Sürekli Çöküyor",
+        "solution": "Uygulama önbelleğini temizleyin: Ayarlar > Uygulamalar > Toca Boca > Önbelleği Temizle. En az 150 MB boş depolama alanınız olduğundan emin olun. Cihazınızı yeniden başlatın ve tekrar deneyin. Varsa en son mod sürümüne güncelleyin."
+      },
+      "issue3": {
+        "problem": "Tüm İçerikler Kilidi Açık Değil",
+        "solution": "Mod sürümünü indirdiğinizi doğrulayın (dosya boyutu 720 MB olmalı). Sayfamızdan silin ve yeniden yükleyin. Bazı konumlar kilitli görünür ancak aslında erişilebilirdir - yeniden dokunmayı deneyin."
+      },
+      "issue4": {
+        "problem": "Oyun Açılmıyor",
+        "solution": "Android sürümünü kontrol edin (5.0+ gerekli). Yüklüyse resmi Toca Boca'yı kaldırın. Mod APK'yı yeniden yükleyin. Sorun devam ederse, cihazınız uyumlu olmayabilir - başka bir cihazda deneyin."
+      },
+      "issue5": {
+        "problem": "İlerleme Kaydedilmiyor",
+        "solution": "Depolama izinleri verin: Ayarlar > Uygulamalar > Toca Boca > İzinler > Depolama. Yeterli depolama alanı olduğundan emin olun. Oyun sırasında uygulamayı zorla kapatmaktan kaçının."
+      },
+      "issue6": {
+        "problem": "Yavaş Performans veya Gecikme",
+        "solution": "RAM boşaltmak için diğer çalışan uygulamaları kapatın. Cihaz ekran parlaklığını azaltın. Önbelleği düzenli olarak temizleyin. Mod optimize edilmiştir, ancak çok eski cihazlar (2017 öncesi) yavaşlık yaşayabilir."
+      }
+    },
+    "guides": {
+      "title": "Faydalı Kılavuzlar",
+      "subtitle": "Bölümlere hızlı navigasyon",
+      "readMore": "Daha Fazla Oku",
+      "whatIs": {
+        "title": "Toca Boca Mod Nedir?",
+        "excerpt": "Mod sürümünü orijinal uygulamadan ayıran şeyleri öğrenin."
+      },
+      "about": {
+        "title": "Toca Life World Hakkında",
+        "excerpt": "Oyunun geçmişini, geliştiricisini ve neden bu kadar popüler olduğunu keşfedin."
+      },
+      "download": {
+        "title": "Nasıl İndirilir",
+        "excerpt": "Android cihazlar için adım adım indirme kılavuzu."
+      },
+      "install": {
+        "title": "Kurulum Kılavuzu",
+        "excerpt": "Sistem gereksinimleriyle tam kurulum talimatları."
+      },
+      "play": {
+        "title": "Nasıl Oynanır",
+        "excerpt": "Yeni başlayanlar için oynanış temelleri ve ipuçları."
+      },
+      "troubleshoot": {
+        "title": "Sorun Giderme",
+        "excerpt": "Yaygın kurulum ve oynanış sorunları için çözümler."
+      }
+    },
+    "useCases": {
+      "title": "Toca Boca Mod'u Kimler Kullanır?",
+      "subtitle": "Modifiye sürümler için yaygın kullanıcı grupları",
+      "socialMedia": {
+        "title": "6-12 Yaş Arası Çocuklar",
+        "description": "Toca oyunları için birincil yaş grubu. Mod, ebeveynler tarafından uygulama içi satın alım gerektirmeden tüm içeriklere erişim sağlar.",
+        "keywords": "çocuklar, kids, yaratıcı oyun"
+      },
+      "business": {
+        "title": "Ebeveynler ve Aileler",
+        "description": "Sürekli satın alımlar olmadan tam sürüm arayan ebeveynler. Mod, ücretsiz resmi sürümdeki reklamları ortadan kaldırır.",
+        "keywords": "ebeveynler, aileler, maliyet tasarrufu"
+      },
+      "creators": {
+        "title": "İçerik Oluşturucular",
+        "description": "Tam oynanışı gösteren video oluşturucuları. Mod, kapsamlı demolar ve incelemeler için tüm içeriklere erişim sağlar.",
+        "keywords": "YouTuber'lar, yayıncılar, içerik"
+      },
+      "teams": {
+        "title": "Eğitimciler",
+        "description": "Toca oyunlarını hikaye anlatımı ve rol yapma aktiviteleri için kullanan öğretmenler. Mod, sınıf kullanımı için maliyet engelini ortadan kaldırır.",
+        "keywords": "eğitim, öğretmenler, sınıf"
+      },
+      "personal": {
+        "title": "Küçük Çocuklar (3-5 Yaş)",
+        "description": "Okul öncesi yaş kullanıcılar. Mod, küçük çocukların bağımsız olarak gezinmesinin zor olduğu satın alma istemlerini kaldırır.",
+        "keywords": "yürümeye başlayan çocuklar, okul öncesi, basit arayüz"
+      },
+      "education": {
+        "title": "Tamamlayıcılar",
+        "description": "Tüm oyun elementlerine erişim isteyen kullanıcılar. Mod, kademeli satın alımlar olmadan tüm içerik kütüphanesinin kilidini açar.",
+        "keywords": "koleksiyoncular, tamamlayıcılar, tam erişim"
+      },
+      "ctaDescription": "Kurulumdan itibaren tüm içeriklere erişilebilen modifiye sürüm.",
+      "ctaButton": "APK İndir"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Toca Boca Mod APK hakkında yaygın sorular",
+      "q1": {
+        "question": "Toca Boca Mod APK nedir?",
+        "answer": "Toca Boca Mod APK, tüm premium içeriklerin kilidini açan Toca Life World'ün modifiye bir sürümüdür. Sınırsız para, sınırsız mobilya, sınırsız hediyeler, tüm konumlar, karakterler ve eşyaları içerir. Her şey kilidi açık ve reklamsız Toca Boca Mod."
+      },
+      "q2": {
+        "question": "Toca Boca Mod APK indirmek güvenli mi?",
+        "answer": "Modifiye APK dosyaları, resmi uygulama mağazası indirmelerinde olmayan doğal riskler taşır. Bu mod, orijinal uygulamanın ötesinde ek kişisel veri toplamaz. Dosya kurulumdan önce antivirüs yazılımı ile taranmalıdır. İlk indirmeden sonra çevrimdışı çalışır. Üçüncü taraf modlar için resmi güvenlik incelemesi mevcut değildir."
+      },
+      "q3": {
+        "question": "Toca Boca Mod APK nasıl indirilir?",
+        "answer": "İndirme adımları:\n\n1. Ayarlar > Güvenlik'te 'Bilinmeyen Kaynaklar'ı etkinleştirin\n2. APK dosyasını indirin (720 MB)\n3. İndirilenler klasörünü açın ve APK dosyasına dokunun\n4. 'Yükle' seçeneğine dokunun ve tamamlanmasını bekleyin\n\n150 MB boş depolama alanı ve Android 5.0 veya üzeri gerektirir."
+      },
+      "q4": {
+        "question": "Toca Boca Mod internet gerektirir mi?",
+        "answer": "Kurulumdan sonra internet bağlantısı gerekmez. Tüm içerik cihazda yerel olarak saklanır. Oynanış tamamen çevrimdışı çalışır."
+      },
+      "q5": {
+        "question": "Mod ile orijinal arasındaki fark nedir?",
+        "answer": "Ana farklar:\n\n• Fiyat: Mod ücretsiz, orijinal $4.99 artı uygulama içi satın alımlar\n• İçerik: Mod'da her şey kilidi açık, orijinal premium içerik için ödeme gerektirir\n• Para birimi: Mod sınırsız oyun parası sunar, orijinal coin satın alımı gerektirir\n• Reklamlar: Mod reklamları kaldırır, ücretsiz orijinal sürüm reklam içerir\n• Güncellemeler: Mod manuel kurulum gerektirir, orijinal App Store üzerinden güncellenir\n\nTemel oynanış mekanikleri aynıdır."
+      },
+      "q6": {
+        "question": "Toca Boca Mod cihazımda çalışır mı?",
+        "answer": "Sistem gereksinimleri:\n\n• Android 5.0 (Lollipop) veya üzeri\n• 150 MB boş depolama alanı\n• En az 2 GB RAM\n• ARM veya ARM64 işlemci\n\niOS/iPhone desteklenmez. 2018'den itibaren çoğu Android cihazla uyumludur."
+      },
+      "q7": {
+        "question": "Toca Boca Mod'u birden fazla cihazda oynayabilir miyim?",
+        "answer": "Mod birden fazla Android cihaza kurulabilir. Oyun ilerlemesi cihazlar arasında senkronize olmaz - her kurulum ayrı kayıt verileri tutar. Kayıt dosyalarının manuel transferi teknik bilgi gerektirir."
+      },
+      "q8": {
+        "question": "Mod'da gerçekten her şey kilidi açık mı?",
+        "answer": "Kilidi açık tüm içerik:\n\n• Tüm 8 konum (ev, okul, alışveriş merkezi, yemek alanı, kuaför, ofis, apartman, park)\n• Tüm 40+ karakter özelleştirme seçenekleriyle\n• Tüm 500+ mobilya ve dekorasyon eşyası\n• Tüm giysiler, aksesuarlar ve özel eşyalar\n• Sınırsız oyun para birimi\n• Mevsimsel ve tatil içerikleri\n\nHerhangi bir içerik için ek ödeme gerekmez."
+      },
+      "q9": {
+        "question": "Dosya boyutu neden orijinalden daha büyük?",
+        "answer": "Mod APK (720 MB) tüm premium içerikleri önceden paketlenmiş içerir. Resmi uygulama, satın alındığında ek içerikleri isteğe bağlı olarak indirir. Mod, ilk kurulum dosyasında her şeyi bir araya getirir."
+      },
+      "q10": {
+        "question": "Toca Boca Mod ne sıklıkla güncellenir?",
+        "answer": "Mod sürümleri genellikle resmi güncellemelerden 1-2 hafta sonra yayınlanır. Güncellemeler manuel indirme ve kurulum gerektirir. Önceki sürümler işlevsel kalır ancak resmi yayınlardan yeni içerik almaz."
+      }
+    },
+    "cta": {
+      "title": "Toca Boca Mod İndir - En Son Güncelleme v1.116 Mevcut",
+      "description": "Toca boca mod apk son güncellemeyi sınırsız para, sınırsız mobilya ve sınırsız hediyelerle indirin",
+      "primaryButton": "Toca Boca Mod İndir",
+      "version": "Sürüm v1.116 (720 MB)",
+      "complianceNotice": "Eğitim kaynağı. Toca Boca veya Spin Master ile bağlantılı değildir. Orijinal telif haklarına saygı gösterir."
+    }
+  }
+}
