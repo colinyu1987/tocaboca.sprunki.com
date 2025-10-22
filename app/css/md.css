@@ -5,7 +5,7 @@
   margin-right: auto;
   padding: 2rem 1rem; /* py-8 px-4 */
   background: var(--card);
-  border-radius: 0.75rem; /* rounded-xl */
+  border-radius: 0.76rem; /* rounded-xl */
   box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); /* shadow */
 }
 
