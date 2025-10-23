@@ -19,7 +19,7 @@
   font-weight: 700; /* font-bold */
   color: var(--foreground);
   margin-top: 2rem; /* mt-8 */
-  margin-bottom: 1rem; /* mb-4 */
+  margin-bottom: 1.1rem; /* mb-4 */
 }
 
 .mdContainer h1 {
